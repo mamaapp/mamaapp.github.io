@@ -83,6 +83,17 @@
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
       "name": "منتجات التجميل"
     }
+    , {
+      "name": "ألعاب الأطفال",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA=="
+  }, {
+      "name": "معدات أطفال",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
+  }
   ],
   "Setting": {
     "MainColor": "#5ec4ee",
@@ -120,7 +131,9 @@
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDY2NzIzOQ==",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDExMDE4Mw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1"
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
       ],
       "icon": "assets\/icons\/categories\/i_layer.png",
       "layout": "category",
