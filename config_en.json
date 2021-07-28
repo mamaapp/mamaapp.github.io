@@ -93,6 +93,12 @@
       "isSnapping": false,
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
   }
+  , {
+    "name": "Baby Clothes",
+    "layout": "threeColumn",
+    "isSnapping": false,
+    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA=="
+}
   ],
   "Setting": {
     "MainColor": "#5ec4ee",
@@ -132,7 +138,9 @@
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDExMDE4Mw==",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1",
         "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA=="
+
       ],
       "icon": "assets\/icons\/categories\/i_layer.png",
       "layout": "category",
