@@ -68,37 +68,59 @@
     {
       "name": "Featured Products",
       "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1"
-    },
-    {
-      "name": "Diapers and Wipes",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
-      "isSnapping": false,
-      "layout": "threeColumn"
-    },
-    {
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
-      "name": "Beauty Products"
-    }, {
-      "name": "Toys",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA=="
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
+      "isSnapping": false
   }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+      "name": "Diapers and Wipes",
+      "layout": "threeColumn",
+      "isSnapping": false
+  }, {
+      "name": "Formula",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz"
+  }, {
+      "name": "Pharmacy",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA=="
+  }, {
+      "name": "Breast Feeding",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
+  }, {
+      "name": "Baby Food",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx"
+  }, {
+      "isSnapping": false,
       "name": "Baby Gears",
       "layout": "threeColumn",
-      "isSnapping": false,
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
+  }, {
+      "name": "Feeding",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg=="
+  }, {
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+      "name": "Toys",
+      "isSnapping": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
+      "isSnapping": false,
+      "layout": "threeColumn",
+      "name": "Baby Clothes"
+  }, {
+      "name": "Beauty Products",
+      "isSnapping": false,
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng=="
   }
-  , {
-    "name": "Baby Clothes",
-    "layout": "threeColumn",
-    "isSnapping": false,
-    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA=="
-}
   ],
   "Setting": {
     "MainColor": "#5ec4ee",
