@@ -1,222 +1,279 @@
 {
     "HorizonLayout": [{
-        "layout": "logo",
         "showMenu": true,
+        "showSearch": true,
         "showLogo": true,
-        "showSearch": true
+        "layout": "logo"
     }, {
-        "line": false,
         "layout": "category",
         "type": "icon",
-        "size": 1.6,
-        "radius": 0,
-        "noBackground": true,
-        "items": [
-            {
-                "colors":["#2196F3",
-                  "#81D4FA"],
-                "originalColor":true,
-                "image":"assets/icons/my/1.png",
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
-                "showText":true
-              },
-              {
-                "colors":["#3E6AB5",
-                  "#3E6AB5"],
-                "image":"assets/icons/my/4.png",
-                "originalColor":true,
-                "showText":true,
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
-              },
-              {
-                "showText":true,
-                "image":"assets/icons/my/5.png",
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
-                "originalColor":true,
-                "colors":["#53A2CC",
-                  "#53A2CC"]
-              },
-              {
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-                "image":"assets/icons/my/8.png",
-                "colors":["#53688A",
-                  "#53688A"],
-                "originalColor":true,
-                "showText":true
-              },
-              {
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
-                "image":"assets/icons/my/9.png",
-                "colors":["#43506A",
-                  "#43506A"],
-                "originalColor":true,
-                "showText":true
-              },
-              {
-                "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
-                "showText":true,
-                "colors":["#12B58C",
-                  "#12B58C"],
-                "originalColor":true,
-                "image":"assets/icons/my/breast-feeding.png"
-              }
-            ],
-        "wrap": false
-       
-    },
-    {
-      "name": "Featured Products",
-      "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
-      "isSnapping": false
-  }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
-      "name": "Diapers and Wipes",
-      "layout": "threeColumn",
-      "isSnapping": false
-  }, {
-      "name": "Formula",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz"
-  }, {
-      "name": "Pharmacy",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA=="
-  }, {
-      "name": "Breast Feeding",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
-  }, {
-      "name": "Baby Food",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx"
-  }, {
-      "isSnapping": false,
-      "name": "Baby Gears",
-      "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
-  }, {
-      "name": "Feeding",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg=="
-  }, {
-      "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
-      "name": "Toys",
-      "isSnapping": false
-  }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
-      "isSnapping": false,
-      "layout": "threeColumn",
-      "name": "Baby Clothes"
-  }, {
-      "name": "Beauty Products",
-      "isSnapping": false,
-      "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng=="
-  }],
+        "wrap": false,
+        "showShortDescription": true,
+        "size": 1.1,
+        "radius": 50.0,
+        "spacing": 5.0,
+        "items": [{
+            "colors":["#2196F3",
+              "#81D4FA"],
+            "originalColor":true,
+            "image":"assets/icons/my/1.png",
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
+            "showText":true
+          },
+          {
+            "colors":["#3E6AB5",
+              "#3E6AB5"],
+            "image":"assets/icons/my/4.png",
+            "originalColor":true,
+            "showText":true,
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
+          },
+          {
+            "showText":true,
+            "image":"assets/icons/my/5.png",
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
+            "originalColor":true,
+            "colors":["#53A2CC",
+              "#53A2CC"]
+          },
+          {
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
+            "image":"assets/icons/my/8.png",
+            "colors":["#53688A",
+              "#53688A"],
+            "originalColor":true,
+            "showText":true
+          },
+          {
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
+            "image":"assets/icons/my/9.png",
+            "colors":["#43506A",
+              "#43506A"],
+            "originalColor":true,
+            "showText":true
+          },
+          {
+            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
+            "showText":true,
+            "colors":["#12B58C",
+              "#12B58C"],
+            "originalColor":true,
+            "image":"assets/icons/my/breast-feeding.png"
+          }],
+        "line": false,
+        "marginLeft": 10.0,
+        "marginRight": 10.0,
+        "marginTop": 10.0,
+        "marginBottom": 10.0,
+        "paddingX": 0.0,
+        "paddingY": 0.0,
+        "marginX": 0.0,
+        "marginY": 0.0,
+        "hideTitle": false,
+        "noBackground": true
+    }, {
+        "layout": "bannerImage",
+        "isSlider": true,
+        "marginTop": 0.0,
+        "marginBottom": 0.0,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "height": 0.2,
+        "fit": "fitWidth",
+        "items": [{
+            "padding": 0.0,
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/IMG_20211018_123450.png?v=1634674284",
+            "category": null
+        }, {
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bottle_feeding.jpg?v=1552652711",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+            "padding": 0.0
+        }],
+        "autoPlay": true,
+        "design": "default",
+        "radius": 0.0,
+        "intervalTime": 3
+    }, {
+        "isSnapping": false,
+        "layout": "threeColumn",
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
+        "name": "Featured Products"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+        "layout": "threeColumn",
+        "isSnapping": false,
+        "name": "Diapers and Wipes"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
+        "isSnapping": false,
+        "layout": "threeColumn",
+        "name": "Formula"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==",
+        "name": "Pharmacy",
+        "layout": "threeColumn",
+        "isSnapping": false
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
+        "layout": "threeColumn",
+        "isSnapping": false,
+        "name": "Breast Feeding"
+    }, {
+        "layout": "threeColumn",
+        "isSnapping": false,
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx",
+        "name": "Baby Food"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
+        "isSnapping": false,
+        "name": "Baby Gears",
+        "layout": "threeColumn"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
+        "name": "Feeding",
+        "layout": "threeColumn",
+        "isSnapping": false
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+        "isSnapping": false,
+        "layout": "threeColumn",
+        "name": "Toys"
+    }, {
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
+        "name": "Baby Clothes",
+        "layout": "threeColumn",
+        "isSnapping": false
+    }, {
+        "name": "Beauty Products",
+        "isSnapping": false,
+        "layout": "threeColumn",
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng=="
+    }],
     "Setting": {
         "MainColor": "#5ec4ee",
         "ProductListLayout": "list",
         "StickyHeader": true,
-        "ProductDetail": "simpleType"
+        "ProductDetail": "simpleType",
+        "TabBarConfig": {
+            "colorCart": "ffec407a",
+            "radiusBottomRight": 0,
+            "marginTop": 0,
+            "TabBarIndicator": {
+                "horizontalPadding": 0,
+                "topLeftRadius": null,
+                "height": null,
+                "distanceFromCenter": null,
+                "paintingStyle": "fill",
+                "radius": null,
+                "topRightRadius": null,
+                "color": "ff4d9cff",
+                "bottomRightRadius": null,
+                "strokeWidth": null,
+                "verticalPadding": null,
+                "tabPosition": "bottom",
+                "bottomLeftRadius": null
+            },
+            "enable": true,
+            "paddingBottom": 0,
+            "boxShadow": {
+                "colorOpacity": 0,
+                "y": 0,
+                "blurRadius": 0,
+                "x": 0,
+                "spreadRadius": 0
+            },
+            "paddingTop": 0,
+            "TabBarFloating": {
+                "elevation": null,
+                "width": null,
+                "radius": null,
+                "height": null,
+                "floatingType": "rectangle",
+                "location": "centerDocked",
+                "position": 2,
+                "color": "ffff672d"
+            },
+            "marginLeft": 0,
+            "colorIcon": "ff626266",
+            "color": null,
+            "isSafeArea": true,
+            "paddingRight": 0,
+            "showFloating": false,
+            "iconSize": 24,
+            "paddingLeft": 0,
+            "colorActiveIcon": "ff4e9ee6",
+            "marginBottom": 0,
+            "radiusTopLeft": 0,
+            "marginRight": 0,
+            "radiusBottomLeft": 0,
+            "indicatorStyle": "material",
+            "radiusTopRight": 0,
+            "showFloatingClip": false
+        },
+        "FontHeader": "ABeeZee"
     },
     "TabBar": [{
+        "key": "aulss3ff6v",
         "layout": "home",
-        "key": "hw8dn0481k",
-        "pos": 100,
-        "icon": "assets/icons/tabs/icon-home.png"
+        "icon": "home",
+        "fontFamily": "CupertinoIcons",
+        "label": null,
+        "pos": 100
     }, {
+        "key": "aulss3ff6v",
         "layout": "category",
-        "icon": "assets/icons/categories/i_layer.png",
+        "icon": "collections",
+        "fontFamily": "CupertinoIcons",
+        "label": null,
         "pos": 200,
-        "categoryLayout": "card",
-        "categories": [
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3OTgxMDMx",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODQ5OTU5",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTQ5NzQwMA==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTk2Mzg3OQ==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDY2NzIzOQ==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDExMDE4Mw==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
-            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA=="
-    
-          ]
+        "categoryLayout": "column",
+        "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODQ5OTU5", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3OTgxMDMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE5NzI4MjMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDExMDE4Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDY2NzIzOQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTk2Mzg3OQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM5MTA3MzM4Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTQ5NzQwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY1NzM1MzQwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY1OTEyMjg3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzEyMDU2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzE1MzMzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MTc4ODIxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzA2NjE2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzEzMTcwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzMyODMxMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTM1NDI5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTMyNjM5Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODQwNjg0MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODUwNTE0NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODY2ODk4NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTQyMjY0OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTcxNzU2MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTkxNDE2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDA0NTI0MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDExMDc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDIwOTA4MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDYwMjI5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDgzMTY3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDkyOTk3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTAyODI4MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTA5MzgxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTYxODEwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTkxMzAxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjA3Njg1Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjIwNzkyOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MzQyMDM0NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDEwODQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDIwNjc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NTU1MDI2NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODEzODkzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODE3MTcwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODIwNDQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTkzMjUwMjIwMA=="],
+        "images": null
     }, {
         "pos": 300,
-        "key": "hw8dn0481k",
-        "icon": "assets/icons/tabs/icon-search.png",
-        "layout": "search"
+        "icon": "search",
+        "fontFamily": "CupertinoIcons",
+        "label": null,
+        "layout": "search",
+        "key": "aulss3ff6v"
     }, {
-        "icon": "assets/icons/tabs/icon-heart.png",
         "layout": "wishlist",
-        "showChat": false,
-        "key": "hw8dn0481k",
-        "pos": 400
+        "fontFamily": "CupertinoIcons",
+        "icon": "heart",
+        "label": null,
+        "pos": 400,
+        "key": "aulss3ff6v"
     }, {
         "layout": "profile",
+        "icon": "profile_circled",
+        "fontFamily": "CupertinoIcons",
+        "label": null,
         "pos": 500,
-        "data": "",
-        "icon": "assets/icons/tabs/icon-user.png",
-        "key": "hw8dn0481k",
-        "showChat": false
-    }, {
-        "icon": "assets/icons/tabs/icon-cart2.png",
-        "layout": "cart",
-        "data": {
-            "id": 1,
-            "subHeader": "MamaApp",
-            "description": "Online Shopping Store in Qatar.",
-            "container": {
-                "height": 0.5,
-                "image": {
-                    "width": 1,
-                    "align": {
-                        "y": 1,
-                        "x": 1
-                    },
-                    "height": 0.5,
-                    "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png"
-                },
-                "header": {
-                    "background": "#000000",
-                    "color": "#FFFFFF",
-                    "padding": {
-                        "horizontal": 20,
-                        "vertical": 10
-                    },
-                    "text": "About US",
-                    "align": {
-                        "y": 0.8,
-                        "x": -1
-                    }
-                }
+        "settings": ["wishlist", "notifications", "language", "darkTheme", "order", "rating", "privacy", "web-6k9gk4qi9h", "about"],
+        "background": null,
+        "subGeneralSetting": {
+            "privacy": {
+                "webUrl": "https://mamaapp.co/policies/privacy-policy",
+                "requiredLogin": false,
+                "webViewMode": true
+            },
+            "web-6k9gk4qi9h": {
+                "webUrl": "https://mamaapp.co/policies/refund-policy",
+                "webViewMode": true,
+                "icon": "news",
+                "title": "Returns and Refunds Policy",
+                "requiredLogin": false,
+                "iconFontFamily": "CupertinoIcons"
             }
         },
-        "key": "hw8dn0481k",
-        "pos": 600,
-        "showChat": true
+        "key": "aulss3ff6v"
+    }, {
+        "key": "aulss3ff6v",
+        "layout": "cart",
+        "icon": "bag",
+        "fontFamily": "CupertinoIcons",
+        "label": null,
+        "pos": 600
     }],
     "Drawer": {
         "logo": "assets/images/logo.png",
@@ -227,15 +284,168 @@
             "type": "blog",
             "show": false
         }, {
-            "type": "login",
-            "show": true
+            "show": true,
+            "type": "login"
         }, {
             "show": true,
             "type": "category"
+        }, {
+            "show": false,
+            "type": "categories"
+        }, {
+            "show": true,
+            "type": "cart"
+        }, {
+            "show": true,
+            "type": "profile"
+        }, {
+            "type": "web",
+            "show": true
+        }],
+        "key": "f50zaxj7dk",
+        "subDrawerItem": {}
+    },
+    "AppBar": {
+        "showOnScreens": ["home", "category", "search", "cart", "page", "profile", "static", "html", "dynamic", "postScreen"],
+        "items": [{
+            "iconSize": 20,
+            "paddingBottom": 4,
+            "key": "kfleowg1w8",
+            "paddingLeft": 4,
+            "paddingTop": 4,
+            "alignment": "center",
+            "fontFamily": "CupertinoIcons",
+            "action": "menu",
+            "paddingRight": 4,
+            "size": 40,
+            "pos": 100,
+            "marginLeft": 16,
+            "type": "icon",
+            "fontSize": 16,
+            "marginBottom": 4,
+            "marginTop": 4,
+            "fontWeight": "400",
+            "textOpacity": 0.5,
+            "icon": "bars",
+            "backgroundColor": "a000000",
+            "marginRight": 4,
+            "radius": 20
+        }, {
+            "action": "none",
+            "textOpacity": 0.5,
+            "fontFamily": "CupertinoIcons",
+            "radius": 24,
+            "paddingBottom": 4,
+            "paddingRight": 4,
+            "fontWeight": "400",
+            "marginLeft": 4,
+            "key": "5irxv743jc",
+            "paddingLeft": 4,
+            "paddingTop": 4,
+            "marginTop": 4,
+            "iconSize": 24,
+            "fontSize": 16,
+            "alignment": "center",
+            "size": 44,
+            "pos": 200,
+            "marginBottom": 4,
+            "icon": "person",
+            "type": "space",
+            "marginRight": 4
+        }, {
+            "size": 44,
+            "action": "home",
+            "image": "assets/images/logo.png",
+            "marginLeft": 4,
+            "type": "image",
+            "fontWeight": "400",
+            "alignment": "center",
+            "paddingRight": 4,
+            "paddingBottom": 4,
+            "pos": 300,
+            "marginRight": 4,
+            "textOpacity": 0.5,
+            "paddingTop": 4,
+            "marginBottom": 4,
+            "marginTop": 4,
+            "fontSize": 16,
+            "iconSize": 24,
+            "fontFamily": "CupertinoIcons",
+            "paddingLeft": 4,
+            "icon": "person",
+            "radius": 0
+        }, {
+            "iconSize": 24,
+            "pos": 400,
+            "paddingRight": 4,
+            "marginLeft": 4,
+            "marginTop": 4,
+            "fontFamily": "CupertinoIcons",
+            "paddingTop": 4,
+            "alignment": "center",
+            "icon": "person",
+            "marginBottom": 4,
+            "marginRight": 4,
+            "fontWeight": "400",
+            "type": "space",
+            "size": 44,
+            "key": "6mxzmy6tfa",
+            "radius": 24,
+            "paddingBottom": 4,
+            "action": "none",
+            "fontSize": 16,
+            "textOpacity": 0.5,
+            "paddingLeft": 4
+        }, {
+            "alignment": "center",
+            "action": "search",
+            "icon": "search",
+            "paddingBottom": 4,
+            "size": 40,
+            "fontFamily": "CupertinoIcons",
+            "radius": 20,
+            "paddingTop": 4,
+            "textOpacity": 0.5,
+            "fontWeight": "400",
+            "marginRight": 4,
+            "key": "9c4x46fa8w",
+            "type": "icon",
+            "paddingLeft": 4,
+            "paddingRight": 4,
+            "marginBottom": 4,
+            "fontSize": 16,
+            "marginTop": 4,
+            "marginLeft": 4,
+            "backgroundColor": "a000000",
+            "iconSize": 20,
+            "pos": 500
+        }, {
+            "fontSize": 16,
+            "size": 40,
+            "textOpacity": 0.5,
+            "paddingLeft": 4,
+            "key": "zektpgnari",
+            "fontWeight": "400",
+            "alignment": "center",
+            "paddingTop": 4,
+            "icon": "shopping_cart",
+            "marginBottom": 4,
+            "radius": 20,
+            "marginRight": 16,
+            "fontFamily": "CupertinoIcons",
+            "iconSize": 20,
+            "type": "icon",
+            "paddingRight": 4,
+            "marginLeft": 4,
+            "marginTop": 4,
+            "backgroundColor": "a000000",
+            "action": "cart",
+            "paddingBottom": 4,
+            "pos": 600
         }]
     },
     "SplashScreen": {
-        "type": "static",
-        "data": "assets/images/splashscreen.png"
+        "data": "assets/images/app_icon.png",
+        "type": "zoomIn"
     }
 }
