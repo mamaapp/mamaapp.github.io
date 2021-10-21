@@ -13,53 +13,42 @@
         "radius": 50.0,
         "spacing": 5.0,
         "items": [{
-            "colors":["#2196F3",
-              "#81D4FA"],
-            "originalColor":true,
-            "image":"assets/icons/my/1.png",
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
-            "showText":true
-          },
-          {
-            "colors":["#3E6AB5",
-              "#3E6AB5"],
-            "image":"assets/icons/my/4.png",
-            "originalColor":true,
-            "showText":true,
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
-          },
-          {
-            "showText":true,
-            "image":"assets/icons/my/5.png",
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
-            "originalColor":true,
-            "colors":["#53A2CC",
-              "#53A2CC"]
-          },
-          {
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-            "image":"assets/icons/my/8.png",
-            "colors":["#53688A",
-              "#53688A"],
-            "originalColor":true,
-            "showText":true
-          },
-          {
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
-            "image":"assets/icons/my/9.png",
-            "colors":["#43506A",
-              "#43506A"],
-            "originalColor":true,
-            "showText":true
-          },
-          {
-            "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
-            "showText":true,
-            "colors":["#12B58C",
-              "#12B58C"],
-            "originalColor":true,
-            "image":"assets/icons/my/breast-feeding.png"
-          }],
+            "colors": ["#2196F3", "#81D4FA"],
+            "originalColor": true,
+            "image": "assets/icons/my/1.png",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
+            "showText": true
+        }, {
+            "colors": ["#3E6AB5", "#3E6AB5"],
+            "image": "assets/icons/my/4.png",
+            "originalColor": true,
+            "showText": true,
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
+        }, {
+            "showText": true,
+            "image": "assets/icons/my/5.png",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+            "originalColor": true,
+            "colors": ["#53A2CC", "#53A2CC"]
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
+            "image": "assets/icons/my/8.png",
+            "colors": ["#53688A", "#53688A"],
+            "originalColor": true,
+            "showText": true
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
+            "image": "assets/icons/my/9.png",
+            "colors": ["#43506A", "#43506A"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
+            "image": "assets/icons/my/breast-feeding.png",
+            "colors": ["#12B58C", "#12B58C"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }],
         "line": false,
         "marginLeft": 10.0,
         "marginRight": 10.0,
@@ -78,16 +67,12 @@
         "marginBottom": 0.0,
         "marginLeft": 0.0,
         "marginRight": 0.0,
-        "height": 0.2,
+        "height": 0.15,
         "fit": "fitWidth",
         "items": [{
             "padding": 0.0,
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/IMG_20211018_123450.png?v=1634674284",
             "category": null
-        }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bottle_feeding.jpg?v=1552652711",
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
-            "padding": 0.0
         }],
         "autoPlay": true,
         "design": "default",
@@ -213,21 +198,70 @@
         "FontHeader": "ABeeZee"
     },
     "TabBar": [{
-        "key": "aulss3ff6v",
+        "key": "ducprtdzqo",
         "layout": "home",
         "icon": "home",
         "fontFamily": "CupertinoIcons",
         "label": null,
         "pos": 100
     }, {
-        "key": "aulss3ff6v",
+        "key": "ducprtdzqo",
         "layout": "category",
         "icon": "collections",
         "fontFamily": "CupertinoIcons",
         "label": null,
         "pos": 200,
         "categoryLayout": "column",
-        "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODQ5OTU5", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3OTgxMDMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE5NzI4MjMx", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDExMDE4Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDY2NzIzOQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTk2Mzg3OQ==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM5MTA3MzM4Mw==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTQ5NzQwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY1NzM1MzQwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY1OTEyMjg3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzEyMDU2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzE1MzMzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MTc4ODIxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzA2NjE2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzEzMTcwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MDE5MzMyODMxMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTM1NDI5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTMyNjM5Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODQwNjg0MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODUwNTE0NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODY2ODk4NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTQyMjY0OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTcxNzU2MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTkxNDE2OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDA0NTI0MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDExMDc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDIwOTA4MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDYwMjI5Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDgzMTY3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDkyOTk3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTAyODI4MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTA5MzgxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTYxODEwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTkxMzAxNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjA3Njg1Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjIwNzkyOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MzQyMDM0NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDEwODQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDIwNjc3Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NTU1MDI2NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODEzODkzNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODE3MTcwNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODIwNDQ3Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTkzMjUwMjIwMA=="],
+        "categories": [
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDAyNDYxMzA0OA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODQwNjg0MA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODUwNTE0NA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODY2ODk4NA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTQyMjY0OA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDA0NTI0MA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTcxNzU2MA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDExMDc3Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDIwOTA4MA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDYwMjI5Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDgzMTY3Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDkyOTk3Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTAyODI4MA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTA5MzgxNg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTYxODEwNA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzEyMDU2OA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTkxMzAxNg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjA3Njg1Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MzQyMDM0NA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDEwODQ3Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDIwNjc3Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NTU1MDI2NA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTM1NDI5Ng==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODEzODkzNg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODE3MTcwNA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODIwNDQ3Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTMyNjM5Mg==",
+            "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTkzMjUwMjIwMA=="
+        ],
         "images": null
     }, {
         "pos": 300,
@@ -235,14 +269,14 @@
         "fontFamily": "CupertinoIcons",
         "label": null,
         "layout": "search",
-        "key": "aulss3ff6v"
+        "key": "ducprtdzqo"
     }, {
         "layout": "wishlist",
         "fontFamily": "CupertinoIcons",
         "icon": "heart",
         "label": null,
         "pos": 400,
-        "key": "aulss3ff6v"
+        "key": "ducprtdzqo"
     }, {
         "layout": "profile",
         "icon": "profile_circled",
@@ -266,9 +300,9 @@
                 "iconFontFamily": "CupertinoIcons"
             }
         },
-        "key": "aulss3ff6v"
+        "key": "ducprtdzqo"
     }, {
-        "key": "aulss3ff6v",
+        "key": "ducprtdzqo",
         "layout": "cart",
         "icon": "bag",
         "fontFamily": "CupertinoIcons",
@@ -276,7 +310,6 @@
         "pos": 600
     }],
     "Drawer": {
-        "logo": "assets/images/logo.png",
         "items": [{
             "show": true,
             "type": "home"
@@ -303,6 +336,7 @@
             "show": true
         }],
         "key": "f50zaxj7dk",
+        "logo": "assets/images/logo.png",
         "subDrawerItem": {}
     },
     "AppBar": {

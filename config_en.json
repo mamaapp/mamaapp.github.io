@@ -14,53 +14,42 @@
       "radius":0,
       "items":[
         {
-          "colors":["#2196F3",
-            "#81D4FA"],
-          "originalColor":true,
-          "image":"assets/icons/my/1.png",
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg==",
-          "showText":true
-        },
-        {
-          "colors":["#3E6AB5",
-            "#3E6AB5"],
-          "image":"assets/icons/my/4.png",
-          "originalColor":true,
-          "showText":true,
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
-        },
-        {
-          "showText":true,
-          "image":"assets/icons/my/5.png",
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
-          "originalColor":true,
-          "colors":["#53A2CC",
-            "#53A2CC"]
-        },
-        {
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-          "image":"assets/icons/my/8.png",
-          "colors":["#53688A",
-            "#53688A"],
-          "originalColor":true,
-          "showText":true
-        },
-        {
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng==",
-          "image":"assets/icons/my/9.png",
-          "colors":["#43506A",
-            "#43506A"],
-          "originalColor":true,
-          "showText":true
-        },
-        {
-          "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
-          "showText":true,
-          "colors":["#12B58C",
-            "#12B58C"],
-          "originalColor":true,
-          "image":"assets/icons/my/breast-feeding.png"
-        }
+          "colors": ["#2196F3", "#81D4FA"],
+          "originalColor": true,
+          "image": "assets/icons/my/1.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
+          "showText": true
+      }, {
+          "colors": ["#3E6AB5", "#3E6AB5"],
+          "image": "assets/icons/my/4.png",
+          "originalColor": true,
+          "showText": true,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
+      }, {
+          "showText": true,
+          "image": "assets/icons/my/5.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+          "originalColor": true,
+          "colors": ["#53A2CC", "#53A2CC"]
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
+          "image": "assets/icons/my/8.png",
+          "colors": ["#53688A", "#53688A"],
+          "originalColor": true,
+          "showText": true
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
+          "image": "assets/icons/my/9.png",
+          "colors": ["#43506A", "#43506A"],
+          "originalColor": true,
+          "keepDefaultTitle": false
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
+          "image": "assets/icons/my/breast-feeding.png",
+          "colors": ["#12B58C", "#12B58C"],
+          "originalColor": true,
+          "keepDefaultTitle": false
+      }
       ],
       "line":false
     },
