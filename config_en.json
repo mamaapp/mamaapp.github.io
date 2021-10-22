@@ -77,7 +77,7 @@
   }, {
       "name": "Breast Feeding",
       "layout": "threeColumn",
-      "isSnapping": false,
+      "isSnapping": true,
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
   }, {
       "name": "Baby Food",
