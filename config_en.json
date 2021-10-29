@@ -14,38 +14,38 @@
       "radius":0,
       "items":[
         {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
           "colors": ["#2196F3", "#81D4FA"],
           "originalColor": true,
-          "image": "assets/icons/my/1.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
-          "showText": true
+          "keepDefaultTitle": false
       }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Feeding100px.png?v=1635454230",
           "colors": ["#3E6AB5", "#3E6AB5"],
-          "image": "assets/icons/my/4.png",
           "originalColor": true,
-          "showText": true,
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
+          "keepDefaultTitle": false
       }, {
-          "showText": true,
-          "image": "assets/icons/my/5.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys100px.png?v=1635454230",
+          "colors": ["#53A2CC", "#53A2CC"],
           "originalColor": true,
-          "colors": ["#53A2CC", "#53A2CC"]
+          "keepDefaultTitle": false
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-          "image": "assets/icons/my/8.png",
-          "colors": ["#53688A", "#53688A"],
-          "originalColor": true,
-          "showText": true
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/heart-rate.png?v=1635455249",
+          "colors": ["#ffe91e63"],
+          "originalColor": false,
+          "keepDefaultTitle": false
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
-          "image": "assets/icons/my/9.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Breasfeeding100px.png?v=1635454230",
           "colors": ["#43506A", "#43506A"],
           "originalColor": true,
           "keepDefaultTitle": false
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
-          "image": "assets/icons/my/breast-feeding.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes100px.png?v=1635454230",
           "colors": ["#12B58C", "#12B58C"],
           "originalColor": true,
           "keepDefaultTitle": false
