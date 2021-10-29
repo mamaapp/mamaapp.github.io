@@ -54,7 +54,22 @@
       ],
       "line":false
     },
-
+    {
+      "layout": "bannerImage",
+      "isSlider": false,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.15,
+      "fit": "cover",
+      "items": [{
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/IMG_20211018_123450.png?v=1634674284",
+          "padding": 0.0,
+          "radius": 0.0,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
+      }]
+  },
     {
       "name": "Featured Products",
       "layout": "threeColumn",
