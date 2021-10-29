@@ -35,7 +35,7 @@
             "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/heart-rate.png?v=1635455249",
             "colors": ["#ffe91e63"],
-            "originalColor": false,
+            "originalColor": true,
             "keepDefaultTitle": false
         }, {
             "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
