@@ -112,6 +112,10 @@
     "marginRight": 0.0,
     "height": 0.15,
     "fit": "cover",
+    "autoPlay": true,
+    "design": "default",
+    "radius": 0.0,
+    "intervalTime": 3,
     "items": [{
       "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/IMG_20211018_123450.png?v=1634674284",
       "padding": 0.0,
