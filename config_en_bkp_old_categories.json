@@ -1,0 +1,335 @@
+{ 
+  "HorizonLayout": [
+    {
+      "showLogo": true,
+      "showMenu": true,
+      "showSearch": true,
+      "layout": "logo"
+    },
+    {
+      "layout":"category",
+      "type":"icon",
+      "wrap":false,
+      "size":1.5,
+      "radius":0,
+      "items":[
+        {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
+            "colors": ["#2196F3", "#81D4FA"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Feeding100px.png?v=1635454230",
+            "colors": ["#3E6AB5", "#3E6AB5"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys100px.png?v=1635454230",
+            "colors": ["#53A2CC", "#53A2CC"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }, {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/heart-rate.png?v=1635455249",
+            "colors": ["#ffe91e63"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        },  {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes100px.png?v=1635454230",
+            "colors": ["#12B58C", "#12B58C"],
+            "originalColor": true,
+            "keepDefaultTitle": false
+        }
+      ],
+      "line":false
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.15,
+      "fit": "cover",
+      "autoPlay": true,
+      "design": "default",
+      "radius": 0.0,
+      "intervalTime": 3,
+      "items": [{
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breastfeeding-v2.jpg?v=1637358602",
+          "padding": 0.0,
+          "radius": 0.0,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
+              },
+              {
+                "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Pharmacy-v2.jpg?v=1637358601",
+                "padding": 0.0,
+                "radius": 0.0,
+                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA=="
+            },
+            {
+              "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gift-card-v2.jpg?v=1637358602",
+              "padding": 0.0,
+              "radius": 0.0,
+              "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM3OTcxNTQ4NTkzMA=="
+          }]
+  },
+    {
+      "name": "Featured Products",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
+      "isSnapping": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+      "name": "Diapers and Wipes",
+      "layout": "threeColumn",
+      "isSnapping": false
+  }, {
+      "name": "Formula",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz"
+  }, {
+      "name": "Pharmacy",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA=="
+  }, {
+      "name": "Breast Feeding",
+      "layout": "threeColumn",
+      "isSnapping": true,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
+  }, {
+      "name": "Baby Food",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx"
+  }, {
+      "isSnapping": false,
+      "name": "Baby Gears",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
+  }, {
+      "name": "Feeding",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg=="
+  }, {
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+      "name": "Toys",
+      "isSnapping": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
+      "isSnapping": false,
+      "layout": "threeColumn",
+      "name": "Baby Clothes"
+  }, {
+      "name": "Beauty Products",
+      "isSnapping": false,
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng=="
+  },
+
+  {
+    "layout": "bannerImage",
+    "isSlider": false,
+    "marginTop": 0.0,
+    "marginBottom": 0.0,
+    "marginLeft": 0.0,
+    "marginRight": 0.0,
+    "height": 0.15,
+    "fit": "cover",
+    "items": [{
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gift_card_1.png?v=1635969631",
+        "padding": 0.0,
+        "radius": 0.0,
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM3OTcxNTQ4NTkzMA=="
+    }]
+}
+
+  ],
+  "Setting": {
+    "MainColor": "#5ec4ee",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "icon": "assets\/icons\/tabs\/icon-home.png",
+      "layout": "home"
+    },
+    {
+      "categoryLayout": "card",
+      "pos": 200,
+      "categories": [
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDAyNDYxMzA0OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODQwNjg0MA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODUwNTE0NA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODY2ODk4NA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTQyMjY0OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDA0NTI0MA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTcxNzU2MA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDExMDc3Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDIwOTA4MA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDYwMjI5Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDgzMTY3Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDkyOTk3Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTAyODI4MA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTA5MzgxNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTYxODEwNA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzEyMDU2OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTkxMzAxNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjA3Njg1Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MzQyMDM0NA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDEwODQ3Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDIwNjc3Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NTU1MDI2NA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTM1NDI5Ng==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODEzODkzNg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODE3MTcwNA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODIwNDQ3Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTMyNjM5Mg==",
+        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTkzMjUwMjIwMA=="
+    ],
+      "icon": "assets\/icons\/categories\/i_layer.png",
+      "layout": "category",
+      "showChat": true
+    },
+    {
+      "pos": 300,
+      "layout": "search",
+      "icon": "assets\/icons\/tabs\/icon-search.png"
+    },
+    {
+      "layout": "wishlist",
+      "pos": 400,
+      "showChat": true,
+      "icon": "assets\/icons\/tabs\/icon-heart.png"
+    },
+    {
+      "pos": 500,
+      "icon": "assets\/icons\/tabs\/icon-user.png",
+      "data": "",
+      "showChat": false,
+      "layout": "profile"
+    },
+    {
+      "pos": 600,
+      "showChat": true,
+      "data": {
+        "id": 1,
+        "container": {
+          "height": 0.5,
+          "image": {
+            "height": 0.5,
+            "align": {
+              "y": 1,
+              "x": 1
+            },
+            "width": 1,
+            "url": "https:\/\/spic.one\/wp-content\/uploads\/2018\/08\/e052b0077cff56f03b0c.png"
+          },
+          "header": {
+            "text": "About US",
+            "align": {
+              "x": -1,
+              "y": 0.8
+            },
+            "padding": {
+              "vertical": 10,
+              "horizontal": 20
+            },
+            "color": "#FFFFFF",
+            "background": "#000000"
+          }
+        },
+        "subHeader": "MamaApp",
+        "description": "Online Shopping Store in Qatar."
+      },
+      "icon": "assets\/icons\/tabs\/icon-cart2.png",
+      "layout": "cart"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets\/images\/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "searchSuggestion": [
+    "Formula",
+    "Diaper",
+    "Wipes",
+    "Cream",
+    "Baby"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to MamaApp",
+        "image": "assets\/images\/fogg-delivery-1.png",
+        "desc": "MamaApp is on the way to serve you.",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets\/images\/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "assets/images/fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "SplashScreen": {
+  "type": "zoomIn",
+  "data": "assets/images/app_icon.png"
+}
+}
