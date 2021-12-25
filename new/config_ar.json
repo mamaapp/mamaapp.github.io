@@ -445,7 +445,7 @@
       "ProductDetail": "simpleType",
       "StickyHeader": false,
       "FontHeader": "ABeeZee",
-      "MainColor": "#3FC1BE"
+      "MainColor": "#ff19b6ff"
   },
   "TabBar": [{
       "fontFamily": "CupertinoIcons",
