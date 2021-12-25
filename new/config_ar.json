@@ -1,291 +1,662 @@
 {
-  "HorizonLayout": [
-    {
-      "showLogo": true,
-      "showMenu": true,
-      "showSearch": true,
-      "layout": "logo"
-    },
-    {
-      "layout":"category",
-      "type":"icon",
-      "wrap":false,
-      "size":1.6,
-      "radius":0,
-      "noBackground": true,
-      "items":[
-        {
+  "HorizonLayout": [{
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 1.0,
+      "radius": 0.0,
+      "spacing": 12.0,
+      "items": [{
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
           "colors": ["#2196F3", "#81D4FA"],
           "originalColor": true,
-          "image": "assets/icons/my/1.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
-          "showText": true
+          "keepDefaultTitle": true,
+          "title": "حفاضات"
       }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bath100px.png?v=1635454230",
           "colors": ["#3E6AB5", "#3E6AB5"],
-          "image": "assets/icons/my/4.png",
           "originalColor": true,
-          "showText": true,
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA=="
+          "keepDefaultTitle": true,
+          "title": "حمام"
       }, {
-          "showText": true,
-          "image": "assets/icons/my/5.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/food-restaurant.gif?v=1639921603",
+          "colors": ["#53A2CC", "#53A2CC"],
           "originalColor": true,
-          "colors": ["#53A2CC", "#53A2CC"]
+          "keepDefaultTitle": true,
+          "title": "تغذية"
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-          "image": "assets/icons/my/8.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes100px.png?v=1635454230",
           "colors": ["#53688A", "#53688A"],
           "originalColor": true,
-          "showText": true
+          "keepDefaultTitle": true,
+          "title": "ملابس"
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
-          "image": "assets/icons/my/9.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Strollers100px.png?v=1635454230",
           "colors": ["#43506A", "#43506A"],
           "originalColor": true,
-          "keepDefaultTitle": false
+          "keepDefaultTitle": true,
+          "title": "جهز"
       }, {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
-          "image": "assets/icons/my/breast-feeding.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/furniture.gif?v=1639921603",
           "colors": ["#12B58C", "#12B58C"],
           "originalColor": true,
-          "keepDefaultTitle": false
-      }
-        ],
-      "line":false
-    },
-    
-    {
-      "name": "منتجات مميزة",
+          "keepDefaultTitle": true,
+          "title": "أثاث"
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys100px.png?v=1635454230",
+          "colors": ["#333333"],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "ألعاب الأطفال"
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Safety100px.png?v=1635454230",
+          "colors": ["#333333"],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "أمان"
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama100px.png?v=1635454230",
+          "colors": ["#333333"],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "ماما"
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medicine.gif?v=1639921603",
+          "colors": ["#333333"],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "مقابل"
+      }],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false,
+      "noBackground": true
+  }, {
+      "marginBottom": 0,
+      "height": 0.15,
+      "marginTop": 0,
+      "items": [{
+          "radius": 0,
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw==",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/IMG_20211018_123450.png?v=1634674284",
+          "padding": 0
+      }, {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==",
+          "padding": 0,
+          "radius": 0,
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/banner-pharmacy.jpg?v=1636992008"
+      }, {
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gift_card_1.png?v=1635969631",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM3OTcxNTQ4NTkzMA==",
+          "radius": 0,
+          "padding": 0
+      }],
+      "layout": "bannerImage",
+      "fit": "cover",
+      "marginRight": 0,
+      "isSlider": true,
+      "marginLeft": 0
+  }, {
+      "isSnapping": false,
       "layout": "threeColumn",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
-      "isSnapping": false
+      "name": "Featured Products"
   }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
-      "name": "حفاضات ومناديل",
+      "name": "حفاضات",
       "layout": "threeColumn",
-      "isSnapping": false
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==",
+      "tag": null
   }, {
       "name": "الحليب",
       "layout": "threeColumn",
       "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz"
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==",
+      "tag": null
   }, {
       "name": "مقابل",
       "layout": "threeColumn",
       "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA=="
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
+      "tag": null
   }, {
       "name": "الرضاعة الطبيعية",
       "layout": "threeColumn",
       "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjYwMDQzNzg2Mw=="
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==",
+      "tag": null
   }, {
       "name": "طعام للاطفال",
       "layout": "threeColumn",
       "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3ODE3MTkx"
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==",
+      "tag": null
   }, {
-      "isSnapping": false,
       "name": "معدات أطفال",
       "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg=="
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==",
+      "tag": null
   }, {
       "name": "تغذية",
       "layout": "threeColumn",
       "isSnapping": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzODg0ODc3MDIzMg=="
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==",
+      "tag": null
   }, {
-      "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
       "name": "ألعاب الأطفال",
-      "isSnapping": false
-  }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
-      "isSnapping": false,
       "layout": "threeColumn",
-      "name": "ملابس اطفال"
-  }, {
-      "name": "منتجات التجميل",
       "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==",
+      "tag": null
+  }, {
+      "name": "ملابس",
       "layout": "threeColumn",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTcyNjc3Ng=="
-  }
-  ],
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==",
+      "tag": null
+  }, {
+      "name": "ماما",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
+      "tag": null
+  }],
   "Setting": {
-    "MainColor": "#5ec4ee",
-    "ProductListLayout": "list",
-    "StickyHeader": true,
-    "ProductDetail": "simpleType"
+      "TabBarConfig": {
+          "colorCart": null,
+          "marginLeft": 0,
+          "TabBarIndicator": {
+              "topLeftRadius": null,
+              "radius": null,
+              "strokeWidth": null,
+              "color": "ff039be5",
+              "height": null,
+              "horizontalPadding": null,
+              "tabPosition": "bottom",
+              "distanceFromCenter": null,
+              "bottomRightRadius": null,
+              "verticalPadding": null,
+              "paintingStyle": "fill",
+              "topRightRadius": null,
+              "bottomLeftRadius": null
+          },
+          "enable": true,
+          "showFloating": false,
+          "radiusBottomLeft": 0,
+          "marginTop": 0,
+          "colorActiveIcon": "ff039be5",
+          "colorIcon": "ff37474f",
+          "paddingTop": 0,
+          "paddingRight": 0,
+          "radiusTopRight": 0,
+          "indicatorStyle": "dot",
+          "marginBottom": 0,
+          "radiusTopLeft": 0,
+          "color": null,
+          "marginRight": 0,
+          "paddingBottom": 0,
+          "radiusBottomRight": 0,
+          "isSafeArea": true,
+          "TabBarFloating": {
+              "position": null,
+              "floatingType": "rectangle",
+              "height": null,
+              "elevation": null,
+              "width": null,
+              "radius": null,
+              "color": null,
+              "location": null
+          },
+          "iconSize": 23,
+          "paddingLeft": 0,
+          "showFloatingClip": true
+      },
+      "ProductListLayout": "list",
+      "FontFamily": "ABeeZee",
+      "ProductDetail": "simpleType",
+      "StickyHeader": false,
+      "FontHeader": "ABeeZee",
+      "MainColor": "#3FC1BE"
   },
   "TabBar": [{
-    "layout": "home",
-    "key": "hw8dn0481k",
-    "pos": 100,
-    "icon": "assets/icons/tabs/icon-home.png"
-}, {
-    "layout": "category",
-    "icon": "assets/icons/categories/i_layer.png",
-    "pos": 200,
-    "categoryLayout": "card",
-    "categories": [
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODI0MzAwMA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NjIwNTgz",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDAyNDYxMzA0OA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTgwMDAzOQ==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODQwNjg0MA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODUwNTE0NA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODY2ODk4NA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE2NTM4MTcwMTczNQ==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTQyMjY0OA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDA0NTI0MA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTcxNzU2MA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTc4MzA5Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDExMDc3Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDIwOTA4MA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDYwMjI5Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDc2NjEzNg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDgzMTY3Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MDkyOTk3Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTAyODI4MA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTA5MzgxNg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDM1MDUyMA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDA4ODM3Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDU0NzEyOA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTYxODEwNA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNTYyODQ3Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzOTY2MzEyMDU2OA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MTkxMzAxNg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MjA3Njg1Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MjY2NTAxNg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2MzQyMDM0NA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDEwODQ3Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NDIwNjc3Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2NTU1MDI2NA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3MzYxNTI4OA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTM1NDI5Ng==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzNjMzNDY3ODIwMA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MjY1MTk3Njg4OA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODEzODkzNg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODE3MTcwNA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM2ODIwNDQ3Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE2MjU1Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTE5NTMyMA==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Mzk1MTMyNjM5Mg==",
-      "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTkzMjUwMjIwMA=="
-
-      ]
-}, {
-    "pos": 300,
-    "key": "hw8dn0481k",
-    "icon": "assets/icons/tabs/icon-search.png",
-    "layout": "search"
-}, {
-    "icon": "assets/icons/tabs/icon-heart.png",
-    "layout": "wishlist",
-    "showChat": false,
-    "key": "hw8dn0481k",
-    "pos": 400
-}, {
-    "layout": "profile",
-    "pos": 500,
-    "data": "",
-    "icon": "assets/icons/tabs/icon-user.png",
-    "key": "hw8dn0481k",
-    "showChat": false
-}, {
-    "icon": "assets/icons/tabs/icon-cart2.png",
-    "layout": "cart",
-    "data": {
-        "id": 1,
-        "subHeader": "MamaApp",
-        "description": "متجر التسوق عبر الإنترنت في قطر",
-        "container": {
-            "height": 0.5,
-            "image": {
-                "width": 1,
-                "align": {
-                    "y": 1,
-                    "x": 1
-                },
-                "height": 0.5,
-                "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png"
-            },
-            "header": {
-                "background": "#000000",
-                "color": "#FFFFFF",
-                "padding": {
-                    "horizontal": 20,
-                    "vertical": 10
-                },
-                "text": "About US",
-                "align": {
-                    "y": 0.8,
-                    "x": -1
-                }
-            }
-        }
-    },
-    "key": "hw8dn0481k",
-    "pos": 600,
-    "showChat": true
-}],
+      "fontFamily": "CupertinoIcons",
+      "pos": 100,
+      "layout": "home",
+      "icon": "home",
+      "key": "v0esudncze"
+  }, {
+      "layout": "category",
+      "categoryLayout": "column",
+      "pos": 200,
+      "fontFamily": "CupertinoIcons",
+      "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDUyODQ5MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDU2MTI1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDYyNjc5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTE4Mzg1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTIxNjYxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTI0OTM4Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTMxNDkyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTUxMTUzMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU3NzA2Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTYwOTgzNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY0MjYwMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTcwODEzOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc0MDkwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc3MzY3NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgwNjQ0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkwNDc0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkzNzUxNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTk3MDI4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAwMzA1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAzNTgxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEwMTM1NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEzNDEyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjE5OTY1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgzOTIxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjI2NTE5NA=="],
+      "icon": "rectangle_grid_1x2",
+      "images": null,
+      "label": null,
+      "key": "v0esudncze"
+  }, {
+      "size": 24,
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "icon": "search",
+      "key": "v0esudncze"
+  }, {
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "pos": 400,
+      "icon": "bag",
+      "fontFamily": "CupertinoIcons",
+      "key": "v0esudncze"
+  }, {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "icon": "person",
+      "key": "v0esudncze"
+  }],
   "Drawer": {
-    "logo": "assets\/images\/logo.png",
-    "items": [
-      {
-        "show": true,
-        "type": "home"
-      },
-      {
-        "type": "blog",
-        "show": false
-      },
-      {
-        "type": "login",
-        "show": true
-      },
-      {
-        "type": "category",
-        "show": true
+      "items": [{
+          "type": "home",
+          "show": true
+      }, {
+          "type": "blog",
+          "show": false
+      }, {
+          "type": "login",
+          "show": true
+      }, {
+          "show": true,
+          "type": "category"
+      }, {
+          "type": "categories",
+          "show": true
+      }, {
+          "type": "cart",
+          "show": true
+      }, {
+          "type": "profile",
+          "show": true
+      }, {
+          "show": false,
+          "type": "web"
+      }],
+      "logo": "assets/images/logo.png",
+      "key": "z2ifm3fdqu",
+      "subDrawerItem": {
+          "web-6536opuh2v": {
+              "webViewMode": true,
+              "requiredLogin": false,
+              "iconFontFamily": "CupertinoIcons",
+              "webUrl": "https://mamaapp.co/policies/privacy-policy",
+              "title": "سياسة الخصوصية",
+              "icon": "news"
+          },
+          "web-p8y9mbdsko": {
+              "webUrl": "https://mamaapp.co/policies/shipping-policy",
+              "icon": "news",
+              "requiredLogin": false,
+              "webViewMode": true,
+              "iconFontFamily": "CupertinoIcons",
+              "title": "سياسة الشحن"
+          },
+          "web-2cxk3mi7ss": {
+              "webUrl": "https://mamaapp.co/policies/refund-policy",
+              "requiredLogin": false,
+              "webViewMode": true,
+              "title": "سياسة الاسترجاع",
+              "iconFontFamily": "CupertinoIcons",
+              "icon": "news"
+          }
       }
-    ]
   },
-  "searchSuggestion": [
-    "Formula",
-    "Diapers",
-    "Wipes",
-    "Cream",
-    "Baby"
-  ],
-  "OnBoarding": {
-    "data": [
-      {
-        "title": "مرحبا بكم في MamaApp",
-        "image": "assets\/images\/fogg-delivery-1.png",
-        "desc": "MamaApp في لخدمتك.",
-        "background": "#FFF3F2"
-      },
-      {
-        "title": "تطبيق تسوق إلكتروني رائع في قطر",
-        "image": "assets\/images\/fogg-uploading-1.png",
-        "desc": "شاهد كل الأشياء التي تحدث من حولك بمجرد نقرة في هاتفك. سريع ومريح ونظيف.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "هيا بنا نبدأ",
-        "image": "assets/images/fogg-order-completed.png",
-        "desc": "لا تنتظر أكثر ، دعنا نرى ما نحصل عليه!",
-        "background": "#F9F2FF"
-      }
-    ]
-  },
-  "SplashScreen": {
-    "type": "static",
-    "data": "assets/images/splashscreen.png"
+  "AppBar": {
+      "items": [{
+          "icon": "equal",
+          "action": "menu",
+          "marginLeft": 16,
+          "alignment": "center",
+          "paddingTop": 4,
+          "fontWeight": "400",
+          "backgroundColor": "a000000",
+          "paddingRight": 4,
+          "key": "8g31nfb3x2",
+          "size": 40,
+          "pos": 100,
+          "paddingLeft": 4,
+          "fontSize": 16,
+          "iconSize": 20,
+          "marginBottom": 4,
+          "marginRight": 4,
+          "type": "icon",
+          "radius": 20,
+          "paddingBottom": 4,
+          "fontFamily": "CupertinoIcons",
+          "textOpacity": 0.5,
+          "marginTop": 4
+      }, {
+          "iconSize": 24,
+          "paddingLeft": 4,
+          "alignment": "center",
+          "marginTop": 4,
+          "radius": 24,
+          "type": "space",
+          "paddingRight": 4,
+          "textOpacity": 0.5,
+          "fontFamily": "CupertinoIcons",
+          "action": "none",
+          "size": 44,
+          "marginLeft": 4,
+          "pos": 200,
+          "key": "5irxv743jc",
+          "icon": "person",
+          "fontWeight": "400",
+          "paddingTop": 4,
+          "paddingBottom": 4,
+          "marginRight": 4,
+          "marginBottom": 4,
+          "fontSize": 16
+      }, {
+          "iconSize": 24,
+          "marginBottom": 0,
+          "paddingTop": 0,
+          "marginLeft": 0,
+          "action": "home",
+          "imageBoxFit": "cover",
+          "type": "image",
+          "textOpacity": 0.5,
+          "pos": 300,
+          "paddingRight": 4,
+          "key": "a4bejc9znc",
+          "marginRight": 4,
+          "paddingBottom": 0,
+          "radius": 0,
+          "paddingLeft": 4,
+          "fontWeight": "400",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131",
+          "marginTop": 0,
+          "size": 44,
+          "fontSize": 16,
+          "alignment": "center",
+          "height": 0,
+          "icon": "person",
+          "fontFamily": "CupertinoIcons"
+      }, {
+          "paddingTop": 4,
+          "textOpacity": 0.5,
+          "paddingBottom": 4,
+          "radius": 20,
+          "fontSize": 16,
+          "fontFamily": "CupertinoIcons",
+          "pos": 400,
+          "marginLeft": 4,
+          "marginTop": 4,
+          "icon": "search",
+          "size": 40,
+          "key": "9c4x46fa8w",
+          "marginRight": 4,
+          "fontWeight": "400",
+          "paddingLeft": 4,
+          "paddingRight": 4,
+          "action": "search",
+          "backgroundColor": "a000000",
+          "type": "icon",
+          "marginBottom": 4,
+          "alignment": "center",
+          "iconSize": 20
+      }, {
+          "size": 40,
+          "marginTop": 4,
+          "marginBottom": 4,
+          "fontWeight": "400",
+          "icon": "shopping_cart",
+          "marginLeft": 4,
+          "paddingTop": 4,
+          "fontSize": 16,
+          "marginRight": 16,
+          "type": "icon",
+          "key": "zektpgnari",
+          "action": "cart",
+          "backgroundColor": "a000000",
+          "textOpacity": 0.5,
+          "pos": 500,
+          "paddingRight": 4,
+          "fontFamily": "CupertinoIcons",
+          "radius": 20,
+          "alignment": "center",
+          "paddingBottom": 4,
+          "paddingLeft": 4,
+          "iconSize": 20
+      }],
+      "showOnScreens": ["home", "category", "search", "cart", "html", "dynamic", "profile", "wishlist", "page"]
   }
 }
