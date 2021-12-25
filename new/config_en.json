@@ -492,6 +492,34 @@
         "pos": 448
     }],
     "Drawer": {
+        "subDrawerItem": {
+           
+            "web-u28tmui3al": {
+                "webUrl": "https://mamaapp.co/policies/privacy-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Privacy Policy"
+            },
+            "web-1oriqtjtfd": {
+                "webUrl": "https://mamaapp.co/policies/shipping-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Shipping Policy"
+            },
+            "web-3bbojxs3lv": {
+                "webUrl": "https://mamaapp.co/policies/refund-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Refund policy"
+            }
+        },
+        "key": "8a89qrjesi",
         "items": [{
             "type": "home",
             "show": true
@@ -502,49 +530,31 @@
             "type": "login",
             "show": true
         }, {
-            "show": true,
-            "type": "category"
-        }, {
-            "type": "categories",
+            "type": "category",
             "show": true
         }, {
+            "type": "categories",
+            "show": false
+        }, {
             "type": "cart",
+            "show": false
+        }, {
+            "type": "web",
+            "show": false
+        }, {
+            "type": "web-u28tmui3al",
+            "show": true
+        }, {
+            "type": "web-1oriqtjtfd",
+            "show": true
+        }, {
+            "type": "web-3bbojxs3lv",
             "show": true
         }, {
             "type": "profile",
             "show": true
-        }, {
-            "show": false,
-            "type": "web"
         }],
-        "logo":"https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131",
-        "key": "z2ifm3fdqu",
-        "subDrawerItem": {
-            "web-6536opuh2v": {
-                "webViewMode": true,
-                "requiredLogin": false,
-                "iconFontFamily": "CupertinoIcons",
-                "webUrl": "https://mamaapp.co/policies/privacy-policy",
-                "title": "Privacy Policy",
-                "icon": "news"
-            },
-            "web-p8y9mbdsko": {
-                "webUrl": "https://mamaapp.co/policies/shipping-policy",
-                "icon": "news",
-                "requiredLogin": false,
-                "webViewMode": true,
-                "iconFontFamily": "CupertinoIcons",
-                "title": "Shipping Policy"
-            },
-            "web-2cxk3mi7ss": {
-                "webUrl": "https://mamaapp.co/policies/refund-policy",
-                "requiredLogin": false,
-                "webViewMode": true,
-                "title": "Refund policy",
-                "iconFontFamily": "CupertinoIcons",
-                "icon": "news"
-            }
-        }
+        "logo": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131"
     },
     "AppBar": {
         "items": [{

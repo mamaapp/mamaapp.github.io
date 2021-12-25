@@ -492,60 +492,70 @@
     "pos": 448
 }],
   "Drawer": {
-      "items": [{
-          "type": "home",
-          "show": true
-      }, {
-          "type": "blog",
-          "show": false
-      }, {
-          "type": "login",
-          "show": true
-      }, {
-          "show": true,
-          "type": "category"
-      }, {
-          "type": "categories",
-          "show": true
-      }, {
-          "type": "cart",
-          "show": true
-      }, {
-          "type": "profile",
-          "show": true
-      }, {
-          "show": false,
-          "type": "web"
-      }],
-      "logo": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131",
-      "key": "z2ifm3fdqu",
-      "subDrawerItem": {
-          "web-6536opuh2v": {
-              "webViewMode": true,
-              "requiredLogin": false,
-              "iconFontFamily": "CupertinoIcons",
-              "webUrl": "https://mamaapp.co/policies/privacy-policy",
-              "title": "سياسة الخصوصية",
-              "icon": "news"
-          },
-          "web-p8y9mbdsko": {
-              "webUrl": "https://mamaapp.co/policies/shipping-policy",
-              "icon": "news",
-              "requiredLogin": false,
-              "webViewMode": true,
-              "iconFontFamily": "CupertinoIcons",
-              "title": "سياسة الشحن"
-          },
-          "web-2cxk3mi7ss": {
-              "webUrl": "https://mamaapp.co/policies/refund-policy",
-              "requiredLogin": false,
-              "webViewMode": true,
-              "title": "سياسة الاسترجاع",
-              "iconFontFamily": "CupertinoIcons",
-              "icon": "news"
-          }
-      }
-  },
+    "subDrawerItem": {
+       
+        "web-u28tmui3al": {
+            "webUrl": "https://mamaapp.co/policies/privacy-policy",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "icon": "news",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "سياسة الخصوصية"
+        },
+        "web-1oriqtjtfd": {
+            "webUrl": "https://mamaapp.co/policies/shipping-policy",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "icon": "news",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "سياسة الشحن"
+        },
+        "web-3bbojxs3lv": {
+            "webUrl": "https://mamaapp.co/policies/refund-policy",
+            "webViewMode": true,
+            "requiredLogin": false,
+            "icon": "news",
+            "iconFontFamily": "CupertinoIcons",
+            "title": "سياسة الاسترجاع"
+        }
+    },
+    "key": "8a89qrjesi",
+    "items": [{
+        "type": "home",
+        "show": true
+    }, {
+        "type": "blog",
+        "show": false
+    }, {
+        "type": "login",
+        "show": true
+    }, {
+        "type": "category",
+        "show": true
+    }, {
+        "type": "categories",
+        "show": false
+    }, {
+        "type": "cart",
+        "show": false
+    }, {
+        "type": "web",
+        "show": false
+    }, {
+        "type": "web-u28tmui3al",
+        "show": true
+    }, {
+        "type": "web-1oriqtjtfd",
+        "show": true
+    }, {
+        "type": "web-3bbojxs3lv",
+        "show": true
+    }, {
+        "type": "profile",
+        "show": true
+    }],
+    "logo": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131"
+},
   "AppBar": {
       "items": [{
           "icon": "equal",
