@@ -471,19 +471,26 @@
       "icon": "search",
       "key": "v0esudncze"
   }, {
-      "layout": "cart",
-      "categoryLayout": "cart",
-      "pos": 400,
-      "icon": "bag",
-      "fontFamily": "CupertinoIcons",
-      "key": "v0esudncze"
-  }, {
-      "layout": "profile",
-      "fontFamily": "CupertinoIcons",
-      "pos": 500,
-      "icon": "person",
-      "key": "v0esudncze"
-  }],
+    "key": "psow0d7ktg",
+    "layout": "wishlist",
+    "icon": "assets/icons/tabs/icon-heartthin.png",
+    "fontFamily": null,
+    "label": null,
+    "pos": 354
+}, {
+    "pos": 366,
+    "icon": "person",
+    "layout": "profile",
+    "fontFamily": "CupertinoIcons",
+    "key": "zhsxtz82rr"
+}, {
+    "key": "vcbm2myy7o",
+    "layout": "cart",
+    "icon": "bag",
+    "fontFamily": "CupertinoIcons",
+    "label": null,
+    "pos": 448
+}],
   "Drawer": {
       "items": [{
           "type": "home",
