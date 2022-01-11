@@ -6,7 +6,7 @@
         "showShortDescription": true,
         "size": 1.0,
         "radius": 0.0,
-        "spacing": 12.0,
+        "spacing": 5.0,
         "items": [{
             "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
@@ -391,134 +391,111 @@
         "tag": null
     }],
     "Setting": {
+        "FontFamily": "ABeeZee",
+        "StickyHeader": false,
+        "MainColor": "#ff19b6ff",
         "TabBarConfig": {
-            "colorCart": null,
-            "marginLeft": 0,
-            "TabBarIndicator": {
-                "topLeftRadius": null,
-                "radius": null,
-                "strokeWidth": null,
-                "color": "ff039be5",
-                "height": null,
-                "horizontalPadding": null,
-                "tabPosition": "bottom",
-                "distanceFromCenter": null,
-                "bottomRightRadius": null,
-                "verticalPadding": null,
-                "paintingStyle": "fill",
-                "topRightRadius": null,
-                "bottomLeftRadius": null
-            },
             "enable": true,
-            "showFloating": false,
-            "radiusBottomLeft": 0,
-            "marginTop": 0,
-            "colorActiveIcon": "ff039be5",
-            "colorIcon": "ff37474f",
-            "paddingTop": 0,
-            "paddingRight": 0,
-            "radiusTopRight": 0,
-            "indicatorStyle": "dot",
-            "marginBottom": 0,
-            "radiusTopLeft": 0,
-            "color": null,
-            "marginRight": 0,
-            "paddingBottom": 0,
-            "radiusBottomRight": 0,
             "isSafeArea": true,
-            "TabBarFloating": {
-                "position": null,
-                "floatingType": "rectangle",
+            "color": null,
+            "colorCart": null,
+            "colorIcon": "ff37474f",
+            "colorActiveIcon": "ff039be5",
+            "iconSize": 23.0,
+            "indicatorStyle": "material",
+            "showFloatingClip": true,
+            "showFloating": false,
+            "radiusTopLeft": 0.0,
+            "radiusTopRight": 0.0,
+            "radiusBottomLeft": 0.0,
+            "radiusBottomRight": 0.0,
+            "paddingLeft": 0.0,
+            "paddingRight": 0.0,
+            "paddingBottom": 0.0,
+            "paddingTop": 0.0,
+            "marginTop": 0.0,
+            "marginBottom": 0.0,
+            "marginLeft": 0.0,
+            "marginRight": 0.0,
+            "TabBarIndicator": {
                 "height": null,
-                "elevation": null,
-                "width": null,
+                "tabPosition": "bottom",
+                "topRightRadius": null,
+                "topLeftRadius": null,
+                "bottomRightRadius": null,
+                "bottomLeftRadius": null,
+                "color": "ff039be5",
+                "horizontalPadding": null,
+                "verticalPadding": null,
+                "strokeWidth": null,
+                "radius": null,
+                "distanceFromCenter": null,
+                "paintingStyle": "fill"
+            },
+            "TabBarFloating": {
+                "position": 0,
                 "radius": null,
                 "color": null,
-                "location": null
-            },
-            "iconSize": 23,
-            "paddingLeft": 0,
-            "showFloatingClip": true
+                "location": null,
+                "width": null,
+                "height": null,
+                "elevation": null,
+                "floatingType": "rectangle"
+            }
         },
         "ProductListLayout": "list",
-        "FontFamily": "ABeeZee",
-        "ProductDetail": "simpleType",
-        "StickyHeader": false,
         "FontHeader": "ABeeZee",
-        "MainColor": "#ff19b6ff"
+        "ProductDetail": "simpleType"
     },
     "TabBar": [{
-        "fontFamily": "CupertinoIcons",
-        "pos": 100,
+        "key": "3kmf5jnavj",
         "layout": "home",
         "icon": "home",
-        "key": "v0esudncze"
+        "fontFamily": "CupertinoIcons",
+        "label": "Home",
+        "pos": 100
     }, {
+        "key": "3kmf5jnavj",
         "layout": "category",
-        "categoryLayout": "column",
-        "pos": 200,
-        "fontFamily": "CupertinoIcons",
-        "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDUyODQ5MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDU2MTI1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDYyNjc5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTE4Mzg1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTIxNjYxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTI0OTM4Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTMxNDkyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTUxMTUzMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU3NzA2Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTYwOTgzNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY0MjYwMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTcwODEzOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc0MDkwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc3MzY3NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgwNjQ0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkwNDc0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkzNzUxNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTk3MDI4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAwMzA1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAzNTgxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEwMTM1NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEzNDEyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjE5OTY1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgzOTIxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjI2NTE5NA=="],
         "icon": "rectangle_grid_2x2",
-        "images": null,
-        "label": null,
-        "key": "v0esudncze"
-    }, {
-        "size": 24,
-        "layout": "search",
         "fontFamily": "CupertinoIcons",
-        "pos": 300,
-        "icon": "search",
-        "key": "v0esudncze"
+        "label": "Categories",
+        "pos": 200,
+        "categoryLayout": "column",
+        "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDUyODQ5MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDU2MTI1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDYyNjc5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTE4Mzg1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTIxNjYxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTI0OTM4Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTMxNDkyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTUxMTUzMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU3NzA2Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTYwOTgzNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY0MjYwMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTcwODEzOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc0MDkwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc3MzY3NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgwNjQ0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkwNDc0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkzNzUxNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTk3MDI4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAwMzA1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAzNTgxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEwMTM1NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEzNDEyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjE5OTY1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgzOTIxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjI2NTE5NA=="],
+        "images": null
     }, {
-        "key": "psow0d7ktg",
+        "key": "3kmf5jnavj",
+        "layout": "search",
+        "icon": "search",
+        "fontFamily": "CupertinoIcons",
+        "label": "Search",
+        "pos": 300
+    }, {
+        "key": "3kmf5jnavj",
         "layout": "wishlist",
         "icon": "assets/icons/tabs/icon-heartthin.png",
         "fontFamily": null,
-        "label": null,
-        "pos": 354
+        "label": "Saved",
+        "pos": 400
     }, {
-        "pos": 366,
-        "icon": "person",
+        "key": "3kmf5jnavj",
         "layout": "profile",
+        "icon": "person",
         "fontFamily": "CupertinoIcons",
-        "key": "zhsxtz82rr"
+        "label": "User",
+        "pos": 500,
+        "settings": null,
+        "background": null
     }, {
-        "key": "vcbm2myy7o",
+        "key": "3kmf5jnavj",
         "layout": "cart",
         "icon": "bag",
         "fontFamily": "CupertinoIcons",
-        "label": null,
-        "pos": 448
+        "label": "Cart",
+        "pos": 600
     }],
     "Drawer": {
-        "subDrawerItem": {
-           
-            "web-u28tmui3al": {
-                "webUrl": "https://mamaapp.co/policies/privacy-policy",
-                "webViewMode": true,
-                "requiredLogin": false,
-                "icon": "news",
-                "iconFontFamily": "CupertinoIcons",
-                "title": "Privacy Policy"
-            },
-            "web-1oriqtjtfd": {
-                "webUrl": "https://mamaapp.co/policies/shipping-policy",
-                "webViewMode": true,
-                "requiredLogin": false,
-                "icon": "news",
-                "iconFontFamily": "CupertinoIcons",
-                "title": "Shipping Policy"
-            },
-            "web-3bbojxs3lv": {
-                "webUrl": "https://mamaapp.co/policies/refund-policy",
-                "webViewMode": true,
-                "requiredLogin": false,
-                "icon": "news",
-                "iconFontFamily": "CupertinoIcons",
-                "title": "Refund policy"
-            }
-        },
         "key": "8a89qrjesi",
         "items": [{
             "type": "home",
@@ -554,6 +531,32 @@
             "type": "profile",
             "show": true
         }],
+        "subDrawerItem": {
+            "web-u28tmui3al": {
+                "webUrl": "https://mamaapp.co/policies/privacy-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Privacy Policy"
+            },
+            "web-1oriqtjtfd": {
+                "webUrl": "https://mamaapp.co/policies/shipping-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Shipping Policy"
+            },
+            "web-3bbojxs3lv": {
+                "webUrl": "https://mamaapp.co/policies/refund-policy",
+                "webViewMode": true,
+                "requiredLogin": false,
+                "icon": "news",
+                "iconFontFamily": "CupertinoIcons",
+                "title": "Refund policy"
+            }
+        },
         "logo": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamaapp-300x200.png?v=1609089131"
     },
     "AppBar": {
@@ -722,4 +725,27 @@
             "key": "9i6ff22vb8"
         }]
     }
+,
+    "OnBoarding": {
+        "data": [
+          {
+            "title": "Welcome to MamaApp Qatar",
+            "image": "assets/images/fogg-delivery-1.png",
+            "desc": "MamaApp is on the way to serve you. ",
+            "background": "#FFF3F2"
+          },
+          {
+            "title": "Online Store for Mama and Baby.",
+            "image": "assets/images/fogg-uploading-1.png",
+            "desc": "Huge products collections.",
+            "background": "#F2FFFC"
+          },
+          {
+            "title": "Let's Get Started",
+            "image": "fogg-order-completed.png",
+            "desc": "Waiting no more, let's see what we get!",
+            "background": "#F9F2FF"
+          }
+        ]
+      }
 }
