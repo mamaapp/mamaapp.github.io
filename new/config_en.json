@@ -443,7 +443,7 @@
                 "floatingType": "rectangle"
             }
         },
-        "ProductListLayout": "listTile",
+        "ProductListLayout": "list",
         "FontHeader": "ABeeZee",
         "ProductDetail": "simpleType"
     },
