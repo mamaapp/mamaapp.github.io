@@ -448,7 +448,7 @@
                 "floatingType": "rectangle"
             }
         },
-        "ProductListLayout": "listTile",
+        "ProductListLayout": "columns",
         "FontHeader": "ABeeZee",
         "ProductDetail": "simpleType"
     },
