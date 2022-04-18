@@ -422,13 +422,7 @@
       "imageBorderColor": "7debfaff",
       "imageBorderStyle": "solid",
       "imageSpacing": 0.0,
-      "labelFontSize": 14.0,
-      "boxShadow": {
-        "colorOpacity": 0.21,
-        "y": -2.0,
-        "blurRadius": 24.242424242424242,
-        "x": 3.0
-      }
+      "labelFontSize": 14.0
     },
     {
       "name": "Diapers",
@@ -814,13 +808,7 @@
       "imageBorderColor": "7debfaff",
       "imageBorderStyle": "solid",
       "imageSpacing": 0.0,
-      "labelFontSize": 14.0,
-      "boxShadow": {
-        "colorOpacity": 0.21,
-        "y": -2.0,
-        "blurRadius": 24.242424242424242,
-        "x": 3.0
-      }
+      "labelFontSize": 14.0
     },
 
     {
@@ -1073,13 +1061,7 @@
       "imageBorderColor": "7debfaff",
       "imageBorderStyle": "solid",
       "imageSpacing": 0.0,
-      "labelFontSize": 14.0,
-      "boxShadow": {
-        "colorOpacity": 0.21,
-        "y": -2.0,
-        "blurRadius": 24.242424242424242,
-        "x": 3.0
-      }
+      "labelFontSize": 14.0
     },
 
     {
