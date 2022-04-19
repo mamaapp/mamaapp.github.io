@@ -1,95 +1,95 @@
 {
   "HorizonLayout": [{
-      "layout": "category",
-      "type": "icon",
-      "wrap": false,
-      "showShortDescription": true,
-      "size": 1.0,
-      "radius": 0.0,
-      "spacing": 5.0,
-      "items": [{
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
-        "colors": ["#2196F3", "#81D4FA"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Diapers"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bath100px.png?v=1635454230",
-        "colors": ["#3E6AB5", "#3E6AB5"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Bath"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/food-restaurant.gif?v=1639921603",
-        "colors": ["#53A2CC", "#53A2CC"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Feeding"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes100px.png?v=1635454230",
-        "colors": ["#53688A", "#53688A"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Clothes"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Strollers100px.png?v=1635454230",
-        "colors": ["#43506A", "#43506A"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Gear"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/furniture.gif?v=1639921603",
-        "colors": ["#12B58C", "#12B58C"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Furniture"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys100px.png?v=1635454230",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Toys"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Safety100px.png?v=1635454230",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Safety"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama100px.png?v=1635454230",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Mama"
-      }, {
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medicine.gif?v=1639921603",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "title": "Pharmacy"
-      }],
-      "line": false,
-      "marginLeft": 10.0,
-      "marginRight": 10.0,
-      "marginTop": 10.0,
-      "marginBottom": 10.0,
-      "paddingX": 0.0,
-      "paddingY": 0.0,
-      "marginX": 0.0,
-      "marginY": 0.0,
-      "hideTitle": false,
-      "noBackground": true
-    },
+    "layout": "category",
+    "type": "icon",
+    "wrap": false,
+    "showShortDescription": true,
+    "size": 1.0,
+    "radius": 0.0,
+    "spacing": 5.0,
+    "items": [{
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers100px.png?v=1635454230",
+      "colors": ["#2196F3", "#81D4FA"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Diapers"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bath100px.png?v=1635454230",
+      "colors": ["#3E6AB5", "#3E6AB5"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Bath"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/food-restaurant.gif?v=1639921603",
+      "colors": ["#53A2CC", "#53A2CC"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Feeding"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes100px.png?v=1635454230",
+      "colors": ["#53688A", "#53688A"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Clothes"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Strollers100px.png?v=1635454230",
+      "colors": ["#43506A", "#43506A"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Gear"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/furniture.gif?v=1639921603",
+      "colors": ["#12B58C", "#12B58C"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Furniture"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys100px.png?v=1635454230",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Toys"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Safety100px.png?v=1635454230",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Safety"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama100px.png?v=1635454230",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Mama"
+    }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medicine.gif?v=1639921603",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": true,
+      "title": "Pharmacy"
+    }],
+    "line": false,
+    "marginLeft": 10.0,
+    "marginRight": 10.0,
+    "marginTop": 10.0,
+    "marginBottom": 10.0,
+    "paddingX": 0.0,
+    "paddingY": 0.0,
+    "marginX": 0.0,
+    "marginY": 0.0,
+    "hideTitle": false,
+    "noBackground": true
+  },
     {
       "marginBottom": 0,
       "height": 0.15,
@@ -131,13 +131,13 @@
       "radius": 0.0,
       "spacing": 0.0,
       "items": [{
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTQyMzIxMA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/1.jpg?v=1649614194",
-          "showText": false,
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTQyMzIxMA==",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/1.jpg?v=1649614194",
+        "showText": false,
+        "originalColor": true,
+        "keepDefaultTitle": false,
+        "showDescription": false
+      },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTU4NzA1MA==",
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/2.jpg?v=1649614194",
@@ -222,12 +222,34 @@
       }
     }
 
-    , {
+  , {
       "isSnapping": false,
       "layout": "threeColumn",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM4NDA3MDE1",
       "name": "Featured Products"
     },
+    {
+      "isSafeArea":false,
+      "showSearch":false,
+      "usePrimaryColor":true,
+      "borderInput":false,
+      "title":"Shop our top brands",
+      "textColor":"ff000000",
+      "alignment":"centerLeft",
+      "fontWeight":700,
+      "fontSize":18.0,
+      "textOpacity":1.0,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "marginBottom":0.0,
+      "marginTop":21.0,
+      "paddingLeft":21.0,
+      "paddingRight":0.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":27.5,
+      "rotate":[],
+      "layout":"header_text"},
     {
       "layout": "category",
       "type": "icon",
@@ -237,13 +259,13 @@
       "radius": 50.0,
       "spacing": 0.0,
       "items": [{
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzYwODI5OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bambi.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzYwODI5OA==",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bambi.jpg?v=1649864431",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": false,
+        "showDescription": false
+      },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1MTczNDc2Mg==",
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pampers.jpg?v=1649864431",
@@ -409,8 +431,8 @@
       "line": false,
       "marginLeft": 12.0,
       "marginRight": 0.0,
-      "marginTop": 27.0,
-      "marginBottom": 20.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
       "pos": 1600,
       "paddingX": 0.0,
       "paddingY": 0.0,
@@ -615,6 +637,28 @@
       "tag": null
     },
     {
+      "isSafeArea":false,
+      "showSearch":false,
+      "usePrimaryColor":true,
+      "borderInput":false,
+      "title":"Shop our top brands",
+      "textColor":"ff000000",
+      "alignment":"centerLeft",
+      "fontWeight":700,
+      "fontSize":18.0,
+      "textOpacity":1.0,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "marginBottom":0.0,
+      "marginTop":21.0,
+      "paddingLeft":21.0,
+      "paddingRight":0.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":27.5,
+      "rotate":[],
+      "layout":"header_text"},
+    {
       "layout": "category",
       "type": "icon",
       "wrap": false,
@@ -623,13 +667,13 @@
       "radius": 50.0,
       "spacing": 0.0,
       "items": [{
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDE5ODEyMg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fisherprice.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDE5ODEyMg==",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fisherprice.jpg?v=1649864431",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": false,
+        "showDescription": false
+      },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDI2MzY1OA==",
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida_mom.jpg?v=1649864431",
@@ -795,8 +839,8 @@
       "line": false,
       "marginLeft": 12.0,
       "marginRight": 0.0,
-      "marginTop": 27.0,
-      "marginBottom": 20.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
       "pos": 1600,
       "paddingX": 0.0,
       "paddingY": 0.0,
@@ -866,7 +910,28 @@
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==",
       "tag": null
     },
-
+    {
+      "isSafeArea":false,
+      "showSearch":false,
+      "usePrimaryColor":true,
+      "borderInput":false,
+      "title":"Shop our top brands",
+      "textColor":"ff000000",
+      "alignment":"centerLeft",
+      "fontWeight":700,
+      "fontSize":18.0,
+      "textOpacity":1.0,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "marginBottom":0.0,
+      "marginTop":21.0,
+      "paddingLeft":21.0,
+      "paddingRight":0.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":27.5,
+      "rotate":[],
+      "layout":"header_text"},
     {
       "layout": "category",
       "type": "icon",
@@ -876,14 +941,14 @@
       "radius": 0.0,
       "spacing": 0.0,
       "items": [{
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
-          "colors": ["#ffb3e5fc"],
-          "originalColor": true,
-          "keepDefaultTitle": true,
-          "showDescription": false,
-          "title": "Logitech"
-        },
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
+        "colors": ["#ffb3e5fc"],
+        "originalColor": true,
+        "keepDefaultTitle": true,
+        "showDescription": false,
+        "title": "Logitech"
+      },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDI2MzY1OA==",
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida_mom.jpg?v=1649864431",
@@ -1048,8 +1113,8 @@
       "line": false,
       "marginLeft": 12.0,
       "marginRight": 0.0,
-      "marginTop": 27.0,
-      "marginBottom": 20.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
       "pos": 1600,
       "paddingX": 0.0,
       "paddingY": 0.0,
@@ -1151,23 +1216,23 @@
     "ProductDetail": "simpleType"
   },
   "TabBar": [{
-      "key": "3kmf5jnavj",
-      "layout": "home",
-      "icon": "home",
-      "fontFamily": "CupertinoIcons",
-      "label": "Home",
-      "pos": 100
-    }, {
-      "key": "3kmf5jnavj",
-      "layout": "category",
-      "icon": "rectangle_grid_2x2",
-      "fontFamily": "CupertinoIcons",
-      "label": "Categories",
-      "pos": 200,
-      "categoryLayout": "column",
-      "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDUyODQ5MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDU2MTI1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDYyNjc5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTE4Mzg1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTIxNjYxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTI0OTM4Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTMxNDkyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTUxMTUzMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU3NzA2Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTYwOTgzNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY0MjYwMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTcwODEzOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc0MDkwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc3MzY3NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgwNjQ0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkwNDc0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkzNzUxNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTk3MDI4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAwMzA1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAzNTgxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEwMTM1NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEzNDEyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjE5OTY1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgzOTIxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjI2NTE5NA=="],
-      "images": null
-    },
+    "key": "3kmf5jnavj",
+    "layout": "home",
+    "icon": "home",
+    "fontFamily": "CupertinoIcons",
+    "label": "Home",
+    "pos": 100
+  }, {
+    "key": "3kmf5jnavj",
+    "layout": "category",
+    "icon": "rectangle_grid_2x2",
+    "fontFamily": "CupertinoIcons",
+    "label": "Categories",
+    "pos": 200,
+    "categoryLayout": "column",
+    "categories": ["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTI2OTczOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDUyODQ5MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDU2MTI1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMDYyNjc5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTE4Mzg1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTIxNjYxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTI0OTM4Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTMxNDkyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTM2ODA0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ3ODc2Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTUxMTUzMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU0NDI5OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQwMDgxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTU3NzA2Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTYwOTgzNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY0MjYwMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTcwODEzOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc0MDkwNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTc3MzY3NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ2NjM0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgwNjQ0Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkwNDc0Ng==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQ5OTExNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTkzNzUxNA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTk3MDI4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAwMzA1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTUzMTg4Mg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjAzNTgxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEwMTM1NA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjEzNDEyMg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjE5OTY1OA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTgzOTIxMA==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==", "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjI2NTE5NA=="],
+    "images": null
+  },
 
     {
       "layout": "dynamic",
@@ -1177,30 +1242,52 @@
       "pos": 300,
       "configs": {
         "HorizonLayout": [{
-            "isSafeArea": true,
-            "showSearch": false,
-            "usePrimaryColor": true,
-            "borderInput": false,
-            "title": "Top Brands",
-            "backgroundColor": "ff5eb9ff",
-            "textColor": "ffffffff",
-            "alignment": "centerLeft",
-            "fontWeight": 900.0,
-            "fontSize": 20.0,
-            "textOpacity": 1.0,
-            "marginLeft": 0.0,
-            "marginRight": 0.0,
-            "marginBottom": 15.0,
-            "marginTop": 20.0,
-            "paddingLeft": 26.0,
-            "paddingRight": 15.0,
-            "paddingTop": 0.0,
-            "paddingBottom": 0.0,
-            "height": 44.0,
-            "rotate": [],
-            "layout": "header_text",
-            "pos": 65
-          },
+          "isSafeArea": true,
+          "showSearch": false,
+          "usePrimaryColor": true,
+          "borderInput": false,
+          "title": "Top Brands",
+          "backgroundColor": "ff5eb9ff",
+          "textColor": "ffffffff",
+          "alignment": "centerLeft",
+          "fontWeight": 900.0,
+          "fontSize": 20.0,
+          "textOpacity": 1.0,
+          "marginLeft": 0.0,
+          "marginRight": 0.0,
+          "marginBottom": 15.0,
+          "marginTop": 20.0,
+          "paddingLeft": 26.0,
+          "paddingRight": 15.0,
+          "paddingTop": 0.0,
+          "paddingBottom": 0.0,
+          "height": 44.0,
+          "rotate": [],
+          "layout": "header_text",
+          "pos": 65
+        },
+          {
+            "isSafeArea":false,
+            "showSearch":false,
+            "usePrimaryColor":true,
+            "borderInput":false,
+            "title":"Shop our top brands",
+            "textColor":"ff000000",
+            "alignment":"centerLeft",
+            "fontWeight":700,
+            "fontSize":18.0,
+            "textOpacity":1.0,
+            "marginLeft":0.0,
+            "marginRight":0.0,
+            "marginBottom":0.0,
+            "marginTop":21.0,
+            "paddingLeft":21.0,
+            "paddingRight":0.0,
+            "paddingTop":0.0,
+            "paddingBottom":0.0,
+            "height":27.5,
+            "rotate":[],
+            "layout":"header_text"},
           {
             "layout": "category",
             "type": "image",
@@ -1210,14 +1297,14 @@
             "radius": 10.0,
             "spacing": 0.0,
             "items": [{
-                "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
-                "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
-                "colors": ["#ffb3e5fc"],
-                "originalColor": true,
-                "keepDefaultTitle": true,
-                "showDescription": false,
-                "title": "Logitech"
-              },
+              "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
+              "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
+              "colors": ["#ffb3e5fc"],
+              "originalColor": true,
+              "keepDefaultTitle": true,
+              "showDescription": false,
+              "title": "Logitech"
+            },
               {
                 "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDI2MzY1OA==",
                 "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida_mom.jpg?v=1649864431",
@@ -1674,11 +1761,11 @@
   },
   "OnBoarding": {
     "data": [{
-        "title": "Welcome to MamaApp Qatar",
-        "image": "assets/images/fogg-delivery-1.png",
-        "desc": "MamaApp is on the way to serve you. ",
-        "background": "#FFF3F2"
-      },
+      "title": "Welcome to MamaApp Qatar",
+      "image": "assets/images/fogg-delivery-1.png",
+      "desc": "MamaApp is on the way to serve you. ",
+      "background": "#FFF3F2"
+    },
       {
         "title": "Online Store for Mama and Baby.",
         "image": "assets/images/fogg-uploading-1.png",
