@@ -1266,28 +1266,7 @@
           "layout": "header_text",
           "pos": 65
         },
-          {
-            "isSafeArea":false,
-            "showSearch":false,
-            "usePrimaryColor":true,
-            "borderInput":false,
-            "title":"Shop our top brands",
-            "textColor":"ff000000",
-            "alignment":"centerLeft",
-            "fontWeight":700,
-            "fontSize":18.0,
-            "textOpacity":1.0,
-            "marginLeft":0.0,
-            "marginRight":0.0,
-            "marginBottom":0.0,
-            "marginTop":21.0,
-            "paddingLeft":21.0,
-            "paddingRight":0.0,
-            "paddingTop":0.0,
-            "paddingBottom":0.0,
-            "height":27.5,
-            "rotate":[],
-            "layout":"header_text"},
+         
           {
             "layout": "category",
             "type": "image",
@@ -1478,24 +1457,20 @@
             "marginY": 0.0,
             "hideTitle": true,
             "noBackground": true,
-            "imageBorderWidth": 0.5,
+            "imageBorderWidth": 0.0,
             "imageBorderColor": "7de8e8e8",
             "imageBorderStyle": "solid",
             "imageSpacing": 0.0,
             "labelFontSize": 14.0,
             "border": 0.0,
-            "enableBorder": true,
+            "enableBorder": false,
             "textAlignment": "topLeft",
             "imageBoxFit": "fitWidth",
-            "columns": 4,
-            "boxShadow": {
-              "colorOpacity": 0.12,
-              "x": -4.0,
-              "blurRadius": 42.42424242424242
-            },
+            "columns": 2,
+
             "itemSize": {
-              "width": 355.0,
-              "height": 110.62015503875963
+              "width": 600.0,
+              "height": 143.0
             }
           }
         ]
