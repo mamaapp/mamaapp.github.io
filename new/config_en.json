@@ -1156,7 +1156,77 @@
       "enableBottomAddToCart": false,
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
       "tag": null
-    }
+    },
+    {
+      "isSafeArea":false,
+      "showSearch":false,
+      "usePrimaryColor":true,
+      "borderInput":true,
+      "title":"Our Instagram Stories",
+      "textColor":"ff000000",
+      "alignment":"centerLeft",
+      "fontWeight":700,
+      "fontSize":18.0,
+      "textOpacity":1.0,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "marginBottom":0.0,
+      "marginTop":21.0,
+      "paddingLeft":21.0,
+      "paddingRight":0.0,
+      "paddingTop":0.0,
+      "paddingBottom":0.0,
+      "height":27.5,
+      "rotate":[],
+      "layout":"header_text"},
+    {
+      "path":"",
+      "items":[{
+        "id":"[#48fa1]",
+        "code":"CcvtyZ3ssAW",
+        "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/279137493_5539146533037167_6232213366641444915_n.webp?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=MPZF6WhH_g0AX9eIp3x&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=MjgyMzY3Njg2NzIyOTQzMzg3OA%3D%3D.2-ccb7-4&oh=00_AT8rOwKDmGYF9CsOErFqbO61NR0KyULfy4rRLgum3zsvQg&oe=626E888F&_nc_sid=83d603",
+        "video":""
+      },
+        {
+          "id":"[#3423e]",
+          "code":"CcX00A_sSF5",
+          "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/278613269_349240683889852_921779638721165526_n.webp?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Bz-nYi6M93cAX-fE5DG&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=MjgxNjk1MjM2NDg0MzQ3NTMyMQ%3D%3D.2-ccb7-4&oh=00_AT_SDMRFE2xxqTmxo2OacT0Fhmyhyg1_RPP9uMDS4DvG0Q&oe=626FBF9C&_nc_sid=83d603"
+        },
+        {
+          "id":"[#b8cb6]",
+          "code":"CcddexmoY8x",
+          "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/278598765_5712185198808164_4681147387562515044_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ucrq5ZIKnbkAX_bm_G1&tn=l1wifuOz0kRLeyss&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=MjgxODUzODU5OTk5ODM5NDE2MQ%3D%3D.2-ccb7-4&oh=00_AT8FWlBFppog57C55pL61rHgaK_ghM8-Drns6pOxixOMZQ&oe=626FAB38&_nc_sid=83d603"
+        },
+        {
+          "id":"[#7b5d4]",
+          "code":"CcS5cvuKaZ9",
+          "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/278286150_717898645907394_7270511165066049171_n.jpg?stp=c0.210.540.540a_dst-jpg_e15_s320x320&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=D-ZGHQKxC8cAX-XWpBI&tn=l1wifuOz0kRLeyss&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_RfO4RvF2VyQrWV2EqdqrrPqN0-W3Rzr2OWCG6IWP5kQ&oe=626F41B1&_nc_sid=7bff83"
+        },
+        {
+          "id":"[#7a9bc]",
+          "code":"CcJTiP_s64B",
+          "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/278034477_1202179936987396_1936782984422548977_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=P_7buaZI1BoAX_d544d&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjgxMjg2NTM1ODc5MDM3Mjg2NQ%3D%3D.2-ccb7-4&oh=00_AT8Y2x-VEzSgiFOi18Kr5XYVS0GYcocbxpPNeciCKIF4Yw&oe=626E68C3&_nc_sid=30a2ef"
+        },
+        {
+          "id":"[#24159]",
+          "code":"CcsVB9cIM1T",
+          "image":"https://instagram.fdoh4-2.fna.fbcdn.net/v/t51.2885-15/279006781_557269795704499_5201107213720118721_n.jpg?stp=c0.210.540.540a_dst-jpg_e15_s320x320&_nc_ht=instagram.fdoh4-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Jo6zjcfso_gAX9zaqdz&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-GORAC14ANQJqVpL9VqzNGuvJW7FBzJYoHx7R-ElLhnw&oe=626FBAC7&_nc_sid=7bff83"
+        }],
+      "usePath":true,
+      "marginLeft":15.0,
+      "marginRight":15.0,
+      "marginTop":10.0,
+      "marginBottom":10.0,
+      "limit":10,
+      "time":60,
+      "itemBorderRadius":10,
+      "itemWidth":100,
+      "itemHeight":200,
+      "viewLayout":"iframe",
+      "itemSpacing":10,
+      "hideAvatar":true,
+      "hideCaption":true,
+      "layout":"instagramStory"}
   ],
   "Setting": {
     "FontFamily": "ABeeZee",
@@ -1266,7 +1336,7 @@
           "layout": "header_text",
           "pos": 65
         },
-         
+
           {
             "layout": "category",
             "type": "image",
