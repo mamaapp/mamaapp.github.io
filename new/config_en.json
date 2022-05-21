@@ -1,5 +1,21 @@
 {
-  "HorizonLayout": [{
+  "HorizonLayout": [
+    {
+      "marginBottom": 0,
+      "height": 0.15,
+      "marginTop": 0,
+      "items": [{
+        "radius": 0,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/same-day-deliver.jpg?v=1653163993",
+        "padding": 0
+      }],
+      "layout": "bannerImage",
+      "fit": "cover",
+      "marginRight": 0,
+      "isSlider": false,
+      "marginLeft": 0
+    },
+    {
     "layout": "category",
     "type": "icon",
     "wrap": false,
