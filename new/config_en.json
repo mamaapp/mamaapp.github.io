@@ -267,202 +267,6 @@
       "rotate":[],
       "layout":"header_text"},
     {
-      "layout": "category",
-      "type": "icon",
-      "wrap": false,
-      "showShortDescription": true,
-      "size": 2.0,
-      "radius": 50.0,
-      "spacing": 0.0,
-      "items": [{
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzYwODI5OA==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bambi.jpg?v=1649864431",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": false,
-        "showDescription": false
-      },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1MTczNDc2Mg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pampers.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1MzE3NjU1NA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pureborn.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTc5NzA1OTgxOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babybjorn.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/waterwipes.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzU0Mjc2Mg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bababing.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
-          "colors": ["#ffb3e5fc"],
-          "originalColor": true,
-          "keepDefaultTitle": true,
-          "showDescription": false,
-          "title": "Logitech"
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDI2MzY1OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida_mom.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDAwMTUxNA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/drbrowns.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgzNzY3NA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/chicco.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgwNDkwNg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/cetaphil.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDc1NTE3OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/lansinoh.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDE5ODEyMg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fisherprice.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1OTAwOTI1OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/spectra.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDg4NjI1MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medela.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDU5MTMzOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/johnsons.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzY0MTA2Ng==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bioderma.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzcwNjYwMg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/braun.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0Mzc3MjEzOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/carriwell.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgwNDkwNg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/cetaphil.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDA2NzA1MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/ella_s_kitchen.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        }
-      ],
-      "line": false,
-      "marginLeft": 12.0,
-      "marginRight": 0.0,
-      "marginTop": 0.0,
-      "marginBottom": 0.0,
-      "pos": 1600,
-      "paddingX": 0.0,
-      "paddingY": 0.0,
-      "marginX": 0.0,
-      "marginY": 0.0,
-      "hideTitle": true,
-      "noBackground": true,
-      "imageBorderWidth": 0.9,
-      "imageBorderColor": "7debfaff",
-      "imageBorderStyle": "solid",
-      "imageSpacing": 0.0,
-      "labelFontSize": 14.0
-    },
-    {
       "name": "Diapers",
       "layout": "threeColumn",
       "isSnapping": false,
@@ -674,202 +478,7 @@
       "height":27.5,
       "rotate":[],
       "layout":"header_text"},
-    {
-      "layout": "category",
-      "type": "icon",
-      "wrap": false,
-      "showShortDescription": true,
-      "size": 2.0,
-      "radius": 50.0,
-      "spacing": 0.0,
-      "items": [{
-        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDE5ODEyMg==",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fisherprice.jpg?v=1649864431",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": false,
-        "showDescription": false
-      },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDI2MzY1OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida_mom.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDg4NjI1MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medela.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzcwNjYwMg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/braun.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1OTAwOTI1OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/spectra.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0Mzc3MjEzOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/carriwell.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDAwMTUxNA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/drbrowns.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzU0Mjc2Mg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bababing.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgzNzY3NA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/chicco.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzY0MTA2Ng==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bioderma.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgwNDkwNg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/cetaphil.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDIzMDg5MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/fridaybaby.jpg?v=1649864431",
-          "colors": ["#ffb3e5fc"],
-          "originalColor": true,
-          "keepDefaultTitle": true,
-          "showDescription": false,
-          "title": "Logitech"
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDc1NTE3OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/lansinoh.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTc5NzA1OTgxOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babybjorn.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1MzE3NjU1NA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pureborn.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzYwODI5OA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bambi.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1OTY1MjAyNA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/waterwipes.jpg?v=1649864432",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI1MTczNDc2Mg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pampers.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDU5MTMzOA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/johnsons.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0MzgwNDkwNg==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/cetaphil.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDA2NzA1MA==",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/ella_s_kitchen.jpg?v=1649864431",
-          "colors": ["#333333"],
-          "originalColor": true,
-          "keepDefaultTitle": false,
-          "showDescription": false
-        }
-      ],
-      "line": false,
-      "marginLeft": 12.0,
-      "marginRight": 0.0,
-      "marginTop": 0.0,
-      "marginBottom": 0.0,
-      "pos": 1600,
-      "paddingX": 0.0,
-      "paddingY": 0.0,
-      "marginX": 0.0,
-      "marginY": 0.0,
-      "hideTitle": true,
-      "noBackground": true,
-      "imageBorderWidth": 0.9,
-      "imageBorderColor": "7debfaff",
-      "imageBorderStyle": "solid",
-      "imageSpacing": 0.0,
-      "labelFontSize": 14.0
-    },
+    
 
     {
       "name": "Toys",
@@ -948,6 +557,36 @@
       "height":27.5,
       "rotate":[],
       "layout":"header_text"},
+    
+
+    {
+      "name": "Mama",
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 0.0,
+      "vMargin": 0.0,
+      "hPadding": 5.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
+      "tag": null
+    },
     {
       "layout": "category",
       "type": "icon",
@@ -1143,35 +782,6 @@
       "imageBorderStyle": "solid",
       "imageSpacing": 0.0,
       "labelFontSize": 14.0
-    },
-
-    {
-      "name": "Mama",
-      "layout": "threeColumn",
-      "isSnapping": false,
-      "rows": 1,
-      "columns": 0,
-      "imageBoxfit": "cover",
-      "imageRatio": 1.2,
-      "hMargin": 0.0,
-      "vMargin": 0.0,
-      "hPadding": 5.0,
-      "vPadding": 0.0,
-      "showStockStatus": true,
-      "enableRating": true,
-      "hideTitle": false,
-      "hideStore": false,
-      "hidePrice": false,
-      "featured": false,
-      "showHeart": false,
-      "showCartButton": false,
-      "cartIconRadius": 9.0,
-      "showQuantity": false,
-      "showCartIconColor": false,
-      "showCartIcon": true,
-      "enableBottomAddToCart": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU2NDY1MA==",
-      "tag": null
     },
     {
       "isSafeArea":false,
