@@ -64,7 +64,7 @@
       "originalColor": true,
       "keepDefaultTitle": true,
       "showDescription": false,
-      "title": "Clothes"
+      "title": "ملابس"
     }, {
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTQzMzU3OA==",
       "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Strollers100px.png?v=1635454230",
@@ -1086,7 +1086,7 @@
   "TabBar": [{
     "icon": "home",
     "fontFamily": "CupertinoIcons",
-    "label": "Home",
+    "label": "الرئيسيه",
     "layout": "home",
     "pos": 100,
     "key": "4uh7v74sa3"
@@ -1095,7 +1095,7 @@
     "layout": "category",
     "icon": "rectangle_grid_2x2",
     "fontFamily": "CupertinoIcons",
-    "label": "Collections",
+    "label": "المجموعات",
     "pos": 200,
     "categoryLayout": "card",
     "remapCategories": [{
@@ -1136,7 +1136,8 @@
       "name" : "المناشف والفانيلات"
     }, {
       "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA=="
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTM4MDQ1OA==",
+      "name" :"طاولات وطاولات تغيير"
     }, {
       "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQxMzIyNg==",
@@ -1264,7 +1265,7 @@
     "parallax": false,
     "parallaxImageRatio": 1.2
   }, {
-    "label": "Brands",
+    "label": "الماركات",
     "icon": "circle_grid_3x3_fill",
     "layout": "dynamic",
     "configs": {
@@ -1488,7 +1489,7 @@
     "label": "يبحث",
     "key": "4uh7v74sa3"
   }, {
-    "label": "Saved",
+    "label": "المحفوظة",
     "fontFamily": null,
     "pos": 500,
     "icon": "assets/icons/tabs/icon-heartthin.png",
@@ -1608,7 +1609,7 @@
       "hideTitle": true,
       "size": 44,
       "icon": "map_pin_ellipse",
-      "title": "Location",
+      "title": "موقعك",
       "marginLeft": 4,
       "fontWeight": "400",
       "paddingBottom": 4,
