@@ -1028,7 +1028,7 @@
   }],
   "Setting": {
     "ProductListLayout": "columns",
-    "FontHeader": "ABeeZee",
+    "FontHeader": "Raleway",
     "StickyHeader": false,
     "TabBarConfig": {
       "showFloatingClip": true,
