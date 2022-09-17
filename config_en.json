@@ -200,71 +200,97 @@
     "radius": 0.0,
     "spacing": 0.0,
     "items": [{
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTQyMzIxMA==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/1.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false,
-      "name": "Pajamas & Body Suites"
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTU4NzA1MA==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/2.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3Nzc3NTAyNDMxMg==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/3.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTg4MTk2Mg==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/4.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkyMTE4MDg5ODMx",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/5.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/6.jpg?v=1649614194",
-      "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
-      "originalColor": true,
-      "keepDefaultTitle": false,
-      "showDescription": false
-    }, {
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzkxNzM3NzUxNjU1",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/7.jpg?v=1649614194",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Brest_Pumps_Accessories.jpg?v=1663442473",
       "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
       "originalColor": true,
       "keepDefaultTitle": false,
       "showDescription": false
-    }, {
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNjAxMzAzNA==",
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/8.jpg?v=1649614194",
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTU4NzA1MA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapers_Wipes.jpg?v=1663442473",
       "colors": ["#333333"],
-      "backgroundColor": "ff2196f3",
       "originalColor": true,
       "keepDefaultTitle": false,
       "showDescription": false
-    }],
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNDA1MTExNDIxOA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bedroom.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNDA1MDg1MjA3NA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Snacks_on_the_go.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTQ0NTk5NA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama_s_Lactation.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTMwMjUwNg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bath_Essentials.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTQyMzIxMA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Pajamas_BodySuits.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE0MjI0MjYxMTMwMw==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby_Hygiene.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3OTM1ODczNDUyMA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Diapering_Essentials.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNDA1MTE3OTc1NA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gift_for_Mama.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTczNTg4MTk2Mg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Educational_Toys.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNDA1MTIxMjUyMg==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gift_for_Baby.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMTY3NTM3MA==",
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Laundry.jpg?v=1663442473",
+      "colors": ["#333333"],
+      "originalColor": true,
+      "keepDefaultTitle": false,
+      "showDescription": false
+  }],
     "line": false,
     "marginLeft": 0.0,
     "marginRight": 0.0,
@@ -1019,7 +1045,58 @@
     "hideAvatar": true,
     "hideCaption": false,
     "layout": "instagramStory"
-  }],
+  },{
+    "layout": "category",
+    "type": "icon",
+    "wrap": false,
+    "showShortDescription": true,
+    "size": 1.6,
+    "radius": 0.0,
+    "spacing": 0.0,
+    "items": [{
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Easy-Return-Policy.jpg?v=1663019074",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": true,
+        "showDescription": false,
+        "title": "Easy Return Policy"
+    }, {
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Secure-Payment.jpg?v=1663019074",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": true,
+        "showDescription": false,
+        "title": "Secure Payment"
+    }, {
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Original-Products.jpg?v=1663019074",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": true,
+        "showDescription": false,
+        "title": "Original Products"
+    }, {
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Cash-on-Delivery.jpg?v=1663019389",
+        "colors": ["#333333"],
+        "originalColor": true,
+        "keepDefaultTitle": true,
+        "showDescription": false,
+        "title": "Cash on Delivery"
+    }],
+    "line": false,
+    "marginLeft": 0.0,
+    "marginRight": 0.0,
+    "marginTop": 0.0,
+    "marginBottom": 0.0,
+    "paddingX": 0.0,
+    "paddingY": 0.0,
+    "marginX": 0.0,
+    "marginY": 0.0,
+    "hideTitle": true,
+    "noBackground": true,
+    "imageBorderStyle": "solid",
+    "imageSpacing": 0.0,
+    "labelFontSize": 14.0
+}],
   "Setting": {
     "ProductListLayout": "columns",
     "FontHeader": "ABeeZee",
