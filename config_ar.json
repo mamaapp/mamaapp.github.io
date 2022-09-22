@@ -328,6 +328,50 @@
     "marginBottom": 12,
     "marginRight": 0
   }, {
+    "layout": "bannerImage",
+    "design": "swiper",
+    "fit": "fitWidth",
+    "marginLeft": null,
+    "items": [{
+        "showSubcategory": false,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby-Brezza-Banner.jpg?v=1663872630",
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "product": "7525617697002"
+    }, {
+        "showSubcategory": false,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee-Tippee-Banner.jpg?v=1663872630",
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "product": "7443090342122"
+    }, {
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mustela-Banner.jpg?v=1663881508",
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDkxOTAxOA=="
+    }],
+    "marginBottom": 12.0,
+    "height": 0.2,
+    "marginRight": null,
+    "marginTop": 0.0,
+    "radius": 6.0,
+    "padding": 0.0,
+    "enableParallax": false,
+    "parallaxImageRatio": 1.2,
+    "isHorizontal": false,
+    "isSlider": true,
+    "autoPlay": true,
+    "intervalTime": 1,
+    "showNumber": false,
+    "isBlur": false,
+    "showBackground": false,
+    "upHeight": 30.0,
+    "parallax": false
+}, {
     "marginBGP": {
       "bottom": 0,
       "left": 0,
@@ -1046,56 +1090,27 @@
     "hideCaption": false,
     "layout": "instagramStory"
   },{
-    "layout": "category",
-    "type": "icon",
-    "wrap": false,
-    "showShortDescription": true,
-    "size": 1.6,
-    "radius": 0.0,
-    "spacing": 0.0,
-    "items": [{
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Easy-Return-Policy.jpg?v=1663019074",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "showDescription": false,
-        "title": "Easy Return Policy"
-    }, {
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Secure-Payment.jpg?v=1663019074",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "showDescription": false,
-        "title": "Secure Payment"
-    }, {
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Original-Products.jpg?v=1663019074",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "showDescription": false,
-        "title": "Original Products"
-    }, {
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Cash-on-Delivery.jpg?v=1663019389",
-        "colors": ["#333333"],
-        "originalColor": true,
-        "keepDefaultTitle": true,
-        "showDescription": false,
-        "title": "Cash on Delivery"
-    }],
-    "line": false,
+    "layout": "bannerImage",
+    "design": "static",
+    "fit": "contain",
     "marginLeft": 0.0,
+    "items": [{
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/customer_safety.jpg?v=1663876359",
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "padding": 0.0,
+        "radius": 0.0
+    }],
+    "marginBottom": 0.0,
+    "height": 0.15,
     "marginRight": 0.0,
     "marginTop": 0.0,
-    "marginBottom": 0.0,
-    "paddingX": 0.0,
-    "paddingY": 0.0,
-    "marginX": 0.0,
-    "marginY": 0.0,
-    "hideTitle": true,
-    "noBackground": true,
-    "imageBorderStyle": "solid",
-    "imageSpacing": 0.0,
-    "labelFontSize": 14.0
+    "enableParallax": false,
+    "parallaxImageRatio": 1.2,
+    "isHorizontal": false,
+    "parallax": false
 }],
   "Setting": {
     "ProductListLayout": "columns",
