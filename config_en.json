@@ -333,27 +333,27 @@
         "fit": "fitWidth",
         "marginLeft": null,
         "items": [{
-            "showSubcategory": false,
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby-Brezza-Banner.jpg?v=1663872630",
-            "bannerWithProduct": false,
-            "defaultShowProduct": false,
-            "products": [],
-            "product": "7525617697002"
-        }, {
-            "showSubcategory": false,
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee-Tippee-Banner.jpg?v=1663872630",
-            "bannerWithProduct": false,
-            "defaultShowProduct": false,
-            "products": [],
-            "product": "7443090342122"
-        }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mustela-Banner.jpg?v=1663881508",
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false,
-            "products": [],
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDkxOTAxOA=="
-        }],
+          "showSubcategory": false,
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby-Brezza-Banner_9a987cc9-d503-4e8c-8f11-4a3389da06d7.jpg?v=1663965341",
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "product": "7525617697002"
+      }, {
+          "showSubcategory": false,
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee-Tippee-Banner_c55a515c-4fdd-4a60-afa0-c5fd17ce5f76.jpg?v=1663965032",
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "product": "7443090342122"
+      }, {
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mustela-Banner_f922c5e5-b738-44ec-a7e3-010bb7ed245b.jpg?v=1663967949",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5OTI0NDkxOTAxOA=="
+      }],
         "marginBottom": 12.0,
         "height": 0.2,
         "marginRight": null,
