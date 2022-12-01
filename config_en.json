@@ -855,6 +855,47 @@
     "showCartButtonWithQuantity": false,
     "featured": false
   }, {
+    "showStockStatus": true,
+    "enableRating": true,
+    "showOnlyImage": false,
+    "hidePrice": false,
+    "enableBottomAddToCart": false,
+    "name": "Pharmacy - OTC",
+    "rows": 1,
+    "backgroundColor": "fffce4ec",
+    "borderRadius": 6.347748330405419,
+    "imageBoxfit": "contain",
+    "hMargin": 4,
+    "showHeart": false,
+    "showQuantity": false,
+    "showCountDown": false,
+    "hideEmptyProductListRating": false,
+    "cardDesign": "card",
+    "showCartIcon": true,
+    "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNTc4OTY1MzIyNg==",
+    "showCartButton": false,
+    "spaceWidth": 0,
+    "parallaxImageRatio": 1.2,
+    "backgroundHeight": 254,
+    "hideTitle": false,
+    "vPadding": 0,
+    "columns": 0,
+    "showCartIconColor": false,
+    "limit": 10,
+    "isSnapping": false,
+    "cartIconRadius": 9,
+    "imageRatio": 1,
+    "layout": "threeColumn",
+    "parallax": false,
+    "hideStore": false,
+    "onSale": false,
+    "image": "",
+    "backgroundRadius": 0,
+    "hPadding": 9,
+    "vMargin": 14,
+    "showCartButtonWithQuantity": false,
+    "featured": false
+  }, {
     "marginBottom": 0,
     "marginRight": 0,
     "title": "Shop our Top Brands",
@@ -1304,7 +1345,11 @@
     }, {
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
       "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pharmacy.jpg?v=1661109414"
-    }, {
+    },     
+    {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNTc4OTY1MzIyNg==",
+      "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA=="
+    },{
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==",
       "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA=="
     }, {
