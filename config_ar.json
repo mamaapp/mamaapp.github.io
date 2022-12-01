@@ -1381,6 +1381,10 @@
       "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pharmacy.jpg?v=1661109414",
       "name": "صيدلية"
     }, {
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyNTc4OTY1MzIyNg==",
+      "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
+      "name" : "صيدلية بدون وصفة طبية"
+    }, {
       "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTczMjIzMjQyNg==",
       "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzM5MTUyNTU5NzQxOA==",
       "name" : "صيدلية اطفال"
