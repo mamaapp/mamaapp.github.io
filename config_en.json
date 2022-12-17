@@ -12,6 +12,15 @@
       "bannerWithProduct": false,
       "padding": 0,
       "radius": 0
+    },
+    {
+      "showSubcategory": false,
+      "defaultShowProduct": false,
+      "products": [],
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/national-day-banner-mamaapp-mobile-app.jpg?v=1671297269",
+      "bannerWithProduct": false,
+      "padding": 0,
+      "radius": 0
     }],
     "layout": "bannerImage",
     "isHorizontal": false,
