@@ -22,24 +22,28 @@
     "marginRight": 0,
     "parallaxImageRatio": 1.2
   },{
-    "layout": "bannerImage",
-    "isSlider": true,
-    "marginTop": 0.0,
-    "marginBottom": 0.0,
-    "marginLeft": 0.0,
-    "marginRight": 0.0,
-    "height": 0.15,
-    "fit": "cover",
-    "autoPlay": true,
-    "design": "default",
-    "radius": 0.0,
-    "intervalTime": 3,
+    "height": 0.22,
+    "marginTop": 8,
+    "marginBottom": 0,
+    "parallax": false,
     "items": [{
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner_1A_-_1138x547_253797c3-ebe9-4661-9218-668b15e915fe.jpg?v=1671323496",
-        "padding": 0.0,
-        "radius": 0.0
-            }]
-}, {
+      "showSubcategory": false,
+      "defaultShowProduct": false,
+      "products": [],
+      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner_1A_-_1138x547_253797c3-ebe9-4661-9218-668b15e915fe.jpg?v=1671323496",
+      "bannerWithProduct": false,
+      "padding": 0,
+      "radius": 0
+    }],
+    "layout": "bannerImage",
+    "isHorizontal": false,
+    "enableParallax": false,
+    "fit": "fill",
+    "marginLeft": 0,
+    "design": "static",
+    "marginRight": 0,
+    "parallaxImageRatio": 1.2
+  }, {
     "layout": "category",
     "type": "icon",
     "wrap": true,
