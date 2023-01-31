@@ -489,7 +489,7 @@
     "hideTitle": false,
     "imageBoxfit": "contain",
     "showCartIcon": true,
-    "vMargin": 22,
+    "vMargin": 0,
     "hidePrice": false,
     "showHeart": true,
     "enableBottomAddToCart": false,
@@ -546,7 +546,7 @@
     "hidePrice": false,
     "enableBottomAddToCart": false,
     "name": "Pharmacy",
-    "rows": 1,
+    "rows": 2,
     "backgroundColor": "fffce4ec",
     "borderRadius": 6.347748330405419,
     "imageBoxfit": "contain",
@@ -577,7 +577,7 @@
     "image": "",
     "backgroundRadius": 0,
     "hPadding": 9,
-    "vMargin": 14,
+    "vMargin": 0,
     "showCartButtonWithQuantity": false,
     "featured": false
   }, {
