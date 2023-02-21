@@ -337,7 +337,7 @@
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Nanit-Banner-600x.jpg?v=1677000492",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
-          "products": [8052182515946,7525617697002],
+          "products": ["8052182515946","8052149289194"],
           "product": ""
       },{
           "showSubcategory": false,
