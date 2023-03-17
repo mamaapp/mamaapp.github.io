@@ -334,6 +334,13 @@
         "marginLeft": null,
         "items": [{
           "showSubcategory": false,
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mothers-day-2023-mamaapp.jpg?v=1679085881",
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "products": [],
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyODE2NTEzNjYxOA=="
+      },{
+          "showSubcategory": false,
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Nanit-Banner-600x.jpg?v=1677000492",
           "bannerWithProduct": false,
           "defaultShowProduct": false,
@@ -346,14 +353,7 @@
           "defaultShowProduct": false,
           "products": [],
           "product": "7525617697002"
-      }, {
-          "showSubcategory": false,
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee-Tippee-Banner_c55a515c-4fdd-4a60-afa0-c5fd17ce5f76.jpg?v=1663965032",
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "products": [],
-          "product": "7443090342122"
-      }, {
+      },  {
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mustela-Banner_f922c5e5-b738-44ec-a7e3-010bb7ed245b.jpg?v=1663967949",
           "showSubcategory": false,
           "bannerWithProduct": false,
