@@ -21,32 +21,7 @@
     "design": "static",
     "marginRight": 0,
     "parallaxImageRatio": 1.2
-  },{
-    "isSafeArea": false,
-    "showSearch": false,
-    "usePrimaryColor": true,
-    "borderInput": false,
-    "title": "Eid Day 1 Orders will be deliverd on Eid Day 2",
-    "type": "static",
-    "backgroundColor": "fff48fb1",
-    "textColor": "ffffffff",
-    "alignment": "centerLeft",
-    "fontWeight": 300,
-    "fontSize": 16.0,
-    "textOpacity": 1.0,
-    "marginLeft": 0.0,
-    "marginRight": 0.0,
-    "marginBottom": 0.0,
-    "marginTop": 0.0,
-    "paddingLeft": 28.000000000000004,
-    "paddingRight": 15.0,
-    "paddingTop": 0.0,
-    "paddingBottom": 0.0,
-    "height": 35.7,
-    "rotate": [""],
-    "minWidth": 0.0,
-    "layout": "header_text"
-},  {
+  }, {
     "layout": "category",
     "type": "icon",
     "wrap": true,
