@@ -329,6 +329,29 @@
     "marginBottom": 12,
     "marginRight": 0
   }, {
+    "layout": "bannerImage",
+    "design": "static",
+    "fit": "fitWidth",
+    "marginLeft": 0.0,
+    "items": [{
+        "padding": 0.0,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/books-learn-mamaapp-qatar.jpg?v=1683237043",
+        "showSubcategory": false,
+        "radius": 0.0,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "category": "gid://shopify/Collection/428537413866"
+    }],
+    "marginBottom": 12.0,
+    "height": 0.25,
+    "marginRight": 0.0,
+    "marginTop": 0.0,
+    "enableParallax": false,
+    "parallaxImageRatio": 1.7,
+    "isHorizontal": false,
+    "parallax": false
+},{
         "layout": "bannerImage",
         "design": "swiper",
         "fit": "fitWidth",
