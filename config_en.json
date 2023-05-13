@@ -430,7 +430,7 @@
     "vPadding": 0.0,
     "spaceWidth": 130.2325581395349,
     "enableBottomAddToCart": false,
-    "imageBoxfit": "cover",
+    "imageBoxfit": "fill",
     "hideEmptyProductListRating": false,
     "showCartIcon": true,
     "borderRadius": 0.0,
