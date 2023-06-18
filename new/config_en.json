@@ -926,6 +926,14 @@
           "wrap": true,
           "type": "image",
           "items": [{
+            "colors": ["#ffb3e5fc"],
+            "keepDefaultTitle": true,
+            "title": "Milky Makers",
+            "originalColor": true,
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milky-makers.jpg?v=1687101662",
+            "showDescription": false,
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyODg2NzYxNzAwMg=="
+        },{
             "title": "FridaBaby",
             "showDescription": false,
             "originalColor": true,
