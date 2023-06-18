@@ -1042,6 +1042,14 @@
       "imageBorderWidth": 0.9,
       "marginLeft": 12,
       "items": [{
+        "colors": ["#ffb3e5fc"],
+        "keepDefaultTitle": true,
+        "title": "Milky Makers",
+        "originalColor": true,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milky-makers-logo.jpg?v=1687116100",
+        "showDescription": false,
+        "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyODg2NzYxNzAwMg=="
+    },{
           "showDescription": false,
           "originalColor": true,
           "colors": ["#ffb3e5fc"],
@@ -1530,7 +1538,7 @@
                 "keepDefaultTitle": true,
                 "title": "Milky Makers",
                 "originalColor": true,
-                "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milky-makers.jpg?v=1687101662",
+                "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milky-makers-logo.jpg?v=1687116100",
                 "showDescription": false,
                 "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzQyODg2NzYxNzAwMg=="
             },{
