@@ -21,7 +21,7 @@
       "design": "static",
       "marginRight": 0,
       "parallaxImageRatio": 1.2
-  }, , {
+  },{
     "isSafeArea": false,
     "showSearch": false,
     "usePrimaryColor": true,
