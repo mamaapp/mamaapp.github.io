@@ -21,7 +21,32 @@
       "design": "static",
       "marginRight": 0,
       "parallaxImageRatio": 1.2
-  }, {
+  },{
+    "isSafeArea": false,
+    "showSearch": false,
+    "usePrimaryColor": true,
+    "borderInput": false,
+    "title": "",
+    "type": "rotate",
+    "backgroundColor": "fff06292",
+    "textColor": "ffffffff",
+    "alignment": "center",
+    "fontWeight": 600.0,
+    "fontSize": 15.0,
+    "textOpacity": 1.0,
+    "marginLeft": 0.0,
+    "marginRight": 0.0,
+    "marginBottom": 15.0,
+    "marginTop": 0.0,
+    "paddingLeft": 5.0,
+    "paddingRight": 7.000000000000001,
+    "paddingTop": 0.0,
+    "paddingBottom": 0.0,
+    "height": 35.7,
+    "rotate": ["عيد مبارك", "سيتم توصيل طلبات يوم العيد الأول في يوم الثاني"],
+    "minWidth": 0.0,
+    "layout": "header_text"
+}, {
       "layout": "category",
       "type": "icon",
       "wrap": true,
@@ -233,7 +258,7 @@
         "title": "وجبات خفيفة أثناء التنقل"
     }, {
         "category": "gid://shopify/Collection/391731445994",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama_s_Lactation.jpg?v=1663442473",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Mama_s-Lactation.jpg?v=1687362050",
         "colors": ["#333333"],
         "originalColor": true,
         "keepDefaultTitle": true,
@@ -249,7 +274,7 @@
         "title": "أساسيات الحمام"
     }, {
         "category": "gid://shopify/Collection/399735423210",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Pajamas_BodySuits.jpg?v=1663442473",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Pajamas-and-Bodysuits.jpg?v=1687362050",
         "colors": ["#333333"],
         "originalColor": true,
         "keepDefaultTitle": true,
@@ -297,7 +322,7 @@
         "title": "هدية للطفل"
     }, {
         "category": "gid://shopify/Collection/391731675370",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Laundry.jpg?v=1663442473",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Laundry_092b907c-05d1-4f99-88aa-0b583c97d390.jpg?v=1687362050",
         "colors": ["#333333"],
         "originalColor": true,
         "keepDefaultTitle": true,
