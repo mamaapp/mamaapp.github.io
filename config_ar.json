@@ -21,32 +21,7 @@
       "design": "static",
       "marginRight": 0,
       "parallaxImageRatio": 1.2
-  },{
-    "isSafeArea": false,
-    "showSearch": false,
-    "usePrimaryColor": true,
-    "borderInput": false,
-    "title": "",
-    "type": "rotate",
-    "backgroundColor": "fff06292",
-    "textColor": "ffffffff",
-    "alignment": "center",
-    "fontWeight": 600.0,
-    "fontSize": 15.0,
-    "textOpacity": 1.0,
-    "marginLeft": 0.0,
-    "marginRight": 0.0,
-    "marginBottom": 15.0,
-    "marginTop": 0.0,
-    "paddingLeft": 5.0,
-    "paddingRight": 7.000000000000001,
-    "paddingTop": 0.0,
-    "paddingBottom": 0.0,
-    "height": 35.7,
-    "rotate": ["عيد مبارك", "سيتم توصيل طلبات يوم العيد الأول في يوم الثاني"],
-    "minWidth": 0.0,
-    "layout": "header_text"
-}, {
+  }, {
       "layout": "category",
       "type": "icon",
       "wrap": true,
