@@ -1805,7 +1805,7 @@
           "type": "home",
           "show": true
       }, {
-          "show": true,
+          "show": false,
           "type": "blog"
       }, {
           "type": "login",
