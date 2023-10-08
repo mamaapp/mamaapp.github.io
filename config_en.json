@@ -148,7 +148,8 @@
         "defaultShowProduct": false,
         "products": [],
         "category": "gid://shopify/Collection/429388955882",
-        "video": ""
+        "video": "",
+        "title": "Stephen-Joseph"
     }, {
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/DockAtot-BANNER_1_-_1500X800_92DPI.jpg?v=1696772796",
         "showSubcategory": false,
@@ -156,7 +157,8 @@
         "defaultShowProduct": false,
         "products": [],
         "category": "gid://shopify/Collection/429140213994",
-        "video": ""
+        "video": "",
+        "title": "DockAtot"
     }],
     "marginBottom": 0.0,
     "marginRight": null,
