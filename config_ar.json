@@ -1379,184 +1379,232 @@
       "pos": 100,
       "key": "4uh7v74sa3"
   }, {
-      "key": "4uh7v74sa3",
-      "layout": "category",
-      "icon": "rectangle_grid_2x2",
-      "fontFamily": "CupertinoIcons",
-      "label": "المجموعات",
-      "pos": 200,
-      "categoryLayout": "card",
-      "remapCategories": [{
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/diapers_036eb2b1-5bc2-4d34-b5d4-2f0c4c4e0f31.jpg?v=1661111571",
-          "category": "gid://shopify/Collection/391525269738",
-          "name": "حفاضات"
-      }, {
-          "parent": "gid://shopify/Collection/391525269738",
-          "category": "gid://shopify/Collection/391730528490",
-          "name": "حفاضات وأكياس بن"
-      }, {
-          "parent": "gid://shopify/Collection/391525269738",
-          "category": "gid://shopify/Collection/391730561258",
-          "name": "كريمات ومساحيق الحفاضات"
-      }, {
-          "category": "gid://shopify/Collection/391730626794",
-          "parent": "gid://shopify/Collection/391525269738",
-          "name": "مناديل مبلله للاطفال"
-      }, {
-          "parent": "gid://shopify/Collection/391525302506",
-          "category": "gid://shopify/Collection/391731183850",
-          "name": "التدريب على استخدام الحمام"
-      }, {
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bath.jpg?v=1661109413",
-          "category": "gid://shopify/Collection/391525302506",
-          "name": "حمام"
-      }, {
-          "parent": "gid://shopify/Collection/391525302506",
-          "category": "gid://shopify/Collection/391731216618",
-          "name": "الشعر والجسم والبشرة"
-      }, {
-          "category": "gid://shopify/Collection/391731249386",
-          "name": "مُكَمِّلات",
-          "parent": "gid://shopify/Collection/391525302506"
-      }, {
-          "category": "gid://shopify/Collection/391731314922",
-          "parent": "gid://shopify/Collection/391525302506",
-          "name": "المناشف والفانيلات"
-      }, {
-          "parent": "gid://shopify/Collection/391525302506",
-          "category": "gid://shopify/Collection/391731380458",
-          "name": "طاولات وطاولات تغيير"
-      }, {
-          "parent": "gid://shopify/Collection/391525302506",
-          "category": "gid://shopify/Collection/391731413226",
-          "name": "العناية بالفم"
-      }, {
-          "category": "gid://shopify/Collection/391525368042",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/feeding_9289b334-4348-4394-bdc5-b48c1f575079.jpg?v=1661111676",
-          "name": "تغذية"
-      }, {
-          "category": "gid://shopify/Collection/391731445994",
-          "parent": "gid://shopify/Collection/391525564650",
-          "name": "الرضاعة الطبيعية"
-      }, {
-          "category": "gid://shopify/Collection/391731478762",
-          "parent": "gid://shopify/Collection/391525368042",
-          "name": "الحليب"
-      }, {
-          "parent": "gid://shopify/Collection/391525368042",
-          "category": "gid://shopify/Collection/391731511530",
-          "name": "زجاجات وملحقاتها"
-      }, {
-          "parent": "gid://shopify/Collection/391525368042",
-          "category": "gid://shopify/Collection/391731544298",
-          "name": "طعام للاطفال"
-      }, {
-          "category": "gid://shopify/Collection/391525400810",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/baby-clothes.jpg?v=1661109413",
-          "name": "ملابس"
-      }, {
-          "parent": "gid://shopify/Collection/391525400810",
-          "category": "gid://shopify/Collection/391731577066",
-          "name": "ملابس اولاد"
-      }, {
-          "parent": "gid://shopify/Collection/391525564650",
-          "category": "gid://shopify/Collection/391731642602",
-          "name": "ملابس الحمل"
-      }, {
-          "parent": "gid://shopify/Collection/391525400810",
-          "category": "gid://shopify/Collection/391731675370",
-          "name": "أساسيات الغسيل"
-      }, {
-          "category": "gid://shopify/Collection/391525433578",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/baby-gears.jpg?v=1661109414",
-          "name": "معدات"
-      }, {
-          "category": "gid://shopify/Collection/391731708138",
-          "parent": "gid://shopify/Collection/391525433578",
-          "name": "عربات الأطفال وعربات الأطفال"
-      }, {
-          "parent": "gid://shopify/Collection/391525433578",
-          "category": "gid://shopify/Collection/391731740906",
-          "name": "مقاعد السيارة ومستلزمات السيارة"
-      }, {
-          "parent": "gid://shopify/Collection/391525433578",
-          "category": "gid://shopify/Collection/391731773674",
-          "name": "مشايات وأخرى"
-      }, {
-          "category": "gid://shopify/Collection/391525466346",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/furniture.jpg?v=1661109414",
-          "name": "أثاث"
-      }, {
-          "parent": "gid://shopify/Collection/391525466346",
-          "category": "gid://shopify/Collection/391731806442",
-          "name": "أسرة وأسرّة"
-      }, {
-          "category": "gid://shopify/Collection/391731839210",
-          "parent": "gid://shopify/Collection/391525466346",
-          "name": "أغطية وبياضات"
-      }, {
-          "category": "gid://shopify/Collection/391731904746",
-          "parent": "gid://shopify/Collection/391525466346",
-          "name": "أثاث آخر"
-      }, {
-          "category": "gid://shopify/Collection/391525499114",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/toys.jpg?v=1661109413",
-          "name": "ألعاب الأطفال"
-      }, {
-          "category": "gid://shopify/Collection/391731937514",
-          "parent": "gid://shopify/Collection/391525499114",
-          "name": "اللعب 0-6 شهور"
-      }, {
-          "parent": "gid://shopify/Collection/391525499114",
-          "category": "gid://shopify/Collection/391731970282",
-          "name": "اللعب من 6 إلى 12 شهرًا"
-      }, {
-          "category": "gid://shopify/Collection/391732003050",
-          "parent": "gid://shopify/Collection/391525499114",
-          "name": "اللعب من 12 إلى 24 شهرًا"
-      }, {
-          "category": "gid://shopify/Collection/391525531882",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/safety.jpg?v=1661109413",
-          "name": "معدات السلامة"
-      }, {
-          "category": "gid://shopify/Collection/391732035818",
-          "parent": "gid://shopify/Collection/391525531882",
-          "name": "إلكترونيات"
-      }, {
-          "category": "gid://shopify/Collection/391732101354",
-          "parent": "gid://shopify/Collection/391525531882",
-          "name": "أساسيات السلامة"
-      }, {
-          "category": "gid://shopify/Collection/391525564650",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mama.jpg?v=1661109413"
-      }, {
-          "parent": "gid://shopify/Collection/391525564650",
-          "category": "gid://shopify/Collection/391732134122",
-          "name": "وجه الجسم"
-      }, {
-          "category": "gid://shopify/Collection/391732199658",
-          "parent": "gid://shopify/Collection/391525564650",
-          "name": "الصحة والعافية"
-      }, {
-          "category": "gid://shopify/Collection/391525597418",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/pharmacy.jpg?v=1661109414",
-          "name": "صيدلية"
-      }, {
-          "category": "gid://shopify/Collection/425789653226",
-          "parent": "gid://shopify/Collection/391525597418",
-          "name": "صيدلية بدون وصفة طبية"
-      }, {
-          "category": "gid://shopify/Collection/391732232426",
-          "parent": "gid://shopify/Collection/391525597418",
-          "name": "صيدلية اطفال"
-      }, {
-          "category": "gid://shopify/Collection/391732265194",
-          "parent": "gid://shopify/Collection/391525597418",
-          "name": "صيدلية ماما"
-      }],
-      "parallax": false,
-      "parallaxImageRatio": 1.2
-  }, {
+    "layout": "category",
+    "icon": "rectangle_grid_2x2",
+    "fontFamily": "CupertinoIcons",
+    "label": "Collections",
+    "pos": 200,
+    "visible": true,
+    "defaultTab": false,
+    "fullscreen": false,
+    "categoryLayout": "sideMenuWithGroup",
+    "remapCategories": [{
+        "category": "gid://shopify/Collection/391525368042",
+        "name": "Breast Feeding"
+    }, {
+        "category": "gid://shopify/Collection/391731445994",
+        "parent": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/429282361578",
+        "parent": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/429282394346",
+        "parent": "gid://shopify/Collection/391525368042"
+    }, {
+        "category": "gid://shopify/Collection/429282427114",
+        "parent": "gid://shopify/Collection/391525368042"
+    }, {
+        "category": "gid://shopify/Collection/429280592106",
+        "parent": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/429283606762",
+        "parent": "gid://shopify/Collection/391525368042"
+    }, {
+        "category": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/391731511530",
+        "parent": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/91737981031",
+        "parent": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/429294780650",
+        "parent": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/429294813418",
+        "parent": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/429294846186",
+        "parent": "gid://shopify/Collection/429408059626"
+    }, {
+        "category": "gid://shopify/Collection/429388234986"
+    }, {
+        "category": "gid://shopify/Collection/429388267754",
+        "parent": "gid://shopify/Collection/429388234986"
+    }, {
+        "category": "gid://shopify/Collection/429388333290",
+        "parent": "gid://shopify/Collection/429388234986"
+    }, {
+        "category": "gid://shopify/Collection/429302022378",
+        "parent": "gid://shopify/Collection/429388234986"
+    }, {
+        "category": "gid://shopify/Collection/429388431594",
+        "parent": "gid://shopify/Collection/429388234986"
+    }, {
+        "category": "gid://shopify/Collection/279362207928"
+    }, {
+        "category": "gid://shopify/Collection/429388857578",
+        "parent": "gid://shopify/Collection/279362207928"
+    }, {
+        "category": "gid://shopify/Collection/239663153336",
+        "parent": "gid://shopify/Collection/279362207928"
+    }, {
+        "category": "gid://shopify/Collection/279362076856",
+        "parent": "gid://shopify/Collection/279362207928"
+    }, {
+        "category": "gid://shopify/Collection/429388628202"
+    }, {
+        "category": "gid://shopify/Collection/429388693738",
+        "parent": "gid://shopify/Collection/429388628202"
+    }, {
+        "category": "gid://shopify/Collection/429388726506",
+        "parent": "gid://shopify/Collection/429388628202"
+    }, {
+        "category": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/391525269738",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/391730626794",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/391730561258",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/391731183850",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/279358734520",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/279358668984",
+        "parent": "gid://shopify/Collection/399735587050"
+    }, {
+        "category": "gid://shopify/Collection/429409730794"
+    }, {
+        "category": "gid://shopify/Collection/92118089831",
+        "parent": "gid://shopify/Collection/429409730794"
+    }, {
+        "category": "gid://shopify/Collection/279360831672",
+        "parent": "gid://shopify/Collection/429409730794"
+    }, {
+        "category": "gid://shopify/Collection/429396394218",
+        "parent": "gid://shopify/Collection/429409730794"
+    }, {
+        "category": "gid://shopify/Collection/391731314922",
+        "parent": "gid://shopify/Collection/429409730794"
+    }, {
+        "category": "gid://shopify/Collection/391731216618"
+    }, {
+        "category": "gid://shopify/Collection/279360110776",
+        "parent": "gid://shopify/Collection/391731216618"
+    }, {
+        "category": "gid://shopify/Collection/236335497400",
+        "parent": "gid://shopify/Collection/391731216618"
+    }, {
+        "category": "gid://shopify/Collection/279360766136",
+        "parent": "gid://shopify/Collection/391731216618"
+    }, {
+        "category": "gid://shopify/Collection/279932502200",
+        "parent": "gid://shopify/Collection/391731216618"
+    }, {
+        "category": "gid://shopify/Collection/391525531882"
+    }, {
+        "category": "gid://shopify/Collection/391732101354",
+        "parent": "gid://shopify/Collection/391525531882"
+    }, {
+        "category": "gid://shopify/Collection/391525400810"
+    }, {
+        "category": "gid://shopify/Collection/391731577066",
+        "parent": "gid://shopify/Collection/391525400810"
+    }, {
+        "category": "gid://shopify/Collection/391731609834",
+        "parent": "gid://shopify/Collection/391525400810"
+    }, {
+        "category": "gid://shopify/Collection/273951195320",
+        "parent": "gid://shopify/Collection/391525400810"
+    }, {
+        "category": "gid://shopify/Collection/279364108472"
+    }, {
+        "category": "gid://shopify/Collection/429397704938",
+        "parent": "gid://shopify/Collection/279364108472"
+    }, {
+        "category": "gid://shopify/Collection/391731708138",
+        "parent": "gid://shopify/Collection/279364108472"
+    }, {
+        "category": "gid://shopify/Collection/391731773674",
+        "parent": "gid://shopify/Collection/279364108472"
+    }, {
+        "category": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/391731642602",
+        "parent": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/142600667239",
+        "parent": "gid://shopify/Collection/429400031466"
+    }, {
+        "category": "gid://shopify/Collection/429559709930",
+        "parent": "gid://shopify/Collection/429400031466",
+        "name": "Pregnancy Pillows"
+    }, {
+        "category": "gid://shopify/Collection/429559873770",
+        "name": "Pregnancy & After Birth"
+    }, {
+        "category": "gid://shopify/Collection/429559939306",
+        "parent": "gid://shopify/Collection/429559873770",
+        "name": "Postpartum Recovery\r\n"
+    }, {
+        "category": "gid://shopify/Collection/391525433578"
+    }, {
+        "category": "gid://shopify/Collection/279364206776",
+        "parent": "gid://shopify/Collection/391525433578"
+    }, {
+        "category": "gid://shopify/Collection/429399441642",
+        "parent": "gid://shopify/Collection/391525433578"
+    }, {
+        "category": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/279368138936",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/391731937514",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/391731970282",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/391732003050",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/399735881962",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/428537446634",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/429142737130",
+        "parent": "gid://shopify/Collection/391525499114"
+    }, {
+        "category": "gid://shopify/Collection/391525466346"
+    }, {
+        "category": "gid://shopify/Collection/391731806442",
+        "parent": "gid://shopify/Collection/391525466346"
+    }, {
+        "category": "gid://shopify/Collection/391731839210",
+        "parent": "gid://shopify/Collection/391525466346"
+    }, {
+        "category": "gid://shopify/Collection/391525597418"
+    }, {
+        "category": "gid://shopify/Collection/391732265194",
+        "parent": "gid://shopify/Collection/391525597418"
+    }, {
+        "category": "gid://shopify/Collection/391732232426",
+        "parent": "gid://shopify/Collection/391525597418"
+    }],
+    "parallax": false,
+    "parallaxImageRatio": 1.2,
+    "key": "26e4jno0u9"
+}, {
       "label": "الماركات",
       "icon": "circle_grid_3x3_fill",
       "layout": "dynamic",
