@@ -477,7 +477,7 @@
       "parallaxImageRatio": 1.2,
       "isHorizontal": false,
       "parallax": false
-  } {
+  }, {
       "layout": "bannerImage",
       "design": "static",
       "fit": "fitWidth",
