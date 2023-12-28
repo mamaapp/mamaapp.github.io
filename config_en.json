@@ -1808,25 +1808,7 @@
             "products": []
         }],
         "marginTop": 0
-    },  {
-        "hideCaption": false,
-        "usePath": true,
-        "itemHeight": 200,
-        "viewLayout": "media",
-        "itemSpacing": 6,
-        "marginLeft": 5,
-        "marginRight": 6,
-        "layout": "instagramStory",
-        "path": "mamaappco/feed?__a=1&__d=dis",
-        "itemBorderRadius": 0,
-        "hideAvatar": true,
-        "limit": 10,
-        "itemWidth": 115.5,
-        "marginBottom": 10,
-        "time": 10,
-        "items": [],
-        "marginTop": 10
-    }, {
+    },   {
         "parallax": false,
         "enableParallax": false,
         "isHorizontal": false,
