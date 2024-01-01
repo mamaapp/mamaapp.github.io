@@ -47,17 +47,7 @@
         "layout": "bannerImage",
         "marginBottom": 0,
         "autoPlay": true,
-        "items": [{
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/qatar_national_day_mobile_bnr.jpg?v=1703510688",
-            "bannerWithProduct": false,
-            "showSubcategory": false,
-            "video": "",
-            "enableBackward": false,
-            "defaultShowProduct": false,
-            "url": "https://mamaapp.co/pages/promotions",
-            "products": [],
-            "enableForward": false
-        }, {
+        "items": [ {
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breast_pumps_mobile_slider_v1.jpg?v=1703507101",
             "bannerWithProduct": false,
             "name": "مضخة الثدي",
