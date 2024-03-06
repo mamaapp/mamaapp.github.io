@@ -1892,7 +1892,70 @@
       "StickyHeader": false,
       "shippingNote1" : "Note:",
       "shippingNote2" : "Orders Received before 4pm are delivered same day, if order received after 4pm it will be delivered next day.",
-      "shippingNote3" : "Available Delivery between: 10AM to 7PM Saturday to Thursday and 2pm to 7pm Friday"
+      "shippingNote3" : "Available Delivery between: 10AM to 7PM Saturday to Thursday and 2pm to 7pm Friday",
+      "SmartEngagementBanner": {
+        "popup": {
+            "enable": true,
+            "alwaysShowUponOpen": true,
+            "closePosition": "topRight",
+            "data": {
+                "layout": "bannerImage",
+                "design": "static",
+                "fit": "fitWidth",
+                "marginLeft": 0.0,
+                "items": [{
+                    "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Prmo_Codes_Banner.gif?v=1709737897",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false,
+                    "products": [],
+                    "tab": "page",
+                    "padding": 13.1,
+                    "video": ""
+                }],
+                "marginBottom": 0.0,
+                "height": 0.35,
+                "marginRight": 0.0,
+                "marginTop": 9.0,
+                "enableParallax": false,
+                "parallaxImageRatio": 1.2,
+                "isHorizontal": false,
+                "parallax": false,
+                "key": "rMfOSXjveI"
+            }
+        },
+        "flexible": {
+            "enable": false,
+            "canDrag": true,
+            "canClose": true,
+            "width": 235.0,
+            "height": 119.0,
+            "data": {
+                "alignment": "topCenter",
+                "marginTop": 0.0,
+                "marginBottom": 0.0,
+                "items": [{
+                    "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/gift-animated-button.gif?v=1709723344",
+                    "width": 158.0,
+                    "height": 93.0,
+                    "borderRadius": 2.0,
+                    "marginLeft": 0.0,
+                    "marginRight": 127.0,
+                    "textFontSize": 14.0,
+                    "useMaxWidth": false,
+                    "navigator": {
+                        "showSubcategory": false,
+                        "tab": "page"
+                    }
+                }],
+                "layout": "button",
+                "key": "sOgCoLEtNM"
+            }
+        },
+        "sticky": {
+            "enable": false
+        }
+    }
     },
     "TabBar": [{
       "layout": "home",
