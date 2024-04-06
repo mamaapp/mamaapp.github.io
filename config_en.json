@@ -35,7 +35,7 @@
       "radius": 9,
       "enableTimeIndicator": true,
       "height": 0.3,
-      "intervalTime": 5,
+      "intervalTime": 6,
       "padding": 0,
       "upHeight": 0,
       "pageIndicatorType": "line",
@@ -48,6 +48,14 @@
       "marginBottom": 0,
       "autoPlay": true,
       "items": [{
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Eid_Banner_Mobile_2024_edited.jpg?v=1712253465",
+        "bannerWithProduct": false,
+        "showSubcategory": false,
+        "video": "",
+        "category": "gid://shopify/Collection/91738407015",
+        "defaultShowProduct": false,
+        "products": []
+      },{
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Main__Mobile_Banner_v1.jpg?v=1706536488",
         "bannerWithProduct": false,
         "name": "Breast Pump",
@@ -64,15 +72,7 @@
         "category": "gid://shopify/Collection/428867617002",
         "defaultShowProduct": false,
         "products": []
-      }, {
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamacare_Main_Banner_v1-24mobile.jpg?v=1705778145",
-        "bannerWithProduct": false,
-        "showSubcategory": false,
-        "video": "",
-        "category": "gid://shopify/Collection/429400031466",
-        "defaultShowProduct": false,
-        "products": []
-      }, {
+      },  {
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/medela_Main_Banner_v1-24mobile.jpg?v=1705778146",
         "bannerWithProduct": false,
         "showSubcategory": false,
