@@ -22,7 +22,8 @@
       "parallaxImageRatio": 1.2,
       "isHorizontal": false,
       "parallax": false
-  }, {
+  },
+   {
       "isSafeArea": false,
       "showSearch": true,
       "usePrimaryColor": true,
@@ -69,7 +70,7 @@
           "products": [],
           "padding": 0.0,
           "radius": 0.0,
-          "category": "gid://shopify/Collection/391525368042",
+          "category": "gid://shopify/Collection/436927955178",
           "video": ""
       }],
       "marginBottom": 0.0,
@@ -303,7 +304,8 @@
           "width": 112.00934579439252,
           "height": 150.60747663551402
       }
-  }, {
+  }, 
+  {
       "parallax": false,
       "enableParallax": false,
       "isHorizontal": false,
