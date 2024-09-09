@@ -1768,7 +1768,7 @@
         "defaultTab": false,
         "fontFamily": "CupertinoIcons",
         "fullscreen": false,
-        "categoryLayout": "sideMenuWithGroup",
+        "categoryLayout": "multiLevel",
         "remapCategories": [{
             "name": "Breast Feeding",
             "category": "gid://shopify/Collection/391525368042"
