@@ -68,7 +68,7 @@
       "products": [],
       "padding": 0.0,
       "radius": 0.0,
-      "category": "gid://shopify/Collection/391525368042",
+      "category": "gid://shopify/Collection/436927955178",
       "video": ""
   }],
   "marginBottom": 0.0,
@@ -493,17 +493,17 @@
       "isFeatured": false,
       "productType": false
     }, {
-      "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/motorola_brand_bnr_v1_ar.png?v=1704364607",
-      "showDescription": false,
-      "originalColor": true,
+      "category": "gid://shopify/Collection/429260833002",
+      "image": "https://mamaapp.co/cdn/shop/files/BabyMonitors_BrandBanner_v03.png",
       "showText": false,
+      "originalColor": true,
       "keepDefaultTitle": false,
+      "showDescription": false,
+      "productType": false,
+      "title": "Baby Monitors",
       "onSale": false,
-      "category": "gid://shopify/Collection/429464715498",
-      "title": "",
-      "isFeatured": false,
-      "productType": false
-    }, {
+      "isFeatured": false
+  }, {
       "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mustela_brand_bnr_v1_ar.png?v=1704364607",
       "showDescription": false,
       "originalColor": true,
