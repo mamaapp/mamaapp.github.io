@@ -1609,7 +1609,7 @@
       "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
-      "categoryLayout": "sideMenuWithGroup",
+      "categoryLayout": "automation",
       "remapCategories": [{
           "category": "gid://shopify/Collection/391525368042"
       }, {
