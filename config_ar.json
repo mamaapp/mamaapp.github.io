@@ -70,15 +70,7 @@
         "showSubcategory": false,
         "bannerWithProduct": false,
         "defaultShowProduct": false
-    },{
-          "image": "https://mamaapp.co/cdn/shop/files/elvie-Mobile_Main_Banner_v5_2024_ar_UPDATED.jpg?v=1725351192",
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "products": [],
-          "category": "gid://shopify/Collection/436927955178",
-          "video": ""
-      }, {
+    }, {
         "name": "BabyBrezza",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-MOBILE-03-ARABIC.jpg?v=1728304519",
         "video": "",
@@ -97,6 +89,14 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     }, {
+        "image": "https://mamaapp.co/cdn/shop/files/elvie-Mobile_Main_Banner_v5_2024_ar_UPDATED.jpg?v=1725351192",
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false,
+        "products": [],
+        "category": "gid://shopify/Collection/436927955178",
+        "video": ""
+    },{
           "name": "Baby Toys",
           "image": "https://mamaapp.co/cdn/shop/files/BABY-TOYS-Mobile_Main_Banner_v5_2024_ar_UPDATED.jpg?v=1725361103&width=750",
           "products": [],
