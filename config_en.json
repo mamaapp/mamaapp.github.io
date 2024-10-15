@@ -309,8 +309,8 @@
         "imageBorderStyle": "solid",
         "showShortDescription": true
     },{
-        "name": "Discounts Up to 35%⚡️",
-        "layout": "saleOff",
+        "name": " ",
+        "layout": "threeColumn",
         "isSnapping": false,
         "rows": 1,
         "columns": 0,
