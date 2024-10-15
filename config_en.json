@@ -309,7 +309,7 @@
         "imageBorderStyle": "solid",
         "showShortDescription": true
     },{
-        "name": "Discounts Up to 35%⚡️",
+        "name": "Discounts Up to 35%",
         "layout": "threeColumn",
         "isSnapping": false,
         "rows": 1,
@@ -317,7 +317,7 @@
         "imageBoxfit": "cover",
         "imageRatio": 1.0,
         "hMargin": 4.0,
-        "vMargin": 28.0,
+        "vMargin": 18.0,
         "hPadding": 7.0,
         "vPadding": 3.0,
         "showStockStatus": false,
@@ -340,9 +340,9 @@
         "showCountDown": false,
         "backgroundColor": "ff23578c",
         "backgroundImage": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/save-big-en_861cd93c-5ce9-42ad-b79b-ba88db2a797f.png?v=1728994088",
-        "spaceWidth": 123.3644859813084,
-        "backgroundHeight": 292.0,
-        "backgroundBoxFit": "fitHeight",
+        "spaceWidth": 89.7196261682243,
+        "backgroundHeight": 278.0,
+        "backgroundBoxFit": "cover",
         "category": "gid://shopify/Collection/438475981034",
         "image": "",
         "marginBGP": {
@@ -358,12 +358,12 @@
         "parallax": false,
         "parallaxImageRatio": 1.2,
         "hideEmptyProductLayout": false,
-        "productListItemHeight": 312.4,
+        "productListItemHeight": 308.00000000000006,
         "enableAutoSliding": false,
         "productType": false,
         "titleLine": 2,
-        "orderby": "menu_order"
-    }, {
+        "limit": 20
+    },  {
         "fit": "fill",
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/cat-bg-pink.png?v=1702575463",
