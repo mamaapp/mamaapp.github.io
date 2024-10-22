@@ -134,7 +134,7 @@
         "parallaxImageRatio": 1.2,
         "isHorizontal": false,
         "isSlider": true,
-        "autoPlay": true,
+        "autoPlay": false,
         "intervalTime": 20,
         "showNumber": false,
         "isBlur": false,
