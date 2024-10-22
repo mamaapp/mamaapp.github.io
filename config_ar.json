@@ -3448,7 +3448,7 @@
               "enableAutoSliding": true,
               "showCartIconColor": false,
               "parallaxImageRatio": 1.2,
-              "durationAutoSliding": 25,
+              "durationAutoSliding": 0,
               "enableBottomAddToCart": true,
               "productListItemHeight": 93,
               "hideEmptyProductLayout": false,

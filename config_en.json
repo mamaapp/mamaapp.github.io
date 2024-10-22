@@ -1732,7 +1732,7 @@
         "showCartIconColor": false,
         "parallaxImageRatio": 1.2,
         "backgroundWidthMode": true,
-        "durationAutoSliding": 16,
+        "durationAutoSliding": 0,
         "enableBottomAddToCart": false,
         "productListItemHeight": 120.0,
         "hideEmptyProductLayout": false,
@@ -1740,6 +1740,39 @@
         "showCartButtonWithQuantity": false,
         "orderby": "menu_order"
     }, {
+        "items": [{
+            "id": "[#104bb]",
+            "code": "DBRU0jQINJ7",
+            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t51.29350-15/463645467_921460219841152_375004930697672568_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=7t1QH84gNHsQ7kNvgE36j2G&_nc_gid=9d850a94cbcf4f1ea423e0db38f22808&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ4MTY1NTU1OTEyODY2Njc0Nw%3D%3D.3-ccb7-5&oh=00_AYD23iC6UHmaMoqJ9F3gtyGpcEOiShaVMjXhVStikaLnXg&oe=671D6F3C&_nc_sid=7a9f4b"
+        }, {
+            "id": "[#46fdf]",
+            "code": "DBRUMDUoGHI",
+            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t51.29350-15/464003146_3771962979684006_7054572326049596404_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=U4IjL-L5gxMQ7kNvgGWG8E3&_nc_gid=9d850a94cbcf4f1ea423e0db38f22808&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ4MTY1Mjc3NjA2NTMyNzU2MA%3D%3D.3-ccb7-5&oh=00_AYCNqW5zcYr7BBBeXI7Wk8CLhwV9slMI7zAA4VwuGmpFcw&oe=671D6F11&_nc_sid=7a9f4b"
+        }, {
+            "id": "[#a0bae]",
+            "code": "DBRT06WIPEt",
+            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t51.29350-15/463487538_1621139702116905_8480413888515838632_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=lkMYcgXMMDQQ7kNvgHoCRN3&_nc_gid=9d850a94cbcf4f1ea423e0db38f22808&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ4MTY1MTE4NTg3ODg4ODc0OQ%3D%3D.3-ccb7-5&oh=00_AYCQPlMJEfJZqo98fg8OulCyHDt8gUs75KHdMdzAXRpoUw&oe=671D77DF&_nc_sid=7a9f4b"
+        }, {
+            "id": "[#6c035]",
+            "code": "DBDtg1NOWl3",
+            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t39.30808-6/462685148_881300187435868_2081763672279857339_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=mQafMyzIjwQQ7kNvgHUh3SH&_nc_gid=9d850a94cbcf4f1ea423e0db38f22808&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzQ3NzgyMzUwNTUwNjU5MzE0Mw%3D%3D.3-ccb7-5&oh=00_AYDyZzih2EOWHf2X2yu5Yl_autu7ouls1qPb9o7wOFTdiQ&oe=671D7D98&_nc_sid=7a9f4b"
+        }],
+        "usePath": false,
+        "marginLeft": 0.0,
+        "marginRight": 0.0,
+        "marginTop": 14.000000000000002,
+        "marginBottom": 10.0,
+        "limit": 10,
+        "time": 10,
+        "itemBorderRadius": 10,
+        "itemWidth": 161.0,
+        "itemHeight": 161.0,
+        "viewLayout": "iframe",
+        "itemSpacing": 10,
+        "hideAvatar": true,
+        "hideCaption": false,
+        "layout": "instagramStory"
+    },{
         "fit": "contain",
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/customer_safety.jpg?v=1663876359",
