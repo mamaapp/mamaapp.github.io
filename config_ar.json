@@ -71,7 +71,7 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     },{
-        "name": "Breast Care",
+        "name": "العناية بالرضاعة",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-04---B-ARABIC.jpg?v=1728303690",
         "video": "",
         "category": "gid://shopify/Collection/429280592106",
@@ -80,7 +80,7 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     }, {
-        "name": "BabyBrezza",
+        "name": "بيبي بريزا",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-MOBILE-03-ARABIC.jpg?v=1728304519",
         "video": "",
         "category": "gid://shopify/Collection/399243575530",
@@ -89,7 +89,7 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     }, {
-        "name": "Baby Monitors",
+        "name": "أجهزة مراقبة الأطفال",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_MOBILE-02_ARABIC.jpg?v=1728204381",
         "video": "",
         "category": "gid://shopify/Collection/429399441642",
@@ -104,26 +104,26 @@
         "defaultShowProduct": false,
         "products": [],
         "category": "gid://shopify/Collection/436927955178",
-        "video": ""
+        "video": "إلفي"
     },{
-          "name": "Baby Toys",
-          "image": "https://mamaapp.co/cdn/shop/files/BABY-TOYS-Mobile_Main_Banner_v5_2024_ar_UPDATED.jpg?v=1725361103&width=750",
-          "products": [],
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/272651976888",
-          "video": ""
-      }, {
-          "name": "Strollers & Baby Carriers",
-          "image": "https://mamaapp.co/cdn/shop/files/STROLLERS-Mobile_Main_Banner_v5_2024_ar_UPDATED.jpg?v=1725361128&width=750",
-          "products": [],
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/432710549738",
-          "video": ""
-      }],
+        "name": "ستيفن جوزيف",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-07---ENGLISH-B.jpg?v=1729508411",
+        "video": "",
+        "category": "gid://shopify/Collection/429388955882",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    }, {
+        "name": "عربات الأطفال وحمالات الأطفال",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-06---ENGLISH-B.jpg?v=1729507189",
+        "video": "",
+        "category": "gid://shopify/Collection/432710549738",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    }],
       "marginBottom": 0.0,
       "height": 0.3,
       "marginRight": null,
