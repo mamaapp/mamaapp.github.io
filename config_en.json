@@ -1793,7 +1793,7 @@
         "itemBorderRadius": 10,
         "itemWidth": 161.0,
         "itemHeight": 161.0,
-        "viewLayout": "mediaWithCap",
+        "viewLayout": "iframe",
         "itemSpacing": 10,
         "hideAvatar": true,
         "hideCaption": false,
