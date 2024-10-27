@@ -154,8 +154,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "hhttps://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaCare_Category_V5.webp?v=1724000528&width=400",
-            "title": "Jeans",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaCare_Category_V5.webp?v=1724000528&width=400",
+            "title": "Mama Care",
             "onSale": false,
             "category": "gid://shopify/Collection/437661270250",
             "showText": false,
@@ -1065,6 +1065,7 @@
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/stroller_category_bnr_v3.png?v=1701515287",
             "onSale": false,
+            "title": "Strollers",
             "category": "gid://shopify/Collection/432710549738",
             "showText": false,
             "isFeatured": false,
@@ -1074,7 +1075,7 @@
             "keepDefaultTitle": false
         }, {
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/bouncers_category_bnr_v3.png?v=1701515823",
-            "title": "Jeans",
+            "title": "Bouncers",
             "onSale": false,
             "category": "gid://shopify/Collection/429397704938",
             "showText": false,
@@ -1203,6 +1204,7 @@
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babytoys_mobile_section_top_bnr_v1.png?v=1703333949",
             "video": "",
+            "title": "Baby Toys",
             "padding": 2.4,
             "category": "gid://shopify/Collection/391525499114",
             "products": [],
@@ -1367,6 +1369,7 @@
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babybooks_mobile_section_top_bnr_v1.png?v=1703334624",
             "video": "",
+            "title": "Books for Baby",
             "padding": 2.4,
             "category": "gid://shopify/Collection/428537413866",
             "products": [],
