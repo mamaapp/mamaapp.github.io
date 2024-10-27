@@ -63,7 +63,7 @@
         "marginLeft": null,
         "items": [{
             "name": "Special Discounts",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/PromoPost1920by1080_P1_App_1.gif?v=1729602661",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaApp_MobileBanner_Discount_V3.jpg?v=1728975911",
             "video": "",
             "category": "gid://shopify/Collection/438475981034",
             "products": [],
@@ -144,9 +144,9 @@
         "type": "image",
         "wrap": false,
         "items": [{
-            "image": "https://mamaapp.co/cdn/shop/files/babyfeeding_Category_v01.png?v=1701085361&width=400",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babycare_Category_V5.webp?v=1724000528&width=400",
             "onSale": false,
-            "category": "gid://shopify/Collection/429282984170",
+            "category": "gid://shopify/Collection/437661040874",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -154,10 +154,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/babycare_Category_v01.png?v=1701085361&width=400",
+            "image": "hhttps://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaCare_Category_V5.webp?v=1724000528&width=400",
             "title": "Jeans",
             "onSale": false,
-            "category": "gid://shopify/Collection/430688370922",
+            "category": "gid://shopify/Collection/437661270250",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -165,17 +165,7 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamacare_Category_v01_03.png?v=1702645824",
-            "onSale": false,
-            "category": "gid://shopify/Collection/429400031466",
-            "showText": false,
-            "isFeatured": false,
-            "productType": false,
-            "originalColor": true,
-            "showDescription": false,
-            "keepDefaultTitle": false
-        }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/gear_Category_v01.png?v=1702646906",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Gears_Category_V5.webp?v=1724000528",
             "onSale": false,
             "category": "gid://shopify/Collection/391525433578",
             "showText": false,
@@ -185,10 +175,9 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/clothes_Category_v01.png?v=1701088055&width=400",
-            "title": "Suit",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Clothes_Category_V5.webp?v=1724000528",
             "onSale": false,
-            "category": "gid://shopify/Collection/391525400810",
+            "category": "gid://shopify/Collection/437661434090",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -196,8 +185,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/toys_Category_v01.png?v=1701089142&width=400",
-            "title": "Jacket",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Category_V5.webp?v=1724000528&width=400",
+            "title": "Suit",
             "onSale": false,
             "category": "gid://shopify/Collection/391525499114",
             "showText": false,
@@ -207,10 +196,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/babyfood_Category_v01.png?v=1701090088&width=400",
-            "title": "Dress",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BabyFood_Category_V5.webp?v=1724000529&width=400",
+            "title": "Baby Food",
             "onSale": false,
-            "category": "gid://shopify/Collection/429282984170",
+            "category": "gid://shopify/Collection/391731544298",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -218,10 +207,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/mealtime_essentials_category_bnr.png?v=1701092538&width=400",
-            "title": "Bag",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BabyDiapers_Category_V5.webp?v=1724000528&width=400",
+            "title": "Diapers",
             "onSale": false,
-            "category": "gid://shopify/Collection/429388234986",
+            "category": "gid://shopify/Collection/270193066168",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -229,19 +218,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/diapers_Category_v01.png?v=1701094333&width=400",
-            "title": "Glasses",
-            "onSale": false,
-            "category": "gid://shopify/Collection/399735587050",
-            "showText": false,
-            "isFeatured": false,
-            "productType": false,
-            "originalColor": true,
-            "showDescription": false,
-            "keepDefaultTitle": false
-        }, {
-            "image": "https://mamaapp.co/cdn/shop/files/bottles_nipples_Category_v01.png?v=1701097535&width=400",
-            "title": "Hat",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bottles_Nipples_Category_V5.webp?v=1724000527&width=400",
+            "title": "Bottles & Nipples",
             "onSale": false,
             "category": "gid://shopify/Collection/91737981031",
             "showText": false,
@@ -251,9 +229,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://mamaapp.co/cdn/shop/files/pharmacy_Category_v01.png?v=1701097536&width=400",
-            "title": "Shoes",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Pharmacy_Category_V5.webp?v=1724000528&width=400",
+            "title": "Pharmacy",
             "onSale": false,
+            "category": "gid://shopify/Collection/391525597418",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -261,7 +240,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/furniture_7aa0195d-0918-49db-9664-f2e1c59a60b5.jpg?v=1702569689",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Furniture_Category_V5.webp?v=1724000528",
+            "title": "Furniture",
             "onSale": false,
             "category": "gid://shopify/Collection/391525466346",
             "showText": false,
@@ -808,9 +788,10 @@
         "type": "image",
         "wrap": true,
         "items": [{
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breastcare_c_bnr_v01.png?v=1702475475",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breastpumps_category_bnr_v2.webp?v=1720274227",
             "onSale": false,
-            "category": "gid://shopify/Collection/429280592106",
+            "title": "Breast Pumps",
+            "category": "gid://shopify/Collection/429282361578",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -818,8 +799,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breastpumps_c_bnr_v01.png?v=1702477922",
-            "title": "Jeans",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/breastcare_category_bnr_v2.webp?v=1720274227",
+            "title": "Breast Care",
             "onSale": false,
             "category": "gid://shopify/Collection/429282361578",
             "showText": false,
@@ -829,8 +810,9 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milkstoragebags_c_v01.png?v=1702475854",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milkstoragebags_category_bnr_v2.webp?v=1720274227",
             "onSale": false,
+            "title": "Milk Storage Bags",
             "category": "gid://shopify/Collection/429282427114",
             "showText": false,
             "isFeatured": false,
@@ -839,8 +821,9 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/lactation_c_bnr_v01.png?v=1702476670",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Lactation_category_bnr_v2.webp?v=1720274227",
             "onSale": false,
+            "title": "Lactation",
             "category": "gid://shopify/Collection/391731445994",
             "showText": false,
             "isFeatured": false,
@@ -849,8 +832,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamapharmacy_c_bnr_v01.png?v=1702477274",
-            "title": "Suit",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamapharmacy_category_bnr_v2.webp?v=1720274227",
+            "title": "Mama Pharmacy",
             "onSale": false,
             "category": "gid://shopify/Collection/391732265194",
             "showText": false,
@@ -860,8 +843,8 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/feedingessentials_c_bnr_v01.png?v=1702476974",
-            "title": "Jacket",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/FeedingEssentials_category_bnr_v2.webp?v=1720274227",
+            "title": "Feeding Essential",
             "onSale": false,
             "category": "gid://shopify/Collection/429294649578",
             "showText": false,
@@ -1082,7 +1065,7 @@
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/stroller_category_bnr_v3.png?v=1701515287",
             "onSale": false,
-            "category": "gid://shopify/Collection/429400457450",
+            "category": "gid://shopify/Collection/432710549738",
             "showText": false,
             "isFeatured": false,
             "productType": false,
