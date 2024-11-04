@@ -2090,6 +2090,9 @@
         }, {
             "parent": "gid://shopify/Collection/438944268522",
             "category": "gid://shopify/Collection/429559709930"
+        },
+        {
+            "category": "gid://shopify/Collection/391732265194"
         }, 
         {
             "category": "gid://shopify/Collection/437661401322"
@@ -2186,27 +2189,8 @@
       },{
           "parent": "gid://shopify/Collection/437693219050",
           "category": "gid://shopify/Collection/437983215850"
-      },
-      {
-         "category": "gid://shopify/Collection/429776601322"
-     }, {
-         "parent": "gid://shopify/Collection/429776601322",
-         "category": "gid://shopify/Collection/437846671594"
-     }, {
-         "parent": "gid://shopify/Collection/429776601322",
-         "category": "gid://shopify/Collection/391732265194"
-     },{
-         "parent": "gid://shopify/Collection/429776601322",
-         "category": "gid://shopify/Collection/236334547128"
-     }, {
-        "parent": "gid://shopify/Collection/429776601322",
-        "category": "gid://shopify/Collection/437846638826"
-    }, {
-        "parent": "gid://shopify/Collection/429776601322",
-        "category": "gid://shopify/Collection/437853094122"
-    },{
-        "parent": "gid://shopify/Collection/429776601322",
-        "category": "gid://shopify/Collection/437853061354"
+      },{
+        "category": "gid://shopify/Collection/438475981034"
     }
     ],
         "parallaxImageRatio": 1.2,
