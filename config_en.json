@@ -63,7 +63,7 @@
         "marginLeft": null,
         "items": [{
             "name": "Special Discounts",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaApp_MobileBanner_Discount_V3.jpg?v=1728975911",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_02_-_B2_83018610-8bab-435b-ab96-1945d2e15181.jpg?v=1730706314",
             "video": "",
             "category": "gid://shopify/Collection/438475981034",
             "products": [],
@@ -71,19 +71,28 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false
         },{
-            "name": "Breast Care",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-04---B.jpg?v=1728299182",
+            "name": "FridaMom",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ENGLISH-B.jpg?v=1730383455",
             "video": "",
-            "category": "gid://shopify/Collection/429280592106",
+            "category": "gid://shopify/Collection/399244263658",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
         }, {
-            "name": "BabyBrezza",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-MOBILE-03-ENGLISH.jpg?v=1728304519",
+            "name": "Dr Browns",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-9---ENGLISH-B.jpg?v=1730286627",
             "video": "",
-            "category": "gid://shopify/Collection/399243575530",
+            "category": "gid://shopify/Collection/399244001514",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
+            "name": "Chicco",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ENGLISH-B.jpg?v=1730286669",
+            "video": "",
+            "category": "gid://shopify/Collection/399243837674",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -97,20 +106,11 @@
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
-        }, {
-            "name": "Stephen Joseph",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-07---ENGLISH-B.jpg?v=1729508411",
+        },  {
+            "name": "Elvie",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-10---ENGLISH-B.jpg?v=1730643412",
             "video": "",
-            "category": "gid://shopify/Collection/429388955882",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "Strollers & Baby Carriers",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-06---ENGLISH-B.jpg?v=1729507189",
-            "video": "",
-            "category": "gid://shopify/Collection/432710549738",
+            "category": "gid://shopify/Collection/436927955178",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,

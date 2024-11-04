@@ -62,8 +62,8 @@
       "fit": "fitWidth",
       "marginLeft": null,
       "items": [{
-        "name": "Special Discounts",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MamaApp_MobileBanner_Discount_V3.jpg?v=1728975911",
+        "name": "خصومات خاصة",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-ENGLISH-MOBILE-ARABIC.jpg?v=1729438797",
         "video": "",
         "category": "gid://shopify/Collection/438475981034",
         "products": [],
@@ -71,19 +71,28 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     },{
-        "name": "العناية بالرضاعة",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-04---B-ARABIC.jpg?v=1728303690",
+        "name": "فريدا موم",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ARABIC-B.jpg?v=1730383454",
         "video": "",
-        "category": "gid://shopify/Collection/429280592106",
+        "category": "gid://shopify/Collection/399244263658",
         "products": [],
         "showSubcategory": false,
         "bannerWithProduct": false,
         "defaultShowProduct": false
     }, {
-        "name": "بيبي بريزا",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-MOBILE-03-ARABIC.jpg?v=1728304519",
+        "name": "دكتور براونز",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-9---ARABIC-B.jpg?v=1730286627",
         "video": "",
-        "category": "gid://shopify/Collection/399243575530",
+        "category": "gid://shopify/Collection/399244001514",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    }, {
+        "name": "شيكو",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ARABIC-B.jpg?v=1730286670",
+        "video": "",
+        "category": "gid://shopify/Collection/399243837674",
         "products": [],
         "showSubcategory": false,
         "bannerWithProduct": false,
@@ -97,20 +106,11 @@
         "showSubcategory": false,
         "bannerWithProduct": false,
         "defaultShowProduct": false
-    }, {
-        "name": "ستيفن جوزيف",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-07---ARABIC-B.jpg?v=1729508411",
+    },  {
+        "name": "إلفي",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-10---ARABIC-B.jpg?v=1730643413",
         "video": "",
-        "category": "gid://shopify/Collection/429388955882",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    }, {
-        "name": "عربات الأطفال وحمالات الأطفال",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-06---ARABIC-B.jpg?v=1729507189",
-        "video": "",
-        "category": "gid://shopify/Collection/432710549738",
+        "category": "gid://shopify/Collection/436927955178",
         "products": [],
         "showSubcategory": false,
         "bannerWithProduct": false,
