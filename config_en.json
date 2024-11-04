@@ -23,42 +23,42 @@
         "enableParallax": false,
         "parallaxImageRatio": 1.2
     }, {
-        "font": "Roboto",
-        "type": "static",
-        "title": "Search ...",
-        "height": 40,
-        "layout": "header_search",
-        "radius": 9,
-        "rotate": [],
-        "fontSize": 14,
-        "minWidth": 0,
-        "alignment": "centerLeft",
-        "boxShadow": {
-            "x": 0,
-            "y": 4,
-            "blurRadius": 21.01010101010101,
-            "colorOpacity": 0.09,
-            "spreadRadius": 1.0101010101010102
-        },
-        "marginTop": 8,
-        "fontWeight": 0,
         "isSafeArea": false,
-        "marginLeft": 8,
-        "paddingTop": 0,
         "showSearch": true,
-        "borderInput": false,
-        "marginRight": 8,
-        "paddingLeft": 5,
-        "textOpacity": 0.3,
-        "marginBottom": 0,
-        "paddingRight": 15,
-        "paddingBottom": 0,
-        "backgroundColor": "#FFFFFF",
         "usePrimaryColor": true,
-        "backgroundGradientColor": []
+        "borderInput": true,
+        "title": "Search ...",
+        "type": "static",
+        "backgroundColor": "#FFFFFF",
+        "alignment": "centerLeft",
+        "fontWeight": 0,
+        "radius": 9,
+        "fontSize": 14,
+        "textOpacity": 0.3,
+        "marginLeft": 8,
+        "marginRight": 8,
+        "marginBottom": 0,
+        "marginTop": 8,
+        "paddingLeft": 5,
+        "paddingRight": 15,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "height": 40,
+        "boxShadow": {
+            "blurRadius": 21.01010101010101,
+            "colorOpacity": 0.18,
+            "spreadRadius": 1.0101010101010102,
+            "x": 0.0,
+            "y": 4.0
+        },
+        "rotate": [],
+        "minWidth": 0,
+        "backgroundGradientColor": [],
+        "font": "Roboto",
+        "layout": "header_search"
     }, {
         "layout": "bannerImage",
-        "design": "default",
+        "design": "swiper",
         "fit": "contain",
         "marginLeft": null,
         "items": [{
@@ -70,7 +70,7 @@
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
-        },{
+        }, {
             "name": "FridaMom",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ENGLISH-B.jpg?v=1730383455",
             "video": "",
@@ -106,7 +106,7 @@
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
-        },  {
+        }, {
             "name": "Elvie",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-10---ENGLISH-B.jpg?v=1730643412",
             "video": "",
@@ -117,7 +117,7 @@
             "defaultShowProduct": false
         }],
         "marginBottom": 0.0,
-        "height": 0.3,
+        "height": 0.25,
         "marginRight": null,
         "marginTop": 8.0,
         "radius": 0.0,
@@ -138,7 +138,7 @@
         "doubleTapToFullScreen": false,
         "pageIndicatorType": "circle",
         "parallax": false
-    }, {
+    },{
         "line": false,
         "size": 1,
         "type": "image",
@@ -1880,31 +1880,28 @@
         "fullscreen": false,
         "categoryLayout": "automation",
         "remapCategories": [{
-            "name": "Breast Feeding",
-            "category": "gid://shopify/Collection/391525368042"
+            "category": "gid://shopify/Collection/436672757994"
         }, {
-            "parent": "gid://shopify/Collection/429400031466",
-            "category": "gid://shopify/Collection/391731445994"
-        }, {
-            "parent": "gid://shopify/Collection/429400031466",
+            "parent": "gid://shopify/Collection/436672757994",
             "category": "gid://shopify/Collection/429282361578"
         }, {
-            "parent": "gid://shopify/Collection/391525368042",
-            "category": "gid://shopify/Collection/429282394346"
-        }, {
-            "parent": "gid://shopify/Collection/391525368042",
-            "category": "gid://shopify/Collection/429282427114"
-        }, {
-            "parent": "gid://shopify/Collection/429400031466",
+            "parent": "gid://shopify/Collection/436672757994",
             "category": "gid://shopify/Collection/429280592106"
         }, {
-            "parent": "gid://shopify/Collection/391525368042",
-            "category": "gid://shopify/Collection/429283606762"
+            "parent": "gid://shopify/Collection/436672757994",
+            "category": "gid://shopify/Collection/429282394346"
         }, {
+            "parent": "gid://shopify/Collection/436672757994",
+            "category": "gid://shopify/Collection/429282427114"
+        }, {
+            "parent": "gid://shopify/Collection/436672757994",
+            "category": "gid://shopify/Collection/391731445994"
+        }, 
+         {
             "category": "gid://shopify/Collection/429408059626"
         }, {
             "parent": "gid://shopify/Collection/429408059626",
-            "category": "gid://shopify/Collection/391731511530"
+            "category": "gid://shopify/Collection/429283606762"
         }, {
             "parent": "gid://shopify/Collection/429408059626",
             "category": "gid://shopify/Collection/91737981031"
@@ -1918,31 +1915,39 @@
             "parent": "gid://shopify/Collection/429408059626",
             "category": "gid://shopify/Collection/429294846186"
         }, {
-            "category": "gid://shopify/Collection/429388234986"
+            "category": "gid://shopify/Collection/279358243000"
         }, {
-            "parent": "gid://shopify/Collection/429388234986",
+            "parent": "gid://shopify/Collection/279358243000",
+            "category": "gid://shopify/Collection/91737620583"
+        }, {
+            "parent": "gid://shopify/Collection/279358243000",
+            "category": "gid://shopify/Collection/277775024312"
+        }, {
+            "parent": "gid://shopify/Collection/279358243000",
+            "category": "gid://shopify/Collection/399251701994"
+        }, {
+            "category": "gid://shopify/Collection/437714714858"
+        }, {
+            "parent": "gid://shopify/Collection/437714714858",
+            "category": "gid://shopify/Collection/437837332714"
+        }, {
+            "parent": "gid://shopify/Collection/437714714858",
             "category": "gid://shopify/Collection/429388267754"
         }, {
-            "parent": "gid://shopify/Collection/429388234986",
+            "parent": "gid://shopify/Collection/437714714858",
             "category": "gid://shopify/Collection/429388333290"
-        }, {
-            "parent": "gid://shopify/Collection/429388234986",
-            "category": "gid://shopify/Collection/429302022378"
-        }, {
-            "parent": "gid://shopify/Collection/429388234986",
+        },        {
+            "parent": "gid://shopify/Collection/437714714858",
             "category": "gid://shopify/Collection/429388431594"
-        }, {
-            "category": "gid://shopify/Collection/279362207928"
-        }, {
-            "parent": "gid://shopify/Collection/279362207928",
-            "category": "gid://shopify/Collection/429388857578"
-        }, {
-            "parent": "gid://shopify/Collection/279362207928",
-            "category": "gid://shopify/Collection/239663153336"
-        }, {
-            "parent": "gid://shopify/Collection/279362207928",
-            "category": "gid://shopify/Collection/279362076856"
-        }, {
+        },        {
+            "parent": "gid://shopify/Collection/437714714858",
+            "category": "gid://shopify/Collection/429408125162"
+        },        {
+            "parent": "gid://shopify/Collection/437714714858",
+            "category": "gid://shopify/Collection/437837988074"
+        },
+        
+        {
             "category": "gid://shopify/Collection/429388628202"
         }, {
             "parent": "gid://shopify/Collection/429388628202",
@@ -1950,148 +1955,260 @@
         }, {
             "parent": "gid://shopify/Collection/429388628202",
             "category": "gid://shopify/Collection/429388726506"
+        },
+         {
+            "category": "gid://shopify/Collection/279362207928"
         }, {
-            "category": "gid://shopify/Collection/399735587050"
+            "parent": "gid://shopify/Collection/279362207928",
+            "category": "gid://shopify/Collection/239663120568"
         }, {
-            "parent": "gid://shopify/Collection/399735587050",
+            "parent": "gid://shopify/Collection/279362207928",
+            "category": "gid://shopify/Collection/279361913016"
+        }, {
+            "parent": "gid://shopify/Collection/279362207928",
+            "category": "gid://shopify/Collection/279362076856"
+        }, 
+        {
             "category": "gid://shopify/Collection/391525269738"
         }, {
-            "parent": "gid://shopify/Collection/399735587050",
-            "category": "gid://shopify/Collection/391730626794"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/165381800039"
         }, {
-            "parent": "gid://shopify/Collection/399735587050",
-            "category": "gid://shopify/Collection/391730561258"
-        }, {
-            "parent": "gid://shopify/Collection/399735587050",
+            "parent": "gid://shopify/Collection/391525269738",
             "category": "gid://shopify/Collection/391731183850"
         }, {
-            "parent": "gid://shopify/Collection/399735587050",
-            "category": "gid://shopify/Collection/279358734520"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/391730626794"
         }, {
-            "parent": "gid://shopify/Collection/399735587050",
-            "category": "gid://shopify/Collection/279358668984"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/165381701735"
         }, {
-            "category": "gid://shopify/Collection/429409730794"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/437844476138"
         }, {
-            "parent": "gid://shopify/Collection/429409730794",
-            "category": "gid://shopify/Collection/92118089831"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/429558300906"
         }, {
-            "parent": "gid://shopify/Collection/429409730794",
-            "category": "gid://shopify/Collection/279360831672"
+            "parent": "gid://shopify/Collection/391525269738",
+            "category": "gid://shopify/Collection/391730528490"
+        },
+         {
+            "category": "gid://shopify/Collection/437846049002"
         }, {
-            "parent": "gid://shopify/Collection/429409730794",
-            "category": "gid://shopify/Collection/429396394218"
-        }, {
-            "parent": "gid://shopify/Collection/429409730794",
-            "category": "gid://shopify/Collection/391731314922"
-        }, {
-            "category": "gid://shopify/Collection/391731216618"
-        }, {
-            "parent": "gid://shopify/Collection/391731216618",
+            "parent": "gid://shopify/Collection/437846049002",
             "category": "gid://shopify/Collection/279360110776"
         }, {
-            "parent": "gid://shopify/Collection/391731216618",
-            "category": "gid://shopify/Collection/236335497400"
-        }, {
-            "parent": "gid://shopify/Collection/391731216618",
-            "category": "gid://shopify/Collection/279360766136"
-        }, {
-            "parent": "gid://shopify/Collection/391731216618",
+            "parent": "gid://shopify/Collection/437846049002",
             "category": "gid://shopify/Collection/279932502200"
         }, {
-            "category": "gid://shopify/Collection/391525531882"
+            "parent": "gid://shopify/Collection/437846049002",
+            "category": "gid://shopify/Collection/279360766136"
         }, {
-            "parent": "gid://shopify/Collection/391525531882",
-            "category": "gid://shopify/Collection/391732101354"
+            "parent": "gid://shopify/Collection/437846049002",
+            "category": "gid://shopify/Collection/437846409450"
         }, {
-            "category": "gid://shopify/Collection/391525400810"
+            "parent": "gid://shopify/Collection/437846049002",
+            "category": "gid://shopify/Collection/279360831672"
+        },{
+            "parent": "gid://shopify/Collection/437846049002",
+            "category": "gid://shopify/Collection/429396394218"
+        },{
+            "parent": "gid://shopify/Collection/437846049002",
+            "category": "gid://shopify/Collection/438943154410"
+        },
+        {
+           "category": "gid://shopify/Collection/437846671594"
+       }, {
+            "parent": "gid://shopify/Collection/437846671594",
+            "category": "gid://shopify/Collection/236334547128"
+        },{
+           "parent": "gid://shopify/Collection/437846671594",
+           "category": "gid://shopify/Collection/437846638826"
+       }, {
+           "parent": "gid://shopify/Collection/437846671594",
+           "category": "gid://shopify/Collection/437853094122"
+       }, {
+           "parent": "gid://shopify/Collection/437846671594",
+           "category": "gid://shopify/Collection/437853061354"
+       }, 
+        {
+            "category": "gid://shopify/Collection/391731183850"
         }, {
-            "parent": "gid://shopify/Collection/391525400810",
-            "category": "gid://shopify/Collection/391731577066"
+            "parent": "gid://shopify/Collection/391731183850",
+            "category": "gid://shopify/Collection/437853192426"
         }, {
-            "parent": "gid://shopify/Collection/391525400810",
-            "category": "gid://shopify/Collection/391731609834"
+            "parent": "gid://shopify/Collection/391731183850",
+            "category": "gid://shopify/Collection/429397639402"
         }, {
-            "parent": "gid://shopify/Collection/391525400810",
-            "category": "gid://shopify/Collection/273951195320"
+            "parent": "gid://shopify/Collection/391731183850",
+            "category": "gid://shopify/Collection/437853421802"
+        }, 
+        {
+            "category": "gid://shopify/Collection/236335497400"
         }, {
-            "category": "gid://shopify/Collection/279364108472"
+            "parent": "gid://shopify/Collection/236335497400",
+            "category": "gid://shopify/Collection/437854077162"
         }, {
-            "parent": "gid://shopify/Collection/279364108472",
-            "category": "gid://shopify/Collection/429397704938"
+            "parent": "gid://shopify/Collection/236335497400",
+            "category": "gid://shopify/Collection/437854241002"
         }, {
-            "parent": "gid://shopify/Collection/279364108472",
-            "category": "gid://shopify/Collection/391731708138"
+            "parent": "gid://shopify/Collection/236335497400",
+            "category": "gid://shopify/Collection/236335497400"
+        }, 
+        {
+            "category": "gid://shopify/Collection/438944202986"
         }, {
-            "parent": "gid://shopify/Collection/279364108472",
-            "category": "gid://shopify/Collection/391731773674"
+            "parent": "gid://shopify/Collection/438944202986",
+            "category": "gid://shopify/Collection/437854470378"
         }, {
-            "category": "gid://shopify/Collection/429400031466"
+            "parent": "gid://shopify/Collection/438944202986",
+            "category": "gid://shopify/Collection/437854568682"
         }, {
-            "parent": "gid://shopify/Collection/429400031466",
-            "category": "gid://shopify/Collection/391731642602"
+            "parent": "gid://shopify/Collection/438944202986",
+            "category": "gid://shopify/Collection/437854601450"
         }, {
-            "parent": "gid://shopify/Collection/429400031466",
-            "category": "gid://shopify/Collection/142600667239"
-        }, {
-            "name": "Pregnancy Pillows",
-            "parent": "gid://shopify/Collection/429400031466",
-            "category": "gid://shopify/Collection/429559709930"
-        }, {
-            "name": "Pregnancy & After Birth",
-            "category": "gid://shopify/Collection/429559873770"
-        }, {
-            "name": "Postpartum Recovery\r\n",
-            "parent": "gid://shopify/Collection/429559873770",
+            "parent": "gid://shopify/Collection/438944202986",
+            "category": "gid://shopify/Collection/391731445994"
+        }, 
+        {
             "category": "gid://shopify/Collection/429559939306"
         }, {
-            "category": "gid://shopify/Collection/391525433578"
+            "parent": "gid://shopify/Collection/429559939306",
+            "category": "gid://shopify/Collection/437863252202"
         }, {
-            "parent": "gid://shopify/Collection/391525433578",
-            "category": "gid://shopify/Collection/279364206776"
+            "parent": "gid://shopify/Collection/429559939306",
+            "category": "gid://shopify/Collection/437864366314"
+        },{
+            "parent": "gid://shopify/Collection/429559939306",
+            "category": "gid://shopify/Collection/437864202474"
+        },
+        {
+            "category": "gid://shopify/Collection/438944268522"
         }, {
-            "parent": "gid://shopify/Collection/391525433578",
+            "parent": "gid://shopify/Collection/438944268522",
+            "category": "gid://shopify/Collection/437864399082"
+        }, {
+            "parent": "gid://shopify/Collection/438944268522",
+            "category": "gid://shopify/Collection/429559709930"
+        }, 
+        {
+            "category": "gid://shopify/Collection/437661401322"
+        }, {
+            "parent": "gid://shopify/Collection/437661401322",
+            "category": "gid://shopify/Collection/438943252714"
+        }, {
+            "parent": "gid://shopify/Collection/437661401322",
+            "category": "gid://shopify/Collection/391731740906"
+        }, {
+            "parent": "gid://shopify/Collection/437661401322",
+            "category": "gid://shopify/Collection/391731773674"
+        }, {
+            "parent": "gid://shopify/Collection/437661401322",
+            "category": "gid://shopify/Collection/438943416554"
+        }, {
+            "parent": "gid://shopify/Collection/437661401322",
+            "category": "gid://shopify/Collection/437864759530"
+        }, 
+         {
+            "category": "gid://shopify/Collection/429416251626"
+        }, {
+            "parent": "gid://shopify/Collection/429416251626",
+            "category": "gid://shopify/Collection/391730528490"
+        }, {
+            "parent": "gid://shopify/Collection/429416251626",
+            "category": "gid://shopify/Collection/429282427114"
+        },{
+            "parent": "gid://shopify/Collection/429416251626",
+            "category": "gid://shopify/Collection/429407371498"
+        }, {
+            "parent": "gid://shopify/Collection/429416251626",
+            "category": "gid://shopify/Collection/437384511722"
+        },
+        {
+            "category": "gid://shopify/Collection/438945317098"
+        }, {
+            "parent": "gid://shopify/Collection/438945317098",
             "category": "gid://shopify/Collection/429399441642"
+        },{
+            "parent": "gid://shopify/Collection/438945317098",
+            "category": "gid://shopify/Collection/437853159658"
+        },
+         {
+            "category": "gid://shopify/Collection/437661434090"
         }, {
-            "category": "gid://shopify/Collection/391525499114"
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/273951195320"
         }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/279368138936"
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/437864923370"
+        },{
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/437865480426"
         }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/391731937514"
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/437865513194"
         }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/391731970282"
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/433411588330"
         }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/391732003050"
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/429591822570"
         }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/399735881962"
-        }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/428537446634"
-        }, {
-            "parent": "gid://shopify/Collection/391525499114",
-            "category": "gid://shopify/Collection/429142737130"
-        }, {
-            "category": "gid://shopify/Collection/391525466346"
-        }, {
-            "parent": "gid://shopify/Collection/391525466346",
-            "category": "gid://shopify/Collection/391731806442"
-        }, {
-            "parent": "gid://shopify/Collection/391525466346",
-            "category": "gid://shopify/Collection/391731839210"
-        }, {
-            "category": "gid://shopify/Collection/391525597418"
-        }, {
-            "parent": "gid://shopify/Collection/391525597418",
-            "category": "gid://shopify/Collection/391732265194"
-        }, {
-            "parent": "gid://shopify/Collection/391525597418",
-            "category": "gid://shopify/Collection/391732232426"
-        }],
+            "parent": "gid://shopify/Collection/437661434090",
+            "category": "gid://shopify/Collection/391731675370"
+        },
+        {
+           "category": "gid://shopify/Collection/437674049770"
+       }, {
+           "parent": "gid://shopify/Collection/437674049770",
+           "category": "gid://shopify/Collection/437865709802"
+       }, {
+           "parent": "gid://shopify/Collection/437674049770",
+           "category": "gid://shopify/Collection/279368138936"
+       },{
+           "parent": "gid://shopify/Collection/437674049770",
+           "category": "gid://shopify/Collection/399735881962"
+       }, {
+           "parent": "gid://shopify/Collection/437674049770",
+           "category": "gid://shopify/Collection/437983052010"
+       }, {
+           "parent": "gid://shopify/Collection/437674049770",
+           "category": "gid://shopify/Collection/428537413866"
+       },
+       {
+          "category": "gid://shopify/Collection/437693219050"
+      }, {
+          "parent": "gid://shopify/Collection/437693219050",
+          "category": "gid://shopify/Collection/391731806442"
+      }, {
+          "parent": "gid://shopify/Collection/437693219050",
+          "category": "gid://shopify/Collection/391731839210"
+      },{
+          "parent": "gid://shopify/Collection/437693219050",
+          "category": "gid://shopify/Collection/437983215850"
+      },
+      {
+         "category": "gid://shopify/Collection/429776601322"
+     }, {
+         "parent": "gid://shopify/Collection/429776601322",
+         "category": "gid://shopify/Collection/437846671594"
+     }, {
+         "parent": "gid://shopify/Collection/429776601322",
+         "category": "gid://shopify/Collection/391732265194"
+     },{
+         "parent": "gid://shopify/Collection/429776601322",
+         "category": "gid://shopify/Collection/236334547128"
+     }, {
+        "parent": "gid://shopify/Collection/429776601322",
+        "category": "gid://shopify/Collection/437846638826"
+    }, {
+        "parent": "gid://shopify/Collection/429776601322",
+        "category": "gid://shopify/Collection/437853094122"
+    },{
+        "parent": "gid://shopify/Collection/429776601322",
+        "category": "gid://shopify/Collection/437853061354"
+    }
+    ],
         "parallaxImageRatio": 1.2,
         "key": "DAxTGMMGDl"
     }, {
