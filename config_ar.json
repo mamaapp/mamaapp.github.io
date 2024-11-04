@@ -59,7 +59,7 @@
   }, {
       "layout": "bannerImage",
       "design": "default",
-      "fit": "fitWidth",
+      "fit": "contain",
       "marginLeft": null,
       "items": [{
         "name": "خصومات خاصة",
