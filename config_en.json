@@ -61,16 +61,7 @@
         "design": "swiper",
         "fit": "contain",
         "marginLeft": null,
-        "items": [{
-            "name": "Special Discounts",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_02_-_B2_83018610-8bab-435b-ab96-1945d2e15181.jpg?v=1730706314",
-            "video": "",
-            "category": "gid://shopify/Collection/438475981034",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
+        "items": [ {
             "name": "FridaMom",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ENGLISH-B.jpg?v=1730383455",
             "video": "",

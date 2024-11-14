@@ -62,15 +62,6 @@
       "fit": "contain",
       "marginLeft": null,
       "items": [{
-        "name": "خصومات خاصة",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-ENGLISH-MOBILE-ARABIC.jpg?v=1729438797",
-        "video": "",
-        "category": "gid://shopify/Collection/438475981034",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
         "name": "فريدا موم",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ARABIC-B.jpg?v=1730383454",
         "video": "",
