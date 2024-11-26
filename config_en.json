@@ -92,7 +92,7 @@
             "name": "Baby Monitors",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_MOBILE-02_ENGLISH.jpg?v=1728204030",
             "video": "",
-            "category": "gid://shopify/Collection/429399441642",
+            "category": "gid://shopify/Collection/439420485866",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -421,7 +421,7 @@
             "onSale": false,
             "isFeatured": false
         }, {
-            "category": "gid://shopify/Collection/429399441642",
+            "category": "gid://shopify/Collection/439420485866",
             "image": "https://mamaapp.co/cdn/shop/files/BabyMonitors_BrandBanner_v03.png",
             "showText": false,
             "originalColor": true,
@@ -1033,7 +1033,7 @@
         }, {
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babymonitors_category_bnr_v3.png?v=1701516927",
             "onSale": false,
-            "category": "gid://shopify/Collection/429399441642",
+            "category": "gid://shopify/Collection/439420485866",
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -2067,7 +2067,7 @@
             "category": "gid://shopify/Collection/438945317098"
         }, {
             "parent": "gid://shopify/Collection/438945317098",
-            "category": "gid://shopify/Collection/429399441642"
+            "category": "gid://shopify/Collection/439420485866"
         },{
             "parent": "gid://shopify/Collection/438945317098",
             "category": "gid://shopify/Collection/437853159658"

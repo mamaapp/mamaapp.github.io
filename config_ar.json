@@ -92,7 +92,7 @@
         "name": "أجهزة مراقبة الأطفال",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_MOBILE-02_ARABIC.jpg?v=1728204381",
         "video": "",
-        "category": "gid://shopify/Collection/429399441642",
+        "category": "gid://shopify/Collection/439420485866",
         "products": [],
         "showSubcategory": false,
         "bannerWithProduct": false,
@@ -408,7 +408,7 @@
           "onSale": false,
           "isFeatured": false
       }, {
-          "category": "gid://shopify/Collection/429399441642",
+          "category": "gid://shopify/Collection/439420485866",
           "image": "https://mamaapp.co/cdn/shop/files/HUBBLE-Brand_Banner_v02_24_ar_UPDATED.png?v=1725351192&width=400",
           "showText": false,
           "originalColor": true,
@@ -932,7 +932,7 @@
           "onSale": false,
           "isFeatured": false
       }, {
-          "category": "gid://shopify/Collection/429399441642",
+          "category": "gid://shopify/Collection/439420485866",
           "image": "https://mamaapp.co/cdn/shop/files/baby-monitor-small_category_bnr_babygears_v1_ar_UPDATED.png?v=1725351192&width=200",
           "showText": false,
           "originalColor": true,
@@ -1863,7 +1863,7 @@
         "category": "gid://shopify/Collection/438945317098"
     }, {
         "parent": "gid://shopify/Collection/438945317098",
-        "category": "gid://shopify/Collection/429399441642"
+        "category": "gid://shopify/Collection/439420485866"
     },{
         "parent": "gid://shopify/Collection/438945317098",
         "category": "gid://shopify/Collection/437853159658"
