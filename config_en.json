@@ -61,27 +61,9 @@
         "design": "swiper",
         "fit": "contain",
         "marginLeft": null,
-        "items": [ {
-            "name": "FridaMom",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ENGLISH-B.jpg?v=1730383455",
-            "video": "",
-            "category": "gid://shopify/Collection/399244263658",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "Dr Browns",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-9---ENGLISH-B.jpg?v=1730286627",
-            "video": "",
-            "category": "gid://shopify/Collection/399244001514",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
+        "items": [   {
             "name": "Chicco",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ENGLISH-B.jpg?v=1730286669",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Chicco_Baby_Hug_4in1_Air_Dark_Grey__MobileBanner_English.jpg?v=1733062407",
             "video": "",
             "category": "gid://shopify/Collection/399243837674",
             "products": [],
@@ -89,10 +71,19 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false
         }, {
-            "name": "Baby Monitors",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER_MOBILE-02_ENGLISH.jpg?v=1728204030",
+            "name": "BabyBrezza",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby_Brezza_Formula_MobileBanner_English.jpg?v=1733062407",
             "video": "",
-            "category": "gid://shopify/Collection/439420485866",
+            "category": "gid://shopify/Collection/399243575530",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
+            "name": "Tommee Tippee",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee_Tippee_Made_For_Me_Double_Electric_Wearable_Breast_Pump_MobileBanner_English.jpg?v=1733062407",
+            "video": "",
+            "category": "gid://shopify/Collection/399259107562",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -102,6 +93,24 @@
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-10---ENGLISH-B.jpg?v=1730643412",
             "video": "",
             "category": "gid://shopify/Collection/436927955178",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
+            "name": "Dr Browns",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-9---ENGLISH-B.jpg?v=1730286627",
+            "video": "",
+            "category": "gid://shopify/Collection/399244001514",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
+            "name": "FridaMom",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-1-ENGLISH-B.jpg?v=1730383455",
+            "video": "",
+            "category": "gid://shopify/Collection/399244263658",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
