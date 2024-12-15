@@ -61,34 +61,7 @@
         "design": "swiper",
         "fit": "contain",
         "marginLeft": null,
-        "items": [   {
-            "name": "Tommee Tippee",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee_Tippee_Made_For_Me_Double_Electric_Wearable_Breast_Pump_MobileBanner_English.jpg?v=1733062407",
-            "video": "",
-            "category": "gid://shopify/Collection/399259107562",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "BabyBrezza",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby_Brezza_Formula_MobileBanner_English.jpg?v=1733062407",
-            "video": "",
-            "category": "gid://shopify/Collection/399243575530",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        },{
-            "name": "Chicco",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Chicco_Baby_Hug_4in1_Air_Dark_Grey__MobileBanner_English.jpg?v=1733062407",
-            "video": "",
-            "category": "gid://shopify/Collection/399243837674",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
+        "items": [    {
             "name": "QND24",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner_03_Mobile.jpg?v=1733995541",
             "video": "",
@@ -111,6 +84,33 @@
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-01---ENGLISH_1.jpg?v=1733994848",
             "video": "",
             "category": "gid://shopify/Collection/438943056106",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
+            "name": "Tommee Tippee",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_English-Tommee-Tippee-QND.jpg?v=1734001356",
+            "video": "",
+            "category": "gid://shopify/Collection/399259107562",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
+            "name": "BabyBrezza",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_English-BabyBrezza-QND.jpg?v=1734001357",
+            "video": "",
+            "category": "gid://shopify/Collection/399243575530",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
+            "name": "Chicco",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_English-Chicco-QND.jpg?v=1734001356",
+            "video": "",
+            "category": "gid://shopify/Collection/399243837674",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,

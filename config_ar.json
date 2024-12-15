@@ -61,34 +61,7 @@
       "design": "default",
       "fit": "contain",
       "marginLeft": null,
-      "items": [{
-        "name":"تومي تيبي" ,
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Tommee_Tippee_Made_For_Me_Double_Electric_Wearable_Breast_Pump_MobileBanner_Arabic.jpg?v=1733062407",
-        "video": "",
-        "category": "gid://shopify/Collection/399243837674",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
-        "name": "بيبي بريزا",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Baby_Brezza_Formula_MobileBanner_Arabic.jpg?v=1733062407",
-        "video": "",
-        "category": "gid://shopify/Collection/399243575530",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },   {
-        "name": "شيكو",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Chicco_Baby_Hug_4in1_Air_Dark_Grey__MobileBanner_Arabic.jpg?v=1733062407",
-        "video": "",
-        "category": "gid://shopify/Collection/399243837674",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },  {
+      "items": [  {
         "name": "QND24",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner-03-Mobile-Arabic.jpg?v=1733995540",
         "video": "",
@@ -111,6 +84,33 @@
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-01---B-ARABIC_1.jpg?v=1733994848",
         "video": "",
         "category": "gid://shopify/Collection/399259107562",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
+        "name":"تومي تيبي" ,
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_Arabic-QND-version-Tommee-Tippee.jpg?v=1734001356",
+        "video": "",
+        "category": "gid://shopify/Collection/399243837674",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
+        "name": "بيبي بريزا",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_Arabic-QND-version-Baby-Brezza.jpg?v=1734001355",
+        "video": "",
+        "category": "gid://shopify/Collection/399243575530",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },   {
+        "name": "شيكو",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MobileBanner_31Jan24_Arabic-QND-version-Chicco.jpg?v=1734001355",
+        "video": "",
+        "category": "gid://shopify/Collection/399243837674",
         "products": [],
         "showSubcategory": false,
         "bannerWithProduct": false,
