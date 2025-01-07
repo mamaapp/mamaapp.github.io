@@ -62,15 +62,6 @@
       "fit": "contain",
       "marginLeft": null,
       "items": [  {
-        "name": "QND24",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner-03-Mobile-Arabic.jpg?v=1733995540",
-        "video": "",
-        "category": "gid://shopify/Collection/91738407015",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
         "name": "IMOU",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-02---B-ARABIC.jpg?v=1733995339",
         "video": "",

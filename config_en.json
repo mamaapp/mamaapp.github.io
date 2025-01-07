@@ -62,15 +62,6 @@
         "fit": "contain",
         "marginLeft": null,
         "items": [    {
-            "name": "QND24",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Banner_03_Mobile.jpg?v=1733995541",
-            "video": "",
-            "category": "gid://shopify/Collection/91738407015",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        },{
             "name": "Imou",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-02---ENGLISH.jpg?v=1733995338",
             "video": "",
