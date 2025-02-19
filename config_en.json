@@ -726,7 +726,7 @@
             "defaultShowProduct": false
         }],
         "design": "static",
-        "height": 0.35,
+        "height": 0.15,
         "layout": "bannerImage",
         "parallax": false,
         "marginTop": 0,
@@ -915,7 +915,7 @@
             "defaultShowProduct": false
         }],
         "design": "static",
-        "height": 0.18,
+        "height": 0.13,
         "layout": "bannerImage",
         "parallax": false,
         "marginTop": 0,
@@ -1001,7 +1001,7 @@
             "defaultShowProduct": false
         }],
         "design": "static",
-        "height": 0.35,
+        "height": 0.13,
         "layout": "bannerImage",
         "parallax": false,
         "marginTop": 0,
@@ -1167,7 +1167,7 @@
             "defaultShowProduct": false
         }],
         "design": "static",
-        "height": 0.35,
+        "height": 0.13,
         "layout": "bannerImage",
         "parallax": false,
         "marginTop": 0,
@@ -1420,7 +1420,7 @@
             "defaultShowProduct": false
         }],
         "design": "static",
-        "height": 0.18,
+        "height": 0.13,
         "layout": "bannerImage",
         "parallax": false,
         "marginTop": 0,

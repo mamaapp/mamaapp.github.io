@@ -693,7 +693,7 @@
           "video": ""
       }],
       "marginBottom": 0.0,
-      "height": 0.35,
+      "height": 0.13,
       "marginRight": 0.0,
       "marginTop": 0.0,
       "enableParallax": false,
@@ -837,7 +837,7 @@
         "defaultShowProduct": false
     }],
     "design": "static",
-    "height": 0.18,
+    "height": 0.13,
     "layout": "bannerImage",
     "parallax": false,
     "marginTop": 0,
@@ -926,7 +926,7 @@
           "video": ""
       }],
       "marginBottom": 0.0,
-      "height": 0.35,
+      "height": 0.13,
       "marginRight": 0.0,
       "marginTop": 0.0,
       "enableParallax": false,
@@ -1090,7 +1090,7 @@
           "video": ""
       }],
       "marginBottom": 0.0,
-      "height": 0.35,
+      "height": 0.13,
       "marginRight": 0.0,
       "marginTop": 0.0,
       "enableParallax": false,
@@ -1339,7 +1339,7 @@
         "defaultShowProduct": false
     }],
     "design": "static",
-    "height": 0.18,
+    "height": 0.13,
     "layout": "bannerImage",
     "parallax": false,
     "marginTop": 0,
