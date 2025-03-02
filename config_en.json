@@ -62,6 +62,15 @@
         "fit": "contain",
         "marginLeft": null,
         "items": [    {
+            "name": "Ramadan Mubarak",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mr-english.jpg?v=1740901164",
+            "video": "",
+            "category": "gid://shopify/Collection/",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
             "name": "Fridababy",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-8---ENGLISH.jpg?v=1737879200",
             "video": "",

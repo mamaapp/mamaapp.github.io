@@ -61,7 +61,16 @@
       "design": "default",
       "fit": "contain",
       "marginLeft": null,
-      "items": [  {
+      "items": [{
+        "name": "Ramadan Mubarak",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mobile_banner.jpg?v=1740900770",
+        "video": "",
+        "category": "gid://shopify/Collection/",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
         "name": "Fridababy",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-8---B-ARABIC.jpg?v=1737879200",
         "video": "",
