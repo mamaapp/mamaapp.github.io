@@ -61,7 +61,24 @@
         "design": "swiper",
         "fit": "contain",
         "marginLeft": null,
-        "items": [    {
+        "items": [{
+            "name": "Mothers Day Discount Code",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/code-banner_desktop.jpg?v=1742488703",
+            "video": "",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
+            "name": "Mothers Day",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mobile_bundle_banner_english.jpg?v=1742488593",
+            "video": "",
+            "category": "gid://shopify/Collection/437983838442",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
             "name": "Ramadan Mubarak",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mr-english.jpg?v=1740901164",
             "video": "",
@@ -84,15 +101,6 @@
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BABYBJORN-BANNER03.jpg?v=1741265512",
             "video": "",
             "category": "gid://shopify/Collection/399797059818",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        },{
-            "name": "Bags",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/DIAPERS-BANNER03.jpg?v=1741265512",
-            "video": "",
-            "category": "gid://shopify/Collection/429416251626",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
