@@ -1567,65 +1567,65 @@
       "showCartButtonWithQuantity": false,
       "orderby": "menu_order"
   },{
-        "isSafeArea": false,
-        "showSearch": false,
-        "usePrimaryColor": true,
-        "borderInput": false,
-        "title": "Instagram Highlights",
-        "type": "static",
-        "textColor": "ffe91e63",
-        "alignment": "centerLeft",
-        "fontWeight": 600,
-        "fontSize": 22.0,
-        "textOpacity": 1.0,
-        "marginLeft": 0.0,
-        "marginRight": 0.0,
-        "marginBottom": 0.0,
-        "marginTop": 15.0,
-        "paddingLeft": 5.0,
-        "paddingRight": 15.0,
-        "paddingTop": 0.0,
-        "paddingBottom": 0.0,
-        "height": 41.9,
-        "rotate": [],
-        "minWidth": 0.0,
-        "backgroundGradientColor": [],
-        "font": "Roboto",
-        "layout": "header_text"
+    "font": "Roboto",
+    "type": "static",
+    "title": "Instagram Highlights",
+    "height": 41.9,
+    "layout": "header_text",
+    "rotate": [],
+    "fontSize": 22,
+    "minWidth": 0,
+    "alignment": "centerLeft",
+    "marginTop": 15,
+    "textColor": "ffe91e63",
+    "fontWeight": 600,
+    "isSafeArea": false,
+    "marginLeft": 0,
+    "paddingTop": 0,
+    "showSearch": false,
+    "borderInput": false,
+    "marginRight": 0,
+    "paddingLeft": 5,
+    "textOpacity": 1,
+    "marginBottom": 0,
+    "paddingRight": 15,
+    "paddingBottom": 0,
+    "usePrimaryColor": true,
+    "backgroundGradientColor": []
+}, {
+    "items": [{
+        "id": "[#c8172]",
+        "code": "DGdeJCVsvlC",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/486438431_995519412680611_497212.jpg?v=1743065082"
     }, {
-        "items": [{
-            "id": "[#104bb]",
-            "code": "DEujSBmi6we",
-            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t39.30808-6/472130124_943865981179288_3491747240868393525_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AFs6Rieo3dZgV8dHEN6r0JFgGK910r-0Z4ONBD_QM9ueDyBFtoQ7D71asTURCt_IWzxcVSldATe59UdK9KoStj6&_nc_ohc=62t62B9kNggQ7kNvgFwoNSQ&_nc_gid=623841a91b404248bfe48ecef7215f35&edm=ABmJApAAAAAA&ccb=7-5&ig_cache_key=MzU0MzkyNTEyNzA4NjA1ODUyNg%3D%3D.3-ccb7-5&oh=00_AYBABrnFNcDHMP_vVDf82ldZvoeKmSKD7bYaGjk3RwOTPQ&oe=67B28E8A&_nc_sid=b41fef"
-        }, {
-            "id": "[#46fdf]",
-            "code": "DEukBA-hods",
-            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t39.30808-6/472578585_943870644512155_4002122174608449168_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AHwNm35Qfr-kBoYEwy4sHsTQ6Mb2hCONos8cHbmwKR-umMqsln7JfIy7vxYY7UEXjbPkOZEIg-mH4zaA0CRhvKX&_nc_ohc=Lcd6PSOsLHAQ7kNvgFBak5S&_nc_gid=014e0031d47f484dbf797eaae9d4d0b2&edm=AOmX9WgAAAAA&ccb=7-5&ig_cache_key=MzU0MzkyODM1NjIzMDAzOTQwNA%3D%3D.3-ccb7-5&oh=00_AYB8iwRiXDGfcR_rebZXSuvaPTibJB0dQHA-Milf3ApoYw&oe=67B288D2&_nc_sid=bfaa47"
-        }, {
-            "id": "[#a0bae]",
-            "code": "DCosgzBJ8Sl",
-            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t39.30808-6/467327321_908670361365517_7976011539544449541_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AHhlyZlGHQnFX2ZUzAh3tK6gHcLCF-_2S4wkXcqyRFU-VEu2Pm7wCITAyqq-JfInIhE9MnpgFvTi9IS2W2COHAc&_nc_ohc=ytfDvLd8Pj8Q7kNvgGNV3aA&_nc_gid=c74e10cbfc474907af18dbbc29557c01&edm=APoiHPcAAAAA&ccb=7-5&ig_cache_key=MzUwNjI0ODA2MDg1NDY2Mjg4Nw%3D%3D.3-ccb7-5&oh=00_AYCg26OhTRtKgWhXmqlqo5RW6ntF7iJNZAq30iDCeORP1w&oe=67B2A620&_nc_sid=22de04"
-        }, {
-            "id": "[#6c035]",
-            "code": "DCgf-mYt6_u",
-            "image": "https://instagram.fdoh11-1.fna.fbcdn.net/v/t39.30808-6/466676956_906551271577426_9099882022470086294_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdoh11-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AHhlyZlGHQnFX2ZUzAh3tK6gHcLCF-_2S4wkXcqyRFU-VEu2Pm7wCITAyqq-JfInIhE9MnpgFvTi9IS2W2COHAc&_nc_ohc=QFG-xiwpUi8Q7kNvgGQaA53&_nc_gid=c74e10cbfc474907af18dbbc29557c01&edm=APoiHPcAAAAA&ccb=7-5&ig_cache_key=MzUwMzk0MTE1MTM2MDUyODM2Ng%3D%3D.3-ccb7-5&oh=00_AYDX9wQ9x8frEM0gfi16U1tO9Dyuf619mhxX8v8-_DYUSg&oe=67B29CCA&_nc_sid=22de04"
-        }],
-        "usePath": false,
-        "marginLeft": 0.0,
-        "marginRight": 0.0,
-        "marginTop": 14.000000000000002,
-        "marginBottom": 10.0,
-        "limit": 10,
-        "time": 10,
-        "itemBorderRadius": 10,
-        "itemWidth": 161.0,
-        "itemHeight": 161.0,
-        "viewLayout": "iframe",
-        "itemSpacing": 10,
-        "hideAvatar": true,
-        "hideCaption": false,
-        "layout": "instagramStory"
+        "id": "[#2fca7]",
+        "code": "DGdd8qaJN-2",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/486597285_995527316013154_840385.jpg?v=1743065083"
     }, {
+        "id": "[#1971b]",
+        "code": "DGddxmtIihN",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/481782464_979490910950128_873790.jpg?v=1743065084"
+    }, {
+        "id": "[#c6bcb]",
+        "code": "DFcajwPy-c9",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/486231447_995518476014038_526314.jpg?v=1743065084"
+    }],
+    "usePath": false,
+    "marginLeft": 4.0,
+    "marginRight": 0,
+    "marginTop": 14.000000000000002,
+    "marginBottom": 10,
+    "limit": 10,
+    "time": 10,
+    "itemBorderRadius": 10,
+    "itemWidth": 128.5,
+    "itemHeight": 146.0,
+    "viewLayout": "iframe",
+    "itemSpacing": 10,
+    "hideAvatar": true,
+    "hideCaption": false,
+    "layout": "instagramStory"
+}, {
       "fit": "contain",
       "items": [{
           "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/customersafety_icon2025.png?v=1739378985",
