@@ -62,10 +62,10 @@
         "fit": "contain",
         "marginLeft": null,
         "items": [{
-            "name": "Eid Sale",
+            "name": "Eid Promotions",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MOBILE_BANNER_jpg.jpg?v=1743247863",
             "video": "",
-            "category": "gid://shopify/Collection/",
+            "category": "gid://shopify/Collection/442258260202",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
