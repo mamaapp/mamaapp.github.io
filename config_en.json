@@ -278,7 +278,7 @@
 			"columns": 0,
 			"imageBoxfit": "cover",
 			"imageRatio": 1.2,
-			"hMargin": 6.0,
+			"hMargin": 0.0,
 			"vMargin": 0.0,
 			"hPadding": 0.0,
 			"vPadding": 0.0,
