@@ -275,7 +275,7 @@
 			"layout": "card",
 			"isSnapping": false,
 			"rows": 1,
-			"columns": 0,
+			"columns": 1,
 			"imageBoxfit": "cover",
 			"imageRatio": 1,
 			"hMargin": 0.0,
