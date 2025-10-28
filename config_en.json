@@ -3705,20 +3705,6 @@
         "fontFamily": "CupertinoIcons",
         "key": "OXkuHDyXSO"
     }, {
-        "pos": 500,
-        "url": "https://mamaapp.co/pages/promotions?app",
-        "auth": false,
-        "icon": "percent",
-        "label": "Promo",
-        "Script": "",
-        "layout": "page",
-        "defaultTab": false,
-        "fontFamily": "CupertinoIcons",
-        "fullscreen": false,
-        "enableForward": false,
-        "enableBackward": false,
-        "key": "rzDzruERAB"
-    }, {
         "pos": 600,
         "icon": "person",
         "label": "User",
