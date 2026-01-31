@@ -74,7 +74,7 @@
             "name": "Bumply",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bumply_MobileBanner_MAMAAPP_Qatar.jpg?v=1763037100",
             "video": "",
-            "category": "gid://shopify/Collection/447328944362",
+            "category": "gid://shopify/Collection/448004227306",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -89,10 +89,10 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false
         }, {
-            "name": "Momcozy",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Momcozy_-_mobile-eng.jpg?v=1747725514",
+            "name": "Strollers",
+            "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
             "video": "",
-            "category": "gid://shopify/Collection/443178713322",
+            "category": "gid://shopify/Collection/438943252714",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -704,29 +704,6 @@
         "hideEmptyProductLayout": false,
         "hideEmptyProductListRating": false,
         "showCartButtonWithQuantity": false
-    }, {
-        "fit": "fitWidth",
-        "items": [{
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BabyCare_App_section_banner_25.png?v=1763039784",
-            "video": "",
-            "padding": 2.4,
-            "category": "gid://shopify/Collection/430688370922",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }],
-        "design": "static",
-        "height": 0.13,
-        "layout": "bannerImage",
-        "parallax": false,
-        "marginTop": 0,
-        "marginLeft": 0,
-        "marginRight": 0,
-        "isHorizontal": false,
-        "marginBottom": 0,
-        "enableParallax": false,
-        "parallaxImageRatio": 1.2
     }, {
         "fit": "fitWidth",
         "items": [{
