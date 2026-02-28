@@ -71,6 +71,24 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false
         },{
+        "name": "Momcozy",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
+        "video": "",
+        "category": "gid://shopify/Collection/438475981034",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
+        "name": "Breast Pumps",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
+        "video": "",
+        "category": "gid://shopify/Collection/429282361578",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
             "name": "Bumply",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bumply_MobileBanner_MAMAAPP_Qatar.jpg?v=1763037100",
             "video": "",
