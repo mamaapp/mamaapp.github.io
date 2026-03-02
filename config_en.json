@@ -58,19 +58,10 @@
         "layout": "header_search"
     }, {
         "layout": "bannerImage",
-        "design": "swiper",
+        "design": "slider",
         "fit": "contain",
         "marginLeft": null,
         "items": [{
-            "name": "Ramadan Kareem",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Ramadan_Banner_Mobile_EN_V5.webp?v=1771404181",
-            "video": "",
-            "category": "gid://shopify/Collection/438475981034",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        },{
         "name": "Momcozy",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
         "video": "",
@@ -98,15 +89,6 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false
         }, {
-            "name": "Nappy Diapers & Wipes",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/nappy-_mobile-eng.jpg?v=1747725514",
-            "video": "",
-            "category": "gid://shopify/Collection/443530019050",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
             "name": "Strollers",
             "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
             "video": "",
@@ -115,27 +97,9 @@
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
-        }, {
-            "name": "Milky Makers",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-02---ENGLISH_2eef35ac-94b4-4ef8-af27-a58aaf12213d.jpg?v=1737318408",
-            "video": "",
-            "category": "gid://shopify/Collection/428867617002",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "Sebamed",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-06---ENGLISH.jpg?v=1737293646",
-            "video": "",
-            "category": "gid://shopify/Collection/399258943722",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
         }],
         "marginBottom": 0.0,
-        "height": 0.25,
+        "height": 0.30,
         "marginRight": null,
         "marginTop": 8.0,
         "radius": 0.0,

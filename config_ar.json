@@ -58,19 +58,10 @@
       "layout": "header_search"
   }, {
       "layout": "bannerImage",
-      "design": "default",
+      "design": "slider",
       "fit": "contain",
       "marginLeft": null,
       "items": [{
-        "name": "Ramadan Kareem",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Ramadan_Banner_Mobile_AR_V5.webp?v=1771403804",
-        "video": "",
-        "category": "gid://shopify/Collection/438475981034",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
         "name": "Momcozy",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
         "video": "",
@@ -98,15 +89,6 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     },{
-        "name": "Nappy Diapers & Wipes",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/nappy-_mobile_arabic.jpg?v=1747728124",
-        "video": "",
-        "category": "gid://shopify/Collection/443530019050",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
             "name": "Strollers",
             "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
             "video": "",
@@ -115,25 +97,7 @@
             "showSubcategory": false,
             "bannerWithProduct": false,
             "defaultShowProduct": false
-        },   {
-        "name": "Milky Makers",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-02---B-ARABIC_68856059-d145-4aa7-8162-b92a10e57c82.jpg?v=1737318408",
-        "video": "",
-        "category": "gid://shopify/Collection/428867617002",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },   {
-        "name": "Sebamed",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-06--ARABIC.jpg?v=1737293646",
-        "video": "",
-        "category": "gid://shopify/Collection/399258943722",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    }],
+        }],
       "marginBottom": 0.0,
       "height": 0.3,
       "marginRight": null,
@@ -468,7 +432,7 @@
         "isHorizontal": false,
         "parallax": false
     }, {
-        "name": "Maternity Clothes",
+        "name": "ملابس الأمومة",
         "rows": 1,
         "image": "",
         "limit": 16,
