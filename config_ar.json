@@ -62,6 +62,24 @@
       "fit": "contain",
       "marginLeft": null,
       "items": [{
+        "name": "Fridababy",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida-baby-4-in-1-grow-with-me-bath-tub_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772727683",
+        "video": "",
+        "category": "https://sl.mamaapp.co/mTm8ZcIsg1b",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
+        "name": "DockAtot",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/dockatot_deluxe_plus_baby_dock_carrara_marble_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772726587",
+        "video": "",
+        "category": "https://sl.mamaapp.co/TQ9yIwKsg1b",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
         "name": "Momcozy",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
         "video": "",
