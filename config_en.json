@@ -68,18 +68,24 @@
             "bannerWithProduct": false,
             "defaultShowProduct": false,
             "products": [],
-            "product": "8194099380458",
-            "video": ""
+            "video": "",
+            "productLength": 3,
+            "type": "image",
+            "product": "gid://shopify/Product/8194099380458",
+            "key": "pTPpRnfDLO"
+        }, {
+            "name": "DockAtot_Promo",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/dockatot_deluxe_plus_baby_dock_carrara_marble_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772726587",
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false,
+            "products": [],
+            "video": "",
+            "productLength": 3,
+            "type": "image",
+            "product": "gid://shopify/Product/8150310125802",
+            "key": "ZSynJPMJyG"
         },{
-        "name": "DockAtot_Promo",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/dockatot_deluxe_plus_baby_dock_carrara_marble_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772726587",
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false,
-        "products": [],
-        "product": "8150310125802",
-        "video": ""
-    },{
         "name": "Momcozy",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
         "video": "",
@@ -1800,7 +1806,7 @@
         "limit": 10,
         "time": 10,
         "itemBorderRadius": 10,
-        "itemWidth": 128.5,
+        "itemWidth": 113.0,
         "itemHeight": 146.0,
         "viewLayout": "iframe",
         "itemSpacing": 10,
