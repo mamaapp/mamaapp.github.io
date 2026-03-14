@@ -62,6 +62,15 @@
         "fit": "contain",
         "marginLeft": null,
         "items": [{
+        "name": "Toys",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
+        "video": "",
+        "category": "gid://shopify/Collection/391525499114",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
             "name": "Fridababy",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida-baby-4-in-1-grow-with-me-bath-tub_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772727683",
             "showSubcategory": false,
