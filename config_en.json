@@ -53,51 +53,17 @@
         "font": "Roboto",
         "layout": "header_search"
     }, {
-        "font": "Roboto",
-        "type": "static",
-        "title": "Search ...",
-        "height": 40,
-        "layout": "header_search",
-        "radius": 9,
-        "rotate": [],
-        "fontSize": 14,
-        "minWidth": 0,
-        "alignment": "centerLeft",
-        "boxShadow": {
-            "x": 0,
-            "y": 4,
-            "blurRadius": 21.01010101010101,
-            "colorOpacity": 0.18,
-            "spreadRadius": 1.0101010101010102
-        },
-        "marginTop": 8,
-        "fontWeight": 0,
-        "isSafeArea": false,
-        "marginLeft": 8,
-        "paddingTop": 0,
-        "showSearch": true,
-        "borderInput": true,
-        "marginRight": 8,
-        "paddingLeft": 5,
-        "textOpacity": 0.3,
-        "marginBottom": 0,
-        "paddingRight": 15,
-        "paddingBottom": 0,
-        "backgroundColor": "#FFFFFF",
-        "usePrimaryColor": true,
-        "backgroundGradientColor": []
-    }, {
         "fit": "contain",
         "items": [{
-        "name": "Toys",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
-        "video": "",
-        "category": "gid://shopify/Collection/391525499114",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
+            "name": "Toys",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
+            "video": "",
+            "category": "gid://shopify/Collection/391525499114",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
             "name": "Fridababy",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida-baby-4-in-1-grow-with-me-bath-tub_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772727683",
             "video": "",
@@ -132,25 +98,25 @@
             "type": "image",
             "product": "gid://shopify/Product/8150310125802",
             "key": "ZSynJPMJyG"
-        },{
-        "name": "Momcozy",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
-        "video": "",
-        "category": "gid://shopify/Collection/443178713322",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
-        "name": "Breast Pumps",
-        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
-        "video": "",
-        "category": "gid://shopify/Collection/429282361578",
-        "products": [],
-        "showSubcategory": false,
-        "bannerWithProduct": false,
-        "defaultShowProduct": false
-    },{
+        }, {
+            "name": "Momcozy",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/MomCozy_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772110297",
+            "video": "",
+            "category": "gid://shopify/Collection/443178713322",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
+            "name": "Breast Pumps",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
+            "video": "",
+            "category": "gid://shopify/Collection/429282361578",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        }, {
             "name": "Strollers",
             "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
             "video": "",
