@@ -128,7 +128,6 @@
             "name": "Breast Pumps",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
             "video": "",
-<<<<<<< Updated upstream
             "productLength": 3,
             "type": "image",
             "product": "gid://shopify/Product/8150310125802",
@@ -152,23 +151,6 @@
         "bannerWithProduct": false,
         "defaultShowProduct": false
     },{
-=======
-            "category": "gid://shopify/Collection/429282361578",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "Bumply",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Bumply_MobileBanner_MAMAAPP_Qatar.jpg?v=1763037100",
-            "video": "",
-            "category": "gid://shopify/Collection/448004227306",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
->>>>>>> Stashed changes
             "name": "Strollers",
             "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
             "video": "",
@@ -568,95 +550,6 @@
         "hideEmptyProductListRating": false,
         "showCartButtonWithQuantity": false
     }, {
-<<<<<<< Updated upstream
-=======
-        "fit": "fitWidth",
-        "items": [{
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BumplyMaternityClothes_App_section_banner_25.png?v=1763042139",
-            "video": "",
-            "padding": 2.4,
-            "category": "gid://shopify/Collection/448004227306",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }],
-        "design": "static",
-        "height": 0.13,
-        "layout": "bannerImage",
-        "parallax": false,
-        "marginTop": 0,
-        "marginLeft": 0,
-        "marginRight": 0,
-        "isHorizontal": false,
-        "marginBottom": 0,
-        "enableParallax": false,
-        "parallaxImageRatio": 1.2
-    }, {
-        "name": "Maternity Clothes",
-        "rows": 1,
-        "image": "",
-        "limit": 16,
-        "order": "asc",
-        "layout": "threeColumn",
-        "onSale": false,
-        "columns": 0,
-        "hMargin": 3,
-        "orderby": "menu_order",
-        "vMargin": 15,
-        "category": "gid://shopify/Collection/448004227306",
-        "featured": false,
-        "hPadding": 7,
-        "parallax": false,
-        "vPadding": 0,
-        "boxShadow": {
-            "x": 0,
-            "y": 0,
-            "blurRadius": 10,
-            "colorOpacity": 0.05,
-            "spreadRadius": 20
-        },
-        "hidePrice": false,
-        "hideStore": false,
-        "hideTitle": false,
-        "marginBGP": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-        },
-        "showHeart": false,
-        "titleLine": 2,
-        "cardDesign": "card",
-        "imageRatio": 1,
-        "isSnapping": false,
-        "spaceWidth": 9.30232558139535,
-        "imageBoxfit": "contain",
-        "productType": false,
-        "borderRadius": 3,
-        "enableRating": true,
-        "showCartIcon": true,
-        "showQuantity": false,
-        "showCountDown": false,
-        "showOnlyImage": false,
-        "cartIconRadius": 9,
-        "showCartButton": false,
-        "backgroundColor": "ffcabdb6",
-        "showStockStatus": false,
-        "backgroundBoxFit": "contain",
-        "backgroundHeight": 136,
-        "backgroundRadius": 0,
-        "enableAutoSliding": false,
-        "showCartIconColor": false,
-        "parallaxImageRatio": 1.2,
-        "backgroundWidthMode": true,
-        "enableBottomAddToCart": false,
-        "productListItemHeight": 120,
-        "hideEmptyProductLayout": false,
-        "hideEmptyProductListRating": false,
-        "showCartButtonWithQuantity": false
-    }, {
->>>>>>> Stashed changes
         "font": "Cairo",
         "type": "static",
         "title": "Shop by Our Top Brands",
@@ -972,17 +865,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-<<<<<<< Updated upstream
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/OPTIMIZE_BACKUP_PRODUCT_milkstoragebags_category_bnr_v2.webp?v=1771151826",
             "onSale": false,
             "title": "Milk Storage Bags",
             "category": "gid://shopify/Collection/429282427114",
-=======
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/maternity_clothes_smallCategory_v1_25.png?v=1763040808",
-            "title": "Maternity Clothes",
-            "onSale": false,
-            "category": "gid://shopify/Collection/448004227306",
->>>>>>> Stashed changes
             "showText": false,
             "isFeatured": false,
             "productType": false,
@@ -1469,74 +1355,6 @@
         "imageBorderStyle": "solid",
         "showShortDescription": true
     }, {
-<<<<<<< Updated upstream
-=======
-        "name": "Time to Play!",
-        "rows": 2,
-        "image": "",
-        "limit": 16,
-        "order": "asc",
-        "layout": "threeColumn",
-        "onSale": false,
-        "columns": 0,
-        "hMargin": 3,
-        "orderby": "menu_order",
-        "vMargin": 8,
-        "category": "gid://shopify/Collection/391525499114",
-        "featured": false,
-        "hPadding": 7,
-        "parallax": false,
-        "vPadding": 0,
-        "boxShadow": {
-            "x": 0,
-            "y": 0,
-            "blurRadius": 10,
-            "colorOpacity": 0.05,
-            "spreadRadius": 20
-        },
-        "hidePrice": false,
-        "hideStore": false,
-        "hideTitle": false,
-        "marginBGP": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-        },
-        "showHeart": false,
-        "titleLine": 2,
-        "cardDesign": "card",
-        "imageRatio": 1,
-        "isSnapping": false,
-        "spaceWidth": 9.30232558139535,
-        "imageBoxfit": "contain",
-        "productType": false,
-        "borderRadius": 3,
-        "enableRating": true,
-        "showCartIcon": true,
-        "showQuantity": false,
-        "showCountDown": false,
-        "showOnlyImage": false,
-        "cartIconRadius": 9,
-        "showCartButton": false,
-        "backgroundColor": "fff8bbd0",
-        "backgroundImage": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/heading_bg.jpg?v=1704916941",
-        "showStockStatus": false,
-        "backgroundBoxFit": "contain",
-        "backgroundHeight": 136,
-        "backgroundRadius": 0,
-        "enableAutoSliding": false,
-        "showCartIconColor": false,
-        "parallaxImageRatio": 1.2,
-        "backgroundWidthMode": true,
-        "durationAutoSliding": 16,
-        "enableBottomAddToCart": false,
-        "productListItemHeight": 120,
-        "hideEmptyProductLayout": false,
-        "hideEmptyProductListRating": false,
-        "showCartButtonWithQuantity": false
-    }, {
->>>>>>> Stashed changes
         "fit": "fitWidth",
         "items": [{
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/babybooks_mobile_section_top_bnr_v1.png?v=1703334624",
