@@ -55,6 +55,15 @@
     }, {
         "fit": "contain",
         "items": [{
+        "name": "Eid Mubarak",
+        "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Eid_ul_Fitr_Mubarak_MOBILE.webp?v=1773899975",
+        "video": "",
+        "category": "gid://shopify/Collection/391525499114",
+        "products": [],
+        "showSubcategory": false,
+        "bannerWithProduct": false,
+        "defaultShowProduct": false
+    },{
             "name": "Toys",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
             "video": "",
