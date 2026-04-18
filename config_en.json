@@ -55,6 +55,15 @@
     }, {
         "fit": "contain",
         "items": [{
+            "name": "Chicco",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ENGLISH-B.jpg?v=1730286669",
+            "video": "",
+            "category": "gid://shopify/Collection/399243837674",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
             "name": "Toys",
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
             "video": "",
@@ -68,15 +77,6 @@
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/frida-baby-4-in-1-grow-with-me-bath-tub_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772727683",
             "video": "",
             "product": "gid://shopify/Product/8194099380458",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "DockAtot_Promo",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/dockatot_deluxe_plus_baby_dock_carrara_marble_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772726587",
-            "video": "",
-            "product": "gid://shopify/Product/8150310125802",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -103,15 +103,6 @@
             "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
             "video": "",
             "category": "gid://shopify/Collection/429282361578",
-            "products": [],
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false
-        }, {
-            "name": "Strollers",
-            "image": "https://mamaapp.co/cdn/shop/files/BabyStrollers_Banner_Mobile_EN.webp?v=1768807054",
-            "video": "",
-            "category": "gid://shopify/Collection/438943252714",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,

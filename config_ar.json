@@ -62,6 +62,15 @@
       "fit": "contain",
       "marginLeft": null,
       "items": [{
+            "name": "Chicco",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ARABIC-B.jpg?v=1730286670",
+            "video": "",
+            "category": "gid://shopify/Collection/399243837674",
+            "products": [],
+            "showSubcategory": false,
+            "bannerWithProduct": false,
+            "defaultShowProduct": false
+        },{
         "name": "Toys",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Toys_Banner_MAR26_Mobile_EN.webp?v=1773485310",
         "video": "",
@@ -82,18 +91,6 @@
             "type": "image",
             "product": "gid://shopify/Product/8194099380458",
             "key": "pTPpRnfDLO"
-        }, {
-            "name": "DockAtot_Promo",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/dockatot_deluxe_plus_baby_dock_carrara_marble_Promotion_Banner_FEB26_Mobile_EN.webp?v=1772726587",
-            "showSubcategory": false,
-            "bannerWithProduct": false,
-            "defaultShowProduct": false,
-            "products": [],
-            "video": "",
-            "productLength": 3,
-            "type": "image",
-            "product": "gid://shopify/Product/8150310125802",
-            "key": "ZSynJPMJyG"
         },{
         "name": "Breast Pumps",
         "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BreastPumps_Banner_FEB26_Mobile_EN.jpg?v=1772254105",
