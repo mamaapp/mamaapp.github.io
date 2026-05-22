@@ -62,10 +62,10 @@
       "fit": "contain",
       "marginLeft": null,
       "items": [{
-            "name": "Chicco",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ARABIC-B.jpg?v=1730286670",
+            "name": "Eid Mubarak Sale",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Eid_ul_adha_Mubarak_MOBILE_EN_SaleBanner_V1.webp",
             "video": "",
-            "category": "gid://shopify/Collection/399243837674",
+            "category": "gid://shopify/Collection/438475981034",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -758,7 +758,18 @@
       "size": 1.0,
       "radius": 5.0,
       "spacing": 12.0,
-      "items": [{
+      "items": [ {
+          "category": "gid://shopify/Collection/429282361578",
+          "image": "https://mamaapp.co/cdn/shop/files/breastpumps_category_bnr_v2_ar.webp?v=1725177624&width=200",
+          "showText": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "title": "Breast Pumps",
+          "onSale": false,
+          "isFeatured": false
+      },{
           "category": "gid://shopify/Collection/429280592106",
           "image": "https://mamaapp.co/cdn/shop/files/breastcare_category_bnr_v2_ar.webp?v=1725177624&width=200",
           "showText": false,
@@ -768,20 +779,41 @@
           "productType": false,
           "onSale": false,
           "isFeatured": false
-      }, {
-          "category": "gid://shopify/Collection/429282361578",
-          "image": "https://mamaapp.co/cdn/shop/files/breastpumps_category_bnr_v2_ar.webp?v=1725177624&width=200",
+      },{
+          "category": "gid://shopify/Collection/429282427114",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milkstoragebags_category_bnr_v2_ar.webp?v=1725177624",
           "showText": false,
           "originalColor": true,
           "keepDefaultTitle": false,
           "showDescription": false,
           "productType": false,
-          "title": "Jeans",
+          "onSale": false,
+          "isFeatured": false
+      }
+    , {
+          "category": "gid://shopify/Collection/391731445994",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Lactation_category_bnr_v2_ar.webp?v=1725177625",
+          "showText": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "isFeatured": false
+      }
+    , {
+          "category": "gid://shopify/Collection/437854470378",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/nursing_pumping_bras_v1_26_ar.webp?v=1779446853",
+          "showText": false,
+          "originalColor": true,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "productType": false,
           "onSale": false,
           "isFeatured": false
       }, {
-          "category": "gid://shopify/Collection/429282427114",
-          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/milkstoragebags_category_bnr_v2_ar.webp?v=1725177624",
+          "category": "gid://shopify/Collection/429752221930",
+          "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/FeedingEssentials_category_bnr_v2_ar.webp?v=1725177624",
           "showText": false,
           "originalColor": true,
           "keepDefaultTitle": false,

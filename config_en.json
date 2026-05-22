@@ -55,10 +55,10 @@
     }, {
         "fit": "contain",
         "items": [{
-            "name": "Chicco",
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/BANNER-11---ENGLISH-B.jpg?v=1730286669",
+            "name": "Eid Mubarak Sale",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/Eid_ul_adha_Mubarak_MOBILE_EN_SaleBanner_V1.webp",
             "video": "",
-            "category": "gid://shopify/Collection/399243837674",
+            "category": "gid://shopify/Collection/438475981034",
             "products": [],
             "showSubcategory": false,
             "bannerWithProduct": false,
@@ -835,10 +835,10 @@
             "showDescription": false,
             "keepDefaultTitle": false
         }, {
-            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/mamapharmacy_category_bnr_v2.webp?v=1720274227",
-            "title": "Mama Pharmacy",
+            "image": "https://cdn.shopify.com/s/files/1/0047/3268/2343/files/nursing_pumping_bras_v1_26.webp?v=1779446424",
+            "title": "Nursing Bras",
             "onSale": false,
-            "category": "gid://shopify/Collection/391732265194",
+            "category": "gid://shopify/Collection/437854470378",
             "showText": false,
             "isFeatured": false,
             "productType": false,
